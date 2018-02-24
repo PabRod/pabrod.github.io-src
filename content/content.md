@@ -1,10 +1,10 @@
-Title: My super title
+Title: Test entry
 Date: 2010-12-03 10:20
-Modified: 2018-02-24 11:13
-Category: Python
+Modified: 2018-02-24 20:19
+Category: Blog
 Tags: pelican, publishing
-Slug: my-super-post
-Authors: Alexis Metaireau, Conan Doyle
-Summary: Short version for index and feeds
+Slug: test-entry
+Authors: Pablo Rodríguez-Sánchez
+Summary: Test blog entry
 
-Example with several tags.
+Example entry.
