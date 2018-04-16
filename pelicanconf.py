@@ -6,6 +6,11 @@ AUTHOR = 'Pablo Rodríguez-Sánchez'
 SITENAME = 'PabRod'
 SITEURL = ''
 SITESUBTITLE = 'Physicist. PhD Student. Science journalist'
+# SITEDESCRIPTION = 'Flex - The minimalist Pelican theme.'
+# SITELOGO = ''
+FAVICON = '/images/favicon.ico'
+BROWSER_COLOR = '#333333'
+PYGMENTS_STYLE = 'monokai'
 
 PATH = 'content'
 
