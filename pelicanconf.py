@@ -20,6 +20,15 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Menu
+USE_FOLDER_AS_CATEGORY = False
+MAIN_MENU = True
+HOME_HIDE_TAGS = True
+
+MENUITEMS = (
+    ('Blog', 'http://fuga.naukas.com/'),
+)
+
 # Blogroll
 # LINKS = (
 #    ('Fuga de cerebros', 'http://fuga.naukas.com/'),
