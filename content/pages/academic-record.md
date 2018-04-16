@@ -7,14 +7,6 @@ Lang: English
 Authors: Pablo Rodríguez-Sánchez
 Summary: All my academic production
 
--   [Secondments](#secondments)
--   [Conferences and workshops](#conferences-and-workshops)
--   [Talks](#talks)
--   [Teaching](#teaching)
--   [Books and book chapters](#books-and-book-chapters)
--   [Science communication activity](#science-communication-activity)
--   [Visited countries](#visited-countries)
-
 Secondments
 -----------
 
