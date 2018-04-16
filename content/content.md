@@ -1,5 +1,5 @@
 Title: Test entry
-Date: 2010-12-03 10:20
+Date: 2018-02-24 20:19
 Modified: 2018-02-24 20:19
 Category: Blog
 Tags: pelican, publishing
