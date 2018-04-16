@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Pablo Rodríguez-Sánchez'
 SITENAME = 'PabRod'
 SITEURL = ''
+SITESUBTITLE = 'Physicist. PhD Student. Science journalist'
 
 PATH = 'content'
 
@@ -20,11 +21,17 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Fuga de cerebros', 'http://fuga.naukas.com/'),)
+# LINKS = (
+#    ('Fuga de cerebros', 'http://fuga.naukas.com/'),
+#)
 
 # Social widget
-SOCIAL = (('Twitter', 'http://twitter.com/DonMostrenco'),
-          ('GitHub', 'https://github.com/PabRod'),)
+SOCIAL = (
+    ('envelope-o', 'mailto:pablo.rodriguez.sanchez@gmail.com'),
+    ('github', 'https://github.com/PabRod'),
+    ('twitter', 'http://twitter.com/DonMostrenco'),
+    ('linkedin', 'https://www.linkedin.com/in/pablo-rodríguez-sánchez-40672658')
+)
 
 DEFAULT_PAGINATION = 10
 
