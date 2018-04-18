@@ -13,12 +13,19 @@ BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
 
 PATH = 'content'
+STATIC_PATHS = ['images', 'pdfs']
+# PAGE_PATHS =
+# ARTICLE_PATHS =
 
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'English'
 
-STATIC_PATHS = ['images', 'pdfs']
+# Extract metadata from filename
+# FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
+
+# Maximum length of automatic summaries
+SUMMARY_MAX_LENGTH = 25 # Only used if summary is not specified
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -28,7 +35,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Menu
-USE_FOLDER_AS_CATEGORY = False
+USE_FOLDER_AS_CATEGORY = False # Maybe change this after deciding folder structure
+DISPLAY_PAGES_ON_MENU = True
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
