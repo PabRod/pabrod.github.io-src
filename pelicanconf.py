@@ -4,13 +4,15 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Pablo Rodríguez-Sánchez'
 SITENAME = 'PabRod'
-SITEURL = ''
+SITEURL = 'https://pabrod.github.io'
 SITESUBTITLE = 'Physicist. PhD Student. Science journalist'
 # SITEDESCRIPTION = 'Flex - The minimalist Pelican theme.'
 # SITELOGO = ''
 FAVICON = '/images/favicon.ico'
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
+
+DELETE_OUTPUT_DIRECTORY = False
 
 PATH = 'content'
 STATIC_PATHS = ['images', 'pdfs']
@@ -28,15 +30,16 @@ DEFAULT_LANG = 'English'
 SUMMARY_MAX_LENGTH = 25 # Only used if summary is not specified
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Menu
-USE_FOLDER_AS_CATEGORY = False # Maybe change this after deciding folder structure
 DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
+USE_FOLDER_AS_CATEGORY = False # Maybe change this after deciding folder structure
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
