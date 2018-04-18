@@ -8,7 +8,9 @@ SITEURL = 'https://pabrod.github.io'
 SITESUBTITLE = 'Physicist. PhD Student. Science journalist'
 # SITEDESCRIPTION = 'Flex - The minimalist Pelican theme.'
 # SITELOGO = ''
+
 FAVICON = '/images/favicon.ico'
+THEME = "themes/flex"
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
 
