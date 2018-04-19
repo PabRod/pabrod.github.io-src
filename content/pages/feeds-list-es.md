@@ -9,10 +9,10 @@ Status: hidden
 Authors: Pablo Rodríguez-Sánchez
 Summary: Enlaces a mis feeds
 
-Puedes suscribirte a mis feeds usando los siguientes enlaces:
+Puedes suscribirte a mis _feeds_ usando los siguientes enlaces:
 
-| Descripción  | Enlace                                |
-|:-------------|:--------------------------------------|
-| Todo         | [aquí](../feeds/all.atom.xml)         |
-| Sólo español | [aquí](../feeds/all-Spanish.atom.xml) |
-| Sólo inglés  | [aquí](../feeds/all-english.atom.xml) |
+| Descripción               | Enlace                                |
+|:--------------------------|:--------------------------------------|
+| Todo el contenido         | [aquí](../feeds/all.atom.xml)         |
+| Sólo contenido en español | [aquí](../feeds/all-Spanish.atom.xml) |
+| Sólo contenido en inglés  | [aquí](../feeds/all-english.atom.xml) |

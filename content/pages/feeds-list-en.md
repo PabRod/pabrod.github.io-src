@@ -12,6 +12,6 @@ Use the following links to subscribe to my atom feeds:
 
 | Description  | Link                                  |
 |:-------------|:--------------------------------------|
-| All          | [here](../feeds/all.atom.xml)         |
+| All content  | [here](../feeds/all.atom.xml)         |
 | English only | [here](../feeds/all-english.atom.xml) |
 | Spanish only | [here](../feeds/all-Spanish.atom.xml) |
