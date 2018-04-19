@@ -62,7 +62,7 @@ SOCIAL = (
     ('twitter', 'http://twitter.com/DonMostrenco'),
     ('instagram', 'https://instagram.com/pablo.rodriguez.sanchez/'),
     ('linkedin', 'https://www.linkedin.com/in/pablo-rodríguez-sánchez-40672658'),
-    ('rss', 'https://pabrod.github.io/feeds/all.atom.xml')
+    ('rss', SITEURL + '/pages/feeds-list-English.html')
 )
 
 DEFAULT_PAGINATION = 10
