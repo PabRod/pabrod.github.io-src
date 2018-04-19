@@ -7,4 +7,10 @@ Slug: test-entry
 Authors: Pablo Rodríguez-Sánchez
 Summary: Test blog entry
 
-Example entry.
+Example entry, with test image.
+
+![Image test 1]({filename}images/00-test.png)
+
+Another way of linking images:
+
+![Image test 2](images/00-test.png)
