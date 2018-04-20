@@ -5,8 +5,8 @@ Tags: info
 Slug: sci-comm
 Lang: English
 Authors: Pablo Rodríguez-Sánchez
-Summary: Activities related with science communication
-Modified: 04/20/2018, 09:51:11
+Summary: Activities and publications related with science communication
+Modified: 04/20/2018, 17:02:49
 
 Teaching
 --------
