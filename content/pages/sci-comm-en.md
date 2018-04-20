@@ -6,7 +6,7 @@ Slug: sci-comm
 Lang: English
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities related with science communication
-Modified: 04/20/2018, 09:23:05
+Modified: 04/20/2018, 09:51:11
 
 Teaching
 --------
@@ -105,12 +105,6 @@ Books and book chapters
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td align="left">2018-04-09</td>
-<td align="left">Tipping points, zo werken we!</td>
-<td align="left">NESSC</td>
-<td align="left">Dutch</td>
-</tr>
 </tbody>
 </table>
 
