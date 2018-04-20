@@ -1,17 +1,18 @@
-Title: Scientific communication
+Title: Comunicación científica
 Date: 4/12/2018, 11:15:11 AM
 Category: About-me
 Tags: info
 Slug: sci-comm
-Lang: English
+Lang: Spanish
+Translation: True
 Authors: Pablo Rodríguez-Sánchez
-Summary: Activities and publications related with science communication
-Modified: 04/20/2018, 17:22:21
+Summary: Actividades y publicaciones relacionadas con la comunicación científica
+Modified: 04/20/2018, 17:22:23
 
-Teaching
+Docencia
 --------
 
-I've been involved in the teaching of 7 courses:
+He participado en la docencia de 7 cursos:
 
 <table style="width:100%;">
 <colgroup>
@@ -92,8 +93,8 @@ I've been involved in the teaching of 7 courses:
 </tbody>
 </table>
 
-Books and book chapters
------------------------
+Libros y capítulos de libros
+----------------------------
 
 <table>
 <thead>
@@ -108,13 +109,13 @@ Books and book chapters
 </tbody>
 </table>
 
-Science communication activity
-------------------------------
+Publicaciones de divulgación científica
+---------------------------------------
 
-Up to date, I've published 80 science communication essays: 3 in
-English, and 77 in Spanish.
+A día de hoy, he publicado 80 artículos breves sobre comunicación
+científica: 3 de ellos en inglés, y 77 en español.
 
-Science communication publications in English:
+Divulgación científica en inglés:
 
 <table>
 <colgroup>
@@ -148,7 +149,7 @@ Science communication publications in English:
 </tbody>
 </table>
 
-Science communication publications in Spanish:
+Divulgación científica en español:
 
 <table>
 <colgroup>
