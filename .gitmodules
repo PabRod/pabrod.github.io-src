@@ -4,3 +4,6 @@
 [submodule "themes/flex"]
 	path = themes/flex
 	url = git@github.com:PabRod/Flex.git
+[submodule "auxs\\auto-reports"]
+	path = auxs\\auto-reports
+	url = git@github.com:PabRod/academic-record.git
