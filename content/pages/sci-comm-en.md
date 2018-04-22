@@ -6,115 +6,12 @@ Slug: sci-comm
 Lang: English
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 04/20/2018, 17:22:21
-
-Teaching
---------
-
-I've been involved in the teaching of 7 courses:
-
-<table style="width:100%;">
-<colgroup>
-<col width="8%" />
-<col width="8%" />
-<col width="33%" />
-<col width="14%" />
-<col width="26%" />
-<col width="7%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Date</th>
-<th align="left">End.date</th>
-<th align="left">Name</th>
-<th align="left">Role</th>
-<th align="left">Institution</th>
-<th align="left">Language</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">2017-11-03</td>
-<td align="left">2017-12-01</td>
-<td align="left">Theoretical ecology</td>
-<td align="left">Teaching assistant</td>
-<td align="left">WUR</td>
-<td align="left">English</td>
-</tr>
-<tr class="even">
-<td align="left">2017-05-18</td>
-<td align="left"></td>
-<td align="left">An introduction to Git and GitHub</td>
-<td align="left">Teacher</td>
-<td align="left">WUR</td>
-<td align="left">English</td>
-</tr>
-<tr class="odd">
-<td align="left">2017-05-11</td>
-<td align="left"></td>
-<td align="left">An introduction to Unit Testing with Matlab</td>
-<td align="left">Teacher</td>
-<td align="left">WUR</td>
-<td align="left">English</td>
-</tr>
-<tr class="even">
-<td align="left">2016-11-04</td>
-<td align="left">2016-12-02</td>
-<td align="left">Ecology, classics and trends</td>
-<td align="left">Teaching assistant</td>
-<td align="left">WUR</td>
-<td align="left">English</td>
-</tr>
-<tr class="odd">
-<td align="left">2013-10-31</td>
-<td align="left">2013-11-07</td>
-<td align="left">Introduction to object oriented programming</td>
-<td align="left">Teacher</td>
-<td align="left">Indizen Optical Technologies</td>
-<td align="left">Spanish</td>
-</tr>
-<tr class="even">
-<td align="left">2009-03-01</td>
-<td align="left">2009-07-01</td>
-<td align="left">Electromagnetism</td>
-<td align="left">Teaching assistant</td>
-<td align="left">Universidad Complutense de Madrid</td>
-<td align="left">Spanish</td>
-</tr>
-<tr class="odd">
-<td align="left">2007-10-01</td>
-<td align="left">2008-02-01</td>
-<td align="left">Calculus</td>
-<td align="left">Teaching assistant</td>
-<td align="left">Universidad Complutense de Madrid</td>
-<td align="left">Spanish</td>
-</tr>
-</tbody>
-</table>
-
-Books and book chapters
------------------------
-
-<table>
-<thead>
-<tr class="header">
-<th align="left">Date</th>
-<th align="left">Name</th>
-<th align="left">Institution</th>
-<th align="left">Language</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-Science communication activity
-------------------------------
+Modified: 04/22/2018, 12:36:01
 
 Up to date, I've published 80 science communication essays: 3 in
 English, and 77 in Spanish.
 
-Science communication publications in English:
+### Science communication publications in English
 
 <table>
 <colgroup>
@@ -148,7 +45,7 @@ Science communication publications in English:
 </tbody>
 </table>
 
-Science communication publications in Spanish:
+### Science communication publications in Spanish
 
 <table>
 <colgroup>

@@ -7,115 +7,12 @@ Lang: Spanish
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 04/20/2018, 17:22:23
-
-Docencia
---------
-
-He participado en la docencia de 7 cursos:
-
-<table style="width:100%;">
-<colgroup>
-<col width="8%" />
-<col width="8%" />
-<col width="33%" />
-<col width="14%" />
-<col width="26%" />
-<col width="7%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Date</th>
-<th align="left">End.date</th>
-<th align="left">Name</th>
-<th align="left">Role</th>
-<th align="left">Institution</th>
-<th align="left">Language</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">2017-11-03</td>
-<td align="left">2017-12-01</td>
-<td align="left">Theoretical ecology</td>
-<td align="left">Teaching assistant</td>
-<td align="left">WUR</td>
-<td align="left">English</td>
-</tr>
-<tr class="even">
-<td align="left">2017-05-18</td>
-<td align="left"></td>
-<td align="left">An introduction to Git and GitHub</td>
-<td align="left">Teacher</td>
-<td align="left">WUR</td>
-<td align="left">English</td>
-</tr>
-<tr class="odd">
-<td align="left">2017-05-11</td>
-<td align="left"></td>
-<td align="left">An introduction to Unit Testing with Matlab</td>
-<td align="left">Teacher</td>
-<td align="left">WUR</td>
-<td align="left">English</td>
-</tr>
-<tr class="even">
-<td align="left">2016-11-04</td>
-<td align="left">2016-12-02</td>
-<td align="left">Ecology, classics and trends</td>
-<td align="left">Teaching assistant</td>
-<td align="left">WUR</td>
-<td align="left">English</td>
-</tr>
-<tr class="odd">
-<td align="left">2013-10-31</td>
-<td align="left">2013-11-07</td>
-<td align="left">Introduction to object oriented programming</td>
-<td align="left">Teacher</td>
-<td align="left">Indizen Optical Technologies</td>
-<td align="left">Spanish</td>
-</tr>
-<tr class="even">
-<td align="left">2009-03-01</td>
-<td align="left">2009-07-01</td>
-<td align="left">Electromagnetism</td>
-<td align="left">Teaching assistant</td>
-<td align="left">Universidad Complutense de Madrid</td>
-<td align="left">Spanish</td>
-</tr>
-<tr class="odd">
-<td align="left">2007-10-01</td>
-<td align="left">2008-02-01</td>
-<td align="left">Calculus</td>
-<td align="left">Teaching assistant</td>
-<td align="left">Universidad Complutense de Madrid</td>
-<td align="left">Spanish</td>
-</tr>
-</tbody>
-</table>
-
-Libros y capítulos de libros
-----------------------------
-
-<table>
-<thead>
-<tr class="header">
-<th align="left">Date</th>
-<th align="left">Name</th>
-<th align="left">Institution</th>
-<th align="left">Language</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-Publicaciones de divulgación científica
----------------------------------------
+Modified: 04/22/2018, 12:36:08
 
 A día de hoy, he publicado 80 artículos breves sobre comunicación
 científica: 3 de ellos en inglés, y 77 en español.
 
-Divulgación científica en inglés:
+### Divulgación científica en inglés
 
 <table>
 <colgroup>
@@ -149,7 +46,7 @@ Divulgación científica en inglés:
 </tbody>
 </table>
 
-Divulgación científica en español:
+### Divulgación científica en español
 
 <table>
 <colgroup>
