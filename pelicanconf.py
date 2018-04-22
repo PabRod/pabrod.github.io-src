@@ -7,7 +7,7 @@ SITENAME = 'PabRod'
 SITEURL = 'https://pabrod.github.io'
 SITESUBTITLE = 'Physicist. PhD Student. Science storyteller'
 # SITEDESCRIPTION = 'Flex - The minimalist Pelican theme.'
-# SITELOGO = ''
+SITELOGO = '/images/profile.png'
 
 FAVICON = '/images/favicon.ico'
 THEME = "themes/flex"
