@@ -7,10 +7,10 @@ Translation: True
 Tags: about
 Slug: welcome
 Authors: Pablo Rodríguez-Sánchez
-Summary: Bienvenida
+Summary: Motivación y temática del blog
 Comments: True
 
-Aunque hace tiempo que tengo una página personal en Google Sites, lo cierto es que me cansé de actualizarla. El principal motivo es que era una tarea demasiado manual, que me obligaba a actualizar la misma pieza de información en varios lugares distintos. La virtud de la pereza, que bien entendida es la madre de la programación y la automatización, me llevó a investigar otras posibilidades. En particular, buscaba algo que se integrase bien con [knitr](https://yihui.name/knitr/). Gracias al blog [Will do stuff for stuff](https://rinzewind.org/blog-en/) descubrí [Pelican](https://blog.getpelican.com), que permite generar sitios web a partir de archivos locales con cierta agilidad.
+Aunque hace tiempo que tengo [una página personal](https://sites.google.com/site/pablorodriguezsanchez/) en Google Sites, lo cierto es que me cansé de actualizarla. El principal motivo es que era una tarea demasiado manual, que me obligaba a actualizar la misma pieza de información en varios lugares distintos. La virtud de la pereza, que bien entendida es la madre de la programación y la automatización, me llevó a investigar otras posibilidades. En particular, buscaba algo que se integrase bien con [knitr](https://yihui.name/knitr/). Gracias al blog [Will do stuff for stuff](https://rinzewind.org/blog-en/) descubrí [Pelican](https://blog.getpelican.com), que permite generar sitios web a partir de archivos locales con cierta agilidad.
 
 Los dos principales problemas a los que me enfrento al abrir esta web son:
 

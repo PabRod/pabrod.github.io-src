@@ -6,10 +6,10 @@ Lang: English
 Tags: about
 Slug: welcome
 Authors: Pablo Rodríguez-Sánchez
-Summary: Welcome
+Summary: Description of the motivations and topic of this blog
 Comments: True
 
-Despite I have a personal webpage in Google Sites since some years ago, I got tired of updating it. The main reason is that it was an extremely manual task, that forced me to copypaste the same pieces of information in several places. The virtue of lazyness, when well understood, is the mother of programming and automation, so I started exploring other possibilities. In particular, I wanted something that could be well integrated with [knitr](https://yihui.name/knitr/). Thanks to the blog [Will do stuff for stuff](https://rinzewind.org/blog-en/) I discovered [Pelican](https://blog.getpelican.com), that allows to create websites from local files in a relatively easy way.
+Despite I have [a personal webpage](https://sites.google.com/site/pablorodriguezsanchez/) in Google Sites since some years ago, I got tired of updating it. The main reason is that it was an extremely manual task, that forced me to copypaste the same pieces of information in several places. The virtue of lazyness, when well understood, is the mother of programming and automation, so I started exploring other possibilities. In particular, I wanted something that could be well integrated with [knitr](https://yihui.name/knitr/). Thanks to the blog [Will do stuff for stuff](https://rinzewind.org/blog-en/) I discovered [Pelican](https://blog.getpelican.com), that allows to create websites from local files in a relatively easy way.
 
 The two main problems I face at the early days of this new website are:
 
