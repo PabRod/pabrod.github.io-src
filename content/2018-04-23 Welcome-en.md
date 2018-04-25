@@ -2,7 +2,7 @@ Title: Welcome
 Date: 4/23/2018, 12:24:00 PM
 Modified: 4/23/2018, 12:24:00 PM
 Category: Blog
-Lang: English
+Lang: en
 Tags: about
 Slug: welcome
 Authors: Pablo Rodríguez-Sánchez

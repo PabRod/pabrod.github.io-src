@@ -3,7 +3,7 @@ Date: 4/13/2018, 11:21:19 AM
 Category: About-me
 Tags: info
 Slug: academic-record
-Lang: English
+Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: All my academic production
 

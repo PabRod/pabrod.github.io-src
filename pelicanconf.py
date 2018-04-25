@@ -66,7 +66,7 @@ SOCIAL = (
     ('twitter', 'http://twitter.com/DonMostrenco'),
     ('instagram', 'https://instagram.com/pablo.rodriguez.sanchez/'),
     ('linkedin', 'https://www.linkedin.com/in/pablo-rodríguez-sánchez-40672658'),
-    ('rss', SITEURL + '/pages/feeds-list-English.html')
+    ('rss', SITEURL + '/pages/feeds-list-en.html')
 )
 
 DEFAULT_PAGINATION = 10

@@ -4,7 +4,7 @@ Modified: 4/22/2018, 6:47:21 PM
 Category: Bio
 Tags: info
 Slug: bio
-Lang: Spanish
+Lang: es
 Translation: true
 Authors: Pablo Rodríguez-Sánchez
 Summary: Una breve biografía
@@ -12,7 +12,7 @@ Summary: Una breve biografía
 ## Primeros años (1984-2002)
 Nací en 1984, en la pequeña ciudad española de Guadalajara, situada 50 km al noroeste de Madrid. Allí cursé mis estudios secundarios entre 1998 y 2002.
 
-Como la mayoría de las infancia felices, la mía carece de interés narrativo.
+Como la mayoría de las infancias felices, la mía carece de interés narrativo.
 
 ## Los años de la física (2002-2012)
 En 2002 comienzo a estudiar física en la _Universidad Complutense de Madrid_, a la vez que vivo y trabajo como profesor particular de matemáticas en Guadalajara. La distancia entre mi casa y la facultad supuso dedicar más de 3 horas diarias a viajar en transporte público. Debido a estos viajes diarios, y a mi trabajo, me vi obligado a cursar mis estudios en régimen de media jornada, graduándome más despacio de lo que hubiese deseado.

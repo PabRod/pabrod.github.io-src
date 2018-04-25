@@ -4,7 +4,7 @@ Modified: 4/16/2018, 2:30:40 PM
 Category: About-me
 Tags: info
 Slug: about-me
-Lang: Spanish
+Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: About me

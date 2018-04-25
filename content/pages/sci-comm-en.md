@@ -3,7 +3,7 @@ Date: 4/12/2018, 11:15:11 AM
 Category: About-me
 Tags: info
 Slug: sci-comm
-Lang: English
+Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
 Modified: 04/25/2018, 11:59:57
