@@ -7,12 +7,82 @@ Lang: Spanish
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 04/22/2018, 12:36:08
+Modified: 04/25/2018, 12:00:02
 
-A día de hoy, he publicado 80 artículos breves sobre comunicación
-científica: 3 de ellos en inglés, y 77 en español.
+A día de hoy he dado 8 charlas para público general. Además, he
+publicado 80 artículos breves sobre comunicación científica: 3 de ellos
+en inglés, y 77 en español.
 
-### Divulgación científica en inglés
+### Charlas
+
+<table style="width:100%;">
+<colgroup>
+<col width="5%" />
+<col width="73%" />
+<col width="16%" />
+<col width="4%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Date</th>
+<th align="left">NameURL</th>
+<th align="left">Institution</th>
+<th align="left">Language</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2017-09-16</td>
+<td align="left"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/5084298/video-naukas-bilbao-2017-pablo-rodriguez-como-cabrear-matematico/">¿Cómo cabrear a un matemático?</a></td>
+<td align="left">Naukas</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="even">
+<td align="left">2016-09-30</td>
+<td align="left"><a href="http://dipc.tv/bideoa.php?lang=es&amp;idbideoa=587&amp;idkategoria=0">Relojes rebeldes</a></td>
+<td align="left">Naukas</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="odd">
+<td align="left">2016-09-17</td>
+<td align="left">Naukas, el musical</td>
+<td align="left">Naukas</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="even">
+<td align="left">2016-09-17</td>
+<td align="left"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/4393314/naukas-bilbao-2016--pablo-rodriguez/">De profesión, futurólogo</a></td>
+<td align="left">Naukas</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="odd">
+<td align="left">2015-09-11</td>
+<td align="left"><a href="http://www.eitb.tv/es/video/naukas-bilbao--2015/4460683431001/4486145172001/pablo-rodriguez--caprichos-del-azar/">Caprichos del azar</a></td>
+<td align="left">Naukas</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="even">
+<td align="left">2014-09-26</td>
+<td align="left"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/2594702/video-naukas-bilbao-2014pablo-rodriguez-ha-ofrecido-charla-/">Navegación astronómica</a></td>
+<td align="left">Naukas</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="odd">
+<td align="left">2013-10-01</td>
+<td align="left"><a href="https://www.youtube.com/watch?v=7WRRfW0Yz2o">Moléculas en el espejo</a></td>
+<td align="left">Donostia International Physics Center</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="even">
+<td align="left">2013-09-27</td>
+<td align="left"><a href="http://naukas.com/2014/02/18/naukas13-pablo-rodriguez-duros-de-la-ciencia/">Duros de la ciencia</a></td>
+<td align="left">Naukas</td>
+<td align="left">Spanish</td>
+</tr>
+</tbody>
+</table>
+
+### Artículos de divulgación científica en inglés
 
 <table>
 <colgroup>
@@ -46,7 +116,7 @@ científica: 3 de ellos en inglés, y 77 en español.
 </tbody>
 </table>
 
-### Divulgación científica en español
+### Artículos de divulgación científica en español
 
 <table>
 <colgroup>
