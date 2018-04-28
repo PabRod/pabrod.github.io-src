@@ -1,4 +1,4 @@
-Title: Scientific communication
+Title: Dissemination
 Date: 4/12/2018, 11:15:11 AM
 Category: About-me
 Tags: info
@@ -6,7 +6,7 @@ Slug: sci-comm
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 04/25/2018, 11:59:57
+Modified: 04/28/2018, 16:45:31
 
 Up to date, I've given 8 talks for a general audience. Additionally,
 I've published 80 science communication essays: 3 in English, and 77 in
