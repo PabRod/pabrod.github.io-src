@@ -7,11 +7,11 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 05/01/2018, 15:37:28
+Modified: 05/01/2018, 16:45:07
 
 A día de hoy he dado 8 charlas para público general. Además, he
-publicado 80 artículos breves sobre comunicación científica: 3 de ellos
-en inglés, y 77 en español.
+publicado 79 artículos breves sobre comunicación científica: 3 de ellos
+en inglés, y 76 en español.
 
 ### Charlas
 
@@ -273,246 +273,241 @@ en inglés, y 77 en español.
 <td align="left">Next Door</td>
 </tr>
 <tr class="odd">
-<td align="left">2015-11-04</td>
-<td align="left"><a href="http://www.nextdoorpublishers.com/2015/11/pablo-rodriguez-sanchez-responde-nuestro-talk-10/">Talk 10</a></td>
-<td align="left">Next Door</td>
-</tr>
-<tr class="even">
 <td align="left">2015-11-03</td>
 <td align="left"><a href="http://fuga.naukas.com/2015/11/03/cocodrilo-o-foton/">¿Cocodrilo o fotón?</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-10-29</td>
 <td align="left"><a href="http://fuga.naukas.com/2015/10/29/multidisciplinar/">Multidisciplinar</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-07-10</td>
 <td align="left"><a href="http://naukas.com/2015/07/10/10-julio-1522-jueves-fue-miercoles/">10 de Julio de 1522, el jueves que fue miércoles</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-07-07</td>
 <td align="left"><a href="http://vozpopuli.com/next/62344-la-luz-en-nuestros-ojos">La luz en nuestros ojos</a></td>
 <td align="left">Vozpópuli</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-06-08</td>
 <td align="left"><a href="http://naukas.com/2015/06/08/se-acerca-la-selectividad-consejos-futuros-estudiantes-universitarios/">Consejos para futuros estudiantes universitarios</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-05-26</td>
 <td align="left"><a href="http://naukas.com/2015/05/26/pactos-postelectorales-teoria-conjuntos/">Pactos postelectorales y teoría de conjuntos</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-04-28</td>
 <td align="left"><a href="http://naukas.com/2015/04/28/un-truco-con-gafas/">Un truco con gafas</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-03-31</td>
 <td align="left"><a href="http://naukas.com/2015/03/31/una-gota-de-escepticismo-en-moby-dick/">Una gota de escepticismo en Moby Dick</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-03-10</td>
 <td align="left"><a href="http://naukas.com/2015/03/10/distancias-relativas/">Distancias relativas</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-02-22</td>
 <td align="left"><a href="http://naukas.com/2015/02/22/la-pregunta-naukas-2015-pablo-rodriguez/">Pregunta Naukas 2015</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-01-20</td>
 <td align="left"><a href="http://naukas.com/2015/01/20/es-peligroso-mirar-la-television-de-cerca/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=es-peligroso-mirar-la-television-de-cerca">¿Es peligroso mirar la televisión de cerca?</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-01-07</td>
 <td align="left"><a href="http://naukas.com/2015/01/07/derivadas-hasta-en-el-paro/">Derivadas hasta en el paro</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-12-31</td>
 <td align="left"><a href="http://naukas.com/2014/12/31/cuantas-vueltas-da-la-tierra-en-un-ano/">¿Cuántas vueltas da la Tierra en un año?</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-11-28</td>
 <td align="left"><a href="http://culturacientifica.com/2014/11/28/el-peso-de-la-mediocridad/">El peso de la mediocridad</a></td>
 <td align="left">CCC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-11-17</td>
 <td align="left"><a href="http://naukas.com/2014/11/17/experimento-naukas-misterio-al-abrir-el-grifo/">Experimento Naukas: misterio al abrir el grifo</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-11-05</td>
 <td align="left"><a href="http://naukas.com/2014/11/05/la-sonrisa-del-gorila/">La sonrisa del gorila</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-09-22</td>
 <td align="left"><a href="http://naukas.com/2014/09/22/experimento-naukas-estroboscopio-casero/">Experimento Naukas: estroboscopio casero</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-09-16</td>
 <td align="left"><a href="http://naukas.com/2014/09/16/un-acertijo-bebes-y-probabilidad/">Un acertijo: bebés y probabilidad</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-09-12</td>
 <td align="left"><a href="http://culturacientifica.com/2014/09/12/matematicas-y-malabares/">Matemáticas y malabares</a></td>
 <td align="left">CCC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-09-06</td>
 <td align="left"><a href="http://naukas.com/2014/09/06/preocupaciones/">Preocupaciones</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-07-16</td>
 <td align="left"><a href="http://naukas.com/2014/07/16/tv-jamming-el-incidente-max-headroom/">TV jamming, el incidente Max Headroom</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-05-23</td>
 <td align="left"><a href="http://naukas.com/2014/05/23/mama-quiero-ser-diexista/">Mamá, quiero ser diexista</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-05-19</td>
 <td align="left"><a href="http://naukas.com/2014/05/19/la-fisica-de-un-globo-en-un-coche/">La física de un globo en un coche</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-05-08</td>
 <td align="left"><a href="http://naukas.com/2014/05/08/experimento-naukas-camara-oscura/">Experimento Naukas: Cámara oscura</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-03-08</td>
 <td align="left"><a href="http://naukas.com/2014/03/08/la-pregunta-naukas-2014-inaki-ucar-y-pablo-rodriguez/">La pregunta Naukas 2014</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-02-11</td>
 <td align="left"><a href="http://naukas.com/2014/02/11/fisica-de-una-hostia/">Física de una hostia</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-01-23</td>
 <td align="left"><a href="http://naukas.com/2014/01/23/mirando-al-horizonte/">Mirando al horizonte</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-12-17</td>
 <td align="left"><a href="http://naukas.com/2013/12/17/experimento-naukas-3d-low-cost/">Experimento Naukas: 3D low cost</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-12-11</td>
 <td align="left"><a href="http://naukas.com/2013/12/11/el-mejor-argumento-para-jugar-la-loteria/">El mejor argumento para no jugar a la lotería</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-11-29</td>
 <td align="left"><a href="http://naukas.com/2013/11/29/experimento-naukas-las-gafas-mas-baratas-del-mundo/">Experimento Naukas: las gafas más baratas del mundo</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-11-15</td>
 <td align="left"><a href="http://culturacientifica.com/2013/11/15/un-extrano-juego-de-dados/">Un extraño juego de dados</a></td>
 <td align="left">CCC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-11-11</td>
 <td align="left"><a href="http://naukas.com/2013/11/11/experimento-naukas-ver-los-infrarrojos/">Experimento Naukas: ver los infrarrojos</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-10-15</td>
 <td align="left"><a href="http://naukas.com/2013/10/15/espana-esta-que-se-sale-el-meridiano-y-la-hora-oficial/">España está que se sale: el meridiano y la hora oficial</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-09-24</td>
 <td align="left"><a href="http://naukas.com/2013/09/24/reduccionismo-agresivo/">Reduccionismo agresivo</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-09-06</td>
 <td align="left"><a href="http://culturacientifica.com/2013/09/06/el-poder-de-una-idea-sencilla/">El poder de una idea sencilla</a></td>
 <td align="left">CCC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-08-29</td>
 <td align="left"><a href="http://naukas.com/2013/08/28/el-misterio-del-aliasing-callejero/">El misterio del aliasing callejero</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-07-31</td>
 <td align="left"><a href="http://naukas.com/2013/07/31/brevisima-historia-de-los-numeros-iii-nos-quedamos-sin-numeros/">Brevísima historia de los números III</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-07-30</td>
 <td align="left"><a href="http://naukas.com/2013/07/30/brevisima-historia-de-los-numeros-ii-una-palabra-para-cada-numero/">Brevísima historia de los números II</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-07-29</td>
 <td align="left"><a href="http://naukas.com/2013/07/29/como-se-escriben-los-numeros/">Brevísima historia de los números I</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-07-03</td>
 <td align="left"><a href="http://naukas.com/2013/07/03/una-anecdota-de-ciencia-y-democracia/">Una anécdota de ciencia y democracia</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-06-06</td>
 <td align="left"><a href="http://naukas.com/2013/06/06/las-matematicas-de-la-estupidez/">Las matemáticas de la estupidez</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-04-01</td>
 <td align="left"><a href="http://naukas.com/2013/04/01/el-meteorito-y-los-jamones/">El meteorito y los jamones</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2012-08-23</td>
 <td align="left"><a href="http://naukas.com/2012/08/23/vea-la-estacion-espacial-desde-su-propia-casa/">Vea la estación espacial desde su propia casa</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2012-02-29</td>
 <td align="left"><a href="http://naukas.com/2012/02/29/calculando-pi-con-gotas-de-lluvia/">Calculando pi con gotas de lluvia</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2011-12-01</td>
 <td align="left"><a href="http://naukas.com/2011/12/01/tycho-brahe-erudito-y-macarra/">Tycho Brahe, erudito y macarra</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2011-10-31</td>
 <td align="left"><a href="http://naukas.com/2011/10/31/es-anti-intuitiva-la-teoria-de-la-relatividad/">¿Es anti-intuitiva la teoría de la relatividad?</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2011-10-29</td>
 <td align="left"><a href="http://naukas.com/2011/10/29/sobre-el-cambio-de-hora-de-hoy/">Sobre el cambio de hora de hoy</a></td>
 <td align="left">Naukas</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2011-10-18</td>
 <td align="left"><a href="http://naukas.com/2011/10/18/observando-satelites-artificiales/">Observando satélites artificiales</a></td>
 <td align="left">Naukas</td>
@@ -522,13 +517,13 @@ en inglés, y 77 en español.
 
 ### Otros
 
-<table>
+<table style="width:100%;">
 <colgroup>
 <col width="5%" />
-<col width="72%" />
-<col width="5%" />
-<col width="6%" />
-<col width="5%" />
+<col width="66%" />
+<col width="4%" />
+<col width="9%" />
+<col width="10%" />
 <col width="4%" />
 </colgroup>
 <thead>
@@ -543,6 +538,14 @@ en inglés, y 77 en español.
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2017-05-26</td>
+<td align="left"><a href="http://institucional.us.es/blogimus/2017/05/que-suerte-han-tenido-los-holandeses/">Qué suerte han tenido los holandeses</a></td>
+<td align="left">Interview</td>
+<td align="left">Interviewee</td>
+<td align="left">Universidad de Sevilla</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="even">
 <td align="left">2017-03-16</td>
 <td align="left"><a href="https://www.vozpopuli.com/altavoz/next/cientificos-exiliados-quieren-marca-Espana_0_1008499411.html">Los científicos exiliados no quieren ser marca España</a></td>
 <td align="left">Interview</td>
@@ -550,7 +553,23 @@ en inglés, y 77 en español.
 <td align="left">Vozpópuli</td>
 <td align="left">Spanish</td>
 </tr>
+<tr class="odd">
+<td align="left">2015-12-07</td>
+<td align="left">Órbita Laika</td>
+<td align="left">TV</td>
+<td align="left">Informal collaborator</td>
+<td align="left">Televisión Española</td>
+<td align="left">Spanish</td>
+</tr>
 <tr class="even">
+<td align="left">2015-11-04</td>
+<td align="left"><a href="http://www.nextdoorpublishers.com/2015/11/pablo-rodriguez-sanchez-responde-nuestro-talk-10/">Talk 10</a></td>
+<td align="left">Interview</td>
+<td align="left">Interviewee</td>
+<td align="left">Next Door</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="odd">
 <td align="left">2014-02-17</td>
 <td align="left"><a href="http://catastrofeultravioleta.com/03-interferencias/">Catástrofe Ultravioleta #3 Interferencias</a></td>
 <td align="left">Podcast</td>
