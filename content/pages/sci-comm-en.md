@@ -6,7 +6,7 @@ Slug: sci-comm
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 04/28/2018, 16:45:31
+Modified: 05/01/2018, 15:37:22
 
 Up to date, I've given 8 talks for a general audience. Additionally,
 I've published 80 science communication essays: 3 in English, and 77 in
@@ -515,6 +515,47 @@ Spanish.
 <td align="left">2011-10-18</td>
 <td align="left"><a href="http://naukas.com/2011/10/18/observando-satelites-artificiales/">Observando satélites artificiales</a></td>
 <td align="left">Naukas</td>
+</tr>
+</tbody>
+</table>
+
+### Others
+
+<table>
+<colgroup>
+<col width="5%" />
+<col width="72%" />
+<col width="5%" />
+<col width="6%" />
+<col width="5%" />
+<col width="4%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Date</th>
+<th align="left">NameURL</th>
+<th align="left">Type</th>
+<th align="left">Role</th>
+<th align="left">Institution</th>
+<th align="left">Language</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2017-03-16</td>
+<td align="left"><a href="https://www.vozpopuli.com/altavoz/next/cientificos-exiliados-quieren-marca-Espana_0_1008499411.html">Los científicos exiliados no quieren ser marca España</a></td>
+<td align="left">Interview</td>
+<td align="left">Interviewee</td>
+<td align="left">Vozpópuli</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="even">
+<td align="left">2014-02-17</td>
+<td align="left"><a href="http://catastrofeultravioleta.com/03-interferencias/">Catástrofe Ultravioleta #3 Interferencias</a></td>
+<td align="left">Podcast</td>
+<td align="left">Collaborator</td>
+<td align="left">Naukas</td>
+<td align="left">Spanish</td>
 </tr>
 </tbody>
 </table>
