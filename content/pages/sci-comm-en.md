@@ -6,10 +6,10 @@ Slug: sci-comm
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 05/01/2018, 16:45:03
+Modified: 05/02/2018, 13:03:23
 
 Up to date, I've given 8 talks for a general audience. Additionally,
-I've published 79 science communication essays: 3 in English, and 76 in
+I've published 80 science communication essays: 4 in English, and 76 in
 Spanish.
 
 ### Talks
@@ -98,16 +98,21 @@ Spanish.
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2018-05-01</td>
+<td align="left"><a href="https://pabrod.github.io/elevator-en.html">There's a nerd in my elevator!</a></td>
+<td align="left">Personal page</td>
+</tr>
+<tr class="even">
 <td align="left">2016-05-09</td>
 <td align="left"><a href="https://mappingignorance.org/2016/05/09/the-sound-of-chaos/">The sound of chaos</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-07-20</td>
 <td align="left"><a href="http://mappingignorance.org/2015/07/20/the-math-of-sex-and-hunger-a-short-history-of-population-dynamics/">The math of sex and hunger</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-05-15</td>
 <td align="left"><a href="http://mappingignorance.org/2015/05/15/from-gas-to-cash-the-unexpected-applications-of-statistical-mechanics/">From gas to cash. The unexpected applications of statistical mechanics</a></td>
 <td align="left">Mapping ignorance</td>
