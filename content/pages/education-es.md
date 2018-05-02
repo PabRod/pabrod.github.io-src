@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 05/02/2018, 13:03:41
+Modified: 05/02/2018, 14:34:40
 
 Estudios reglados
 -----------------
@@ -262,7 +262,7 @@ He participado en 18 conferencias, congresos y talleres:
 Charlas
 -------
 
-He dado 16 charlas:
+He dado 17 charlas:
 
 <table style="width:100%;">
 <colgroup>
@@ -353,41 +353,48 @@ He dado 16 charlas:
 <td align="left">Spanish</td>
 </tr>
 <tr class="odd">
+<td align="left">2016-09-05</td>
+<td align="left">Noise in a double-well potential</td>
+<td align="left">Seminar</td>
+<td align="left">Niels Bohr Institute</td>
+<td align="left">English</td>
+</tr>
+<tr class="even">
 <td align="left">2015-11-19</td>
 <td align="left">A molecule in the mirror</td>
 <td align="left">Seminar</td>
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-09-11</td>
 <td align="left"><a href="http://www.eitb.tv/es/video/naukas-bilbao--2015/4460683431001/4486145172001/pablo-rodriguez--caprichos-del-azar/">Caprichos del azar</a></td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-12-10</td>
 <td align="left"><a href="http://eliatron.blogspot.be/2014/12/DonMostrenco.html">Astronomía, la tatarabuela de las ciencias exactas</a></td>
 <td align="left">Seminar</td>
 <td align="left">Universidad de Sevilla</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-09-26</td>
 <td align="left"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/2594702/video-naukas-bilbao-2014pablo-rodriguez-ha-ofrecido-charla-/">Navegación astronómica</a></td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-10-01</td>
 <td align="left"><a href="https://www.youtube.com/watch?v=7WRRfW0Yz2o">Moléculas en el espejo</a></td>
 <td align="left">Talk</td>
 <td align="left">Donostia International Physics Center</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-09-27</td>
 <td align="left"><a href="http://naukas.com/2014/02/18/naukas13-pablo-rodriguez-duros-de-la-ciencia/">Duros de la ciencia</a></td>
 <td align="left">Talk</td>
