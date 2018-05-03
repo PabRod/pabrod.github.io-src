@@ -1,6 +1,5 @@
 Title: There's a nerd in my elevator!
-Date: 2/6/2018, 12:24:00 PM
-Modified: 5/1/2018, 5:08:41 PM
+Date: 5/1/2018, 12:24:00 PM
 Category: Blog
 Lang: en
 Tags: physics, python

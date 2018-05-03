@@ -1,6 +1,5 @@
 Title: Un empollón en mi ascensor
-Date: 2/6/2018, 12:24:00 PM
-Modified: 5/1/2018, 5:08:41 PM
+Date: 5/1/2018, 12:24:00 PM
 Category: Blog
 Lang: es
 Translation: True
