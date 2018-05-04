@@ -10,7 +10,7 @@ Comments: True
 
 _This text appeared first in [Naukas](http://fuga.naukas.com/2018/02/06/un-empollon-en-mi-ascensor/), where was originally written in Spanish._
 
-Recently I started a secondment at the Friedrich Schiller University, in Jena, Germany. Surprisingly, my office during the next months is located in the 18th floor of a skyscrapper. The Jentower in particular:
+Recently I started a secondment at the Friedrich Schiller University, in Jena, Germany. Surprisingly, my office during the next months is located in the 18th floor of a skyscraper. The Jentower in particular:
 
 ![Jentower](http://fuga.naukas.com/files/2018/02/2018-01-30-16.34.25-360x640.jpg)
 
@@ -18,7 +18,7 @@ But I'm not writing this to boast about the views of my new office. On the contr
 
 A building of almost 150 meters high needs fast elevators. The ones in this building have a very powerful, scary acceleration. Then, I remembered that smartphones usually contain an accelerometer, so I tried to measure those accelerations.
 
-I used an app called [Google Science Journal](https://sciencejournal.withgoogle.com), that allows registering data from all sensors avaible in the phone (accelerometers, light, magnetic field, ...) and export them in a format (.csv) quite easy to analyze on a computer. If you like getting your hands dirty, install it now!
+I used an app called [Google Science Journal](https://sciencejournal.withgoogle.com), that allows registering data from all sensors available in the phone (accelerometers, light, magnetic field, ...) and export them in a format (.csv) quite easy to analyze on a computer. If you like getting your hands dirty, install it now!
 
 In the figure below we can see the vertical acceleration profile during my trip to the 18th floor this morning, where we can clearly see the initial "kick" (seconds 9 to 14) and the braking (28 to 33)
 
