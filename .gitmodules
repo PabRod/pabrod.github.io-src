@@ -7,3 +7,9 @@
 [submodule "auxs\\auto-reports"]
 	path = auxs\\auto-reports
 	url = git@github.com:PabRod/academic-record.git
+
+# Other non-obvious dependencies:
+#
+# Data is stored in a private Google Drive Spreadsheet
+# auto-reports downloads flags from: http://flagpedia.net/
+# Some images are loaded from naukas.com
