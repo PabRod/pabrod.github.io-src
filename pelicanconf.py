@@ -47,12 +47,12 @@ AUTHOR_FEED_RSS = None
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 USE_FOLDER_AS_CATEGORY = False # Maybe change this after deciding folder structure
-MAIN_MENU = False
+MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
-MENUITEMS = (
-    ('Blog', 'https://pabrod.github.io'),
-)
+#MENUITEMS = (
+#    ('Blog', 'https://pabrod.github.io'),
+#)
 
 # Blogroll
 # LINKS = (
