@@ -51,7 +51,7 @@ MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
 MENUITEMS = (
-    ('Blog', 'http://fuga.naukas.com/'),
+    ('Blog', 'https://pabrod.github.io'),
 )
 
 # Blogroll
