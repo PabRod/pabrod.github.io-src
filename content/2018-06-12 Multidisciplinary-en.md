@@ -10,7 +10,7 @@ Comments: True
 
 _This is a translation of the essay "Cosas que he aprendido trabajando en un grupo multidisciplinar", originally published [here](http://fuga.naukas.com/2018/06/12/grupo-multidisciplinar) in Spanish._
 
-As of you already know, I'm a physicist. Despite that, I work as a mathematician in an... aquatic ecology department! This situation, apart from creating an identity crisis on me, makes me spend quite some time thinking about the diffuse and popular concept of "multidisciplinarity".
+As some of you already know, I'm a physicist. Despite that, I work as a mathematician in an... aquatic ecology department! This situation, apart from creating an identity crisis on me, makes me spend quite some time thinking about the diffuse and popular concept of "multidisciplinarity".
 
 The underlying idea behind multidisciplinarity is that it is not possible to bundle knowledge in fixed categories, mostly motivated by academical tradition. The borders between disciplines are diffuse. Two clear examples: no one can trace a solid line between physics and mathematics (where does mechanics end and analysis starts?), nor between physics and chemistry (is molecular structure chemistry or quantum mechanics?). An ideal multidisciplinary team contains experts from different fields, increasing thus the reach of the problems that can be addressed. In this kind of teams, some events of "epiphany", called "knowledge transfer" in this context, to happen. In those moments the whole group learns and adopts a new idea or method from another discipline.
 
