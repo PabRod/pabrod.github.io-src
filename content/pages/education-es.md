@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 06/12/2018, 19:37:16
+Modified: 06/14/2018, 09:27:01
 
 Estudios reglados
 -----------------
@@ -407,7 +407,7 @@ He dado 17 charlas:
 Docencia
 --------
 
-He participado en la docencia de 8 cursos:
+He participado en la docencia de 9 cursos:
 
 <table>
 <colgroup>
@@ -430,6 +430,14 @@ He participado en la docencia de 8 cursos:
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2018-06-14</td>
+<td align="left">2018-06-15</td>
+<td align="left"><a href="https://ssc.wur.nl/Schedule/Course/AEW-20706">Practical aquatic ecology and water management</a></td>
+<td align="left">Teaching assistant</td>
+<td align="left">WUR</td>
+<td align="left">English</td>
+</tr>
+<tr class="even">
 <td align="left">2018-06-07</td>
 <td align="left"></td>
 <td align="left"><a href="https://pabrod.github.io/intro-to-pdes-en.html">Quick introduction to partial differential equations</a></td>
@@ -437,7 +445,7 @@ He participado en la docencia de 8 cursos:
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-11-03</td>
 <td align="left">2017-12-01</td>
 <td align="left">Theoretical ecology</td>
@@ -445,7 +453,7 @@ He participado en la docencia de 8 cursos:
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-05-18</td>
 <td align="left"></td>
 <td align="left">An introduction to Git and GitHub</td>
@@ -453,7 +461,7 @@ He participado en la docencia de 8 cursos:
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-05-11</td>
 <td align="left"></td>
 <td align="left">An introduction to Unit Testing with Matlab</td>
@@ -461,7 +469,7 @@ He participado en la docencia de 8 cursos:
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-11-04</td>
 <td align="left">2016-12-02</td>
 <td align="left">Ecology, classics and trends</td>
@@ -469,7 +477,7 @@ He participado en la docencia de 8 cursos:
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-10-31</td>
 <td align="left">2013-11-07</td>
 <td align="left">Introduction to object oriented programming</td>
@@ -477,7 +485,7 @@ He participado en la docencia de 8 cursos:
 <td align="left">Indizen Optical Technologies</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2009-03-01</td>
 <td align="left">2009-07-01</td>
 <td align="left">Electromagnetism</td>
@@ -485,7 +493,7 @@ He participado en la docencia de 8 cursos:
 <td align="left">Universidad Complutense de Madrid</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2007-10-01</td>
 <td align="left">2008-02-01</td>
 <td align="left">Calculus</td>
