@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 06/14/2018, 15:45:00
+Modified: 06/18/2018, 14:40:37
 
 Estudios reglados
 -----------------
@@ -50,7 +50,7 @@ Estudios reglados
 Estancias
 ---------
 
-He pasado 9 semanas en las siguientes estancias internacionales:
+He pasado 11 semanas en las siguientes estancias internacionales:
 
 <table>
 <thead>
@@ -64,20 +64,27 @@ He pasado 9 semanas en las siguientes estancias internacionales:
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2018-06-18</td>
+<td align="left">2018-07-01</td>
+<td align="left">Imperial College London</td>
+<td align="left"><img src="http://flagpedia.net/data/flags/mini/gb.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
+<td align="left">2 weeks</td>
+</tr>
+<tr class="even">
 <td align="left">2018-01-28</td>
 <td align="left">2018-03-16</td>
 <td align="left">Friedrich Schiller Universitat</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/de.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">7 weeks</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-08-07</td>
 <td align="left">2017-08-13</td>
 <td align="left">University of Exeter</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/gb.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">1 weeks</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-07-03</td>
 <td align="left">2017-07-09</td>
 <td align="left">Friedrich Schiller Universitat</td>

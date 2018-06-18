@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 06/14/2018, 15:44:57
+Modified: 06/18/2018, 14:40:35
 
 Formal education
 ----------------
@@ -49,7 +49,7 @@ Formal education
 Secondments
 -----------
 
-I've spent 9 weeks in secondments, distributed as the following:
+I've spent 11 weeks in secondments, distributed as the following:
 
 <table>
 <thead>
@@ -63,20 +63,27 @@ I've spent 9 weeks in secondments, distributed as the following:
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2018-06-18</td>
+<td align="left">2018-07-01</td>
+<td align="left">Imperial College London</td>
+<td align="left"><img src="http://flagpedia.net/data/flags/mini/gb.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
+<td align="left">2 weeks</td>
+</tr>
+<tr class="even">
 <td align="left">2018-01-28</td>
 <td align="left">2018-03-16</td>
 <td align="left">Friedrich Schiller Universitat</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/de.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">7 weeks</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-08-07</td>
 <td align="left">2017-08-13</td>
 <td align="left">University of Exeter</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/gb.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">1 weeks</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-07-03</td>
 <td align="left">2017-07-09</td>
 <td align="left">Friedrich Schiller Universitat</td>
