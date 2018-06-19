@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 06/18/2018, 14:40:35
+Modified: 06/19/2018, 11:27:06
 
 Formal education
 ----------------
@@ -268,7 +268,7 @@ I've attended 18 congresses and workshops:
 Talks
 -----
 
-I've given 17 talks:
+I've given 18 talks:
 
 <table style="width:100%;">
 <colgroup>
@@ -289,118 +289,125 @@ I've given 17 talks:
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2018-06-19</td>
+<td align="left">Invasive species: a mathematician among biologists</td>
+<td align="left">Seminar</td>
+<td align="left">Imperial College London</td>
+<td align="left">English</td>
+</tr>
+<tr class="even">
 <td align="left">2017-11-30</td>
 <td align="left">Naukas. A scientific festival</td>
 <td align="left">Seminar</td>
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-11-28</td>
 <td align="left">Naukas. A scientific festival</td>
 <td align="left">Webinar</td>
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-09-16</td>
 <td align="left"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/5084298/video-naukas-bilbao-2017-pablo-rodriguez-como-cabrear-matematico/">¿Cómo cabrear a un matemático?</a></td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-09-13</td>
 <td align="left">Stability landscapes for weakly non-gradient fields</td>
 <td align="left">Seminar</td>
 <td align="left">Universidad de Valladolid</td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-08-09</td>
 <td align="left">Invasive species: a mathematician among biologists</td>
 <td align="left">Seminar</td>
 <td align="left">University of Exeter</td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-07-06</td>
 <td align="left">Invasive species: a mathematician among biologists</td>
 <td align="left">Seminar</td>
 <td align="left">Friedrich Schiller Universitat</td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-10-31</td>
 <td align="left">An invitation to GeoGebra</td>
 <td align="left">Webinar</td>
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2016-09-30</td>
 <td align="left"><a href="http://dipc.tv/bideoa.php?lang=es&amp;idbideoa=587&amp;idkategoria=0">Relojes rebeldes</a></td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-09-17</td>
 <td align="left">Naukas, el musical</td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2016-09-17</td>
 <td align="left"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/4393314/naukas-bilbao-2016--pablo-rodriguez/">De profesión, futurólogo</a></td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-09-05</td>
 <td align="left">Noise in a double-well potential</td>
 <td align="left">Seminar</td>
 <td align="left">Niels Bohr Institute</td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-11-19</td>
 <td align="left">A molecule in the mirror</td>
 <td align="left">Seminar</td>
 <td align="left">WUR</td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-09-11</td>
 <td align="left"><a href="http://www.eitb.tv/es/video/naukas-bilbao--2015/4460683431001/4486145172001/pablo-rodriguez--caprichos-del-azar/">Caprichos del azar</a></td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-12-10</td>
 <td align="left"><a href="http://eliatron.blogspot.be/2014/12/DonMostrenco.html">Astronomía, la tatarabuela de las ciencias exactas</a></td>
 <td align="left">Seminar</td>
 <td align="left">Universidad de Sevilla</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-09-26</td>
 <td align="left"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/2594702/video-naukas-bilbao-2014pablo-rodriguez-ha-ofrecido-charla-/">Navegación astronómica</a></td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-10-01</td>
 <td align="left"><a href="https://www.youtube.com/watch?v=7WRRfW0Yz2o">Moléculas en el espejo</a></td>
 <td align="left">Talk</td>
 <td align="left">Donostia International Physics Center</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-09-27</td>
 <td align="left"><a href="http://naukas.com/2014/02/18/naukas13-pablo-rodriguez-duros-de-la-ciencia/">Duros de la ciencia</a></td>
 <td align="left">Talk</td>
