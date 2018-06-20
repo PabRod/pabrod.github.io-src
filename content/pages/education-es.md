@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 06/19/2018, 11:27:12
+Modified: 06/20/2018, 11:09:58
 
 Estudios reglados
 -----------------
@@ -291,7 +291,7 @@ He dado 18 charlas:
 <tbody>
 <tr class="odd">
 <td align="left">2018-06-19</td>
-<td align="left">Invasive species: a mathematician among biologists</td>
+<td align="left"><a href="https://pabrod.github.io/seminar-imperial-en.html">Invasive species: a mathematician among biologists</a></td>
 <td align="left">Seminar</td>
 <td align="left">Imperial College London</td>
 <td align="left">English</td>
