@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 06/20/2018, 11:09:58
+Modified: 06/25/2018, 12:21:08
 
 Estudios reglados
 -----------------
@@ -50,7 +50,8 @@ Estudios reglados
 Estancias
 ---------
 
-He pasado 11 semanas en las siguientes estancias internacionales:
+He tenido la oportunidad de realizar las siguientes estancias
+internacionales:
 
 <table>
 <thead>

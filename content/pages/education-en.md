@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 06/20/2018, 11:09:54
+Modified: 06/25/2018, 12:21:03
 
 Formal education
 ----------------
@@ -49,7 +49,7 @@ Formal education
 Secondments
 -----------
 
-I've spent 11 weeks in secondments, distributed as the following:
+I had the following secondments in other institutions:
 
 <table>
 <thead>
