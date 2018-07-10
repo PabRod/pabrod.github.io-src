@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 06/25/2018, 12:21:03
+Modified: 07/10/2018, 13:58:53
 
 Formal education
 ----------------
@@ -96,7 +96,7 @@ I had the following secondments in other institutions:
 Conferences and workshops
 -------------------------
 
-I've attended 18 congresses and workshops:
+I've attended 21 congresses and workshops:
 
 <table>
 <colgroup>
@@ -143,14 +143,22 @@ I've attended 18 congresses and workshops:
 <td align="left">Spanish</td>
 </tr>
 <tr class="even">
-<td align="left">2017-09-04</td>
-<td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=691">CRITICS summer meeting 2017</a></td>
+<td align="left">2017-09-11</td>
+<td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=691">CRITICS summer workshop 2017</a></td>
 <td align="left">Universidad de Valladolid</td>
 <td align="left">Invited speaker</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
 <tr class="odd">
+<td align="left">2017-09-04</td>
+<td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=691">CRITICS summer school 2017</a></td>
+<td align="left">Universidad de Valladolid</td>
+<td align="left">Invited speaker</td>
+<td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
+<td align="left">English</td>
+</tr>
+<tr class="even">
 <td align="left">2017-07-18</td>
 <td align="left"><a href="https://gathering.geogebra.org">GeoGebra Global Gathering 2017</a></td>
 <td align="left">WUR</td>
@@ -158,9 +166,17 @@ I've attended 18 congresses and workshops:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/at.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
+<tr class="odd">
+<td align="left">2017-03-25</td>
+<td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=281">CRITICS spring school 2017</a></td>
+<td align="left">Wageningen and Utrecht Universities</td>
+<td align="left">Invited speaker</td>
+<td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
+<td align="left">English</td>
+</tr>
 <tr class="even">
 <td align="left">2017-03-19</td>
-<td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=281">CRITICS spring meeting 2017</a></td>
+<td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=281">CRITICS spring workshop 2017</a></td>
 <td align="left">Wageningen and Utrecht Universities</td>
 <td align="left">Invited speaker</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
@@ -184,13 +200,21 @@ I've attended 18 congresses and workshops:
 </tr>
 <tr class="odd">
 <td align="left">2016-08-28</td>
-<td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=210">CRITICS summer meeting 2016</a></td>
+<td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=210">CRITICS summer school 2016</a></td>
 <td align="left">Niels Bohr Institute</td>
 <td align="left">Poster</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/dk.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
 <tr class="even">
+<td align="left">2016-08-04</td>
+<td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=210">CRITICS summer workshop 2016</a></td>
+<td align="left">Niels Bohr Institute</td>
+<td align="left">Poster</td>
+<td align="left"><img src="http://flagpedia.net/data/flags/mini/dk.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
+<td align="left">English</td>
+</tr>
+<tr class="odd">
 <td align="left">2016-06-19</td>
 <td align="left"><a href="http://environnement.ens.fr/evenements-scientifiques/ecoles-d-ete/summer-school-resilience-2016/?lang=fr">CERES summer school</a></td>
 <td align="left">École Normale Supérieure</td>
@@ -198,7 +222,7 @@ I've attended 18 congresses and workshops:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/fr.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-06-05</td>
 <td align="left"><a href="http://dynamicsdays2016.ntua.gr">Dynamics Days 2016</a></td>
 <td align="left">National Technical University of Athens</td>
@@ -206,7 +230,7 @@ I've attended 18 congresses and workshops:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/gr.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2016-01-07</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=220">CRITICS winter meeting</a></td>
 <td align="left">Imperial College London</td>
@@ -214,7 +238,7 @@ I've attended 18 congresses and workshops:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/gb.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-09-10</td>
 <td align="left"><a href="http://naukas.com/2015/08/29/programa-definitivo-de-charlas-naukas-bilbao-2015/">Naukas 2015</a></td>
 <td align="left">Naukas</td>
@@ -222,7 +246,7 @@ I've attended 18 congresses and workshops:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-05-07</td>
 <td align="left"><a href="https://scienceplus.es/science-2015/">Science+</a></td>
 <td align="left">UPV/EHU</td>
@@ -230,7 +254,7 @@ I've attended 18 congresses and workshops:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-09-26</td>
 <td align="left"><a href="http://naukas.com/2014/09/12/programa-definitivo-naukas-bilbao-2014/">Naukas 2014</a></td>
 <td align="left">Naukas</td>
@@ -238,7 +262,7 @@ I've attended 18 congresses and workshops:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-03-14</td>
 <td align="left"><a href="http://www.cocin-arte.es">Cocin-arte</a></td>
 <td align="left">Naukas</td>
@@ -246,7 +270,7 @@ I've attended 18 congresses and workshops:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-09-30</td>
 <td align="left"><a href="http://www.quantum13.eu/es/home.html">Quantum 13. Passion for knowledge</a></td>
 <td align="left">Donostia International Physics Center</td>
@@ -254,7 +278,7 @@ I've attended 18 congresses and workshops:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-09-27</td>
 <td align="left"><a href="http://naukas.com/2013/09/25/programa-definitivo-y-consejos-para-naukas13/">Naukas 2013</a></td>
 <td align="left">Naukas</td>
