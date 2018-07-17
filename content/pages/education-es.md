@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 07/10/2018, 13:59:00
+Modified: 07/17/2018, 09:05:48
 
 Estudios reglados
 -----------------
@@ -98,16 +98,16 @@ internacionales:
 Conferencias y talleres
 -----------------------
 
-He participado en 21 conferencias, congresos y talleres:
+He participado en 22 conferencias, congresos y talleres:
 
 <table>
 <colgroup>
 <col width="3%" />
-<col width="40%" />
-<col width="13%" />
-<col width="5%" />
-<col width="33%" />
-<col width="3%" />
+<col width="47%" />
+<col width="11%" />
+<col width="4%" />
+<col width="29%" />
+<col width="2%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -121,6 +121,14 @@ He participado en 21 conferencias, congresos y talleres:
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2018-07-12</td>
+<td align="left"><a href="http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/mathematics/eventssummary/event_20-6-2018-15-47-29">CRITICS Innovations and Applications</a></td>
+<td align="left">Imperial College London</td>
+<td align="left">Invited speaker</td>
+<td align="left"><img src="http://flagpedia.net/data/flags/mini/gb.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
+<td align="left">English</td>
+</tr>
+<tr class="even">
 <td align="left">2018-03-12</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=1222">CRITICS spring congress 2018</a></td>
 <td align="left">Friedrich Schiller Universitat</td>
@@ -128,7 +136,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/de.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2018-03-05</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=1222">CRITICS spring workshop 2018</a></td>
 <td align="left">Friedrich Schiller Universitat</td>
@@ -136,7 +144,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/de.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-09-15</td>
 <td align="left"><a href="http://naukas.com/2017/06/07/programa-provisional-de-charlas-naukas-bilbao-2017/">Naukas 2017</a></td>
 <td align="left">Naukas</td>
@@ -144,7 +152,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-09-11</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=691">CRITICS summer workshop 2017</a></td>
 <td align="left">Universidad de Valladolid</td>
@@ -152,7 +160,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-09-04</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=691">CRITICS summer school 2017</a></td>
 <td align="left">Universidad de Valladolid</td>
@@ -160,7 +168,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-07-18</td>
 <td align="left"><a href="https://gathering.geogebra.org">GeoGebra Global Gathering 2017</a></td>
 <td align="left">WUR</td>
@@ -168,7 +176,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/at.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-03-25</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=281">CRITICS spring school 2017</a></td>
 <td align="left">Wageningen and Utrecht Universities</td>
@@ -176,7 +184,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-03-19</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=281">CRITICS spring workshop 2017</a></td>
 <td align="left">Wageningen and Utrecht Universities</td>
@@ -184,7 +192,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-09-26</td>
 <td align="left"><a href="http://p4k.dipc.org/es/inicio">Passion for Knowledge 2016</a></td>
 <td align="left">Naukas</td>
@@ -192,7 +200,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2016-09-16</td>
 <td align="left"><a href="http://naukas.com/2016/09/06/programa-definitivo-de-charlas-naukas-bilbao-2016/">Naukas 2016</a></td>
 <td align="left">Naukas</td>
@@ -200,7 +208,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-08-28</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=210">CRITICS summer school 2016</a></td>
 <td align="left">Niels Bohr Institute</td>
@@ -208,7 +216,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/dk.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2016-08-04</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=210">CRITICS summer workshop 2016</a></td>
 <td align="left">Niels Bohr Institute</td>
@@ -216,7 +224,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/dk.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-06-19</td>
 <td align="left"><a href="http://environnement.ens.fr/evenements-scientifiques/ecoles-d-ete/summer-school-resilience-2016/?lang=fr">CERES summer school</a></td>
 <td align="left">École Normale Supérieure</td>
@@ -224,7 +232,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/fr.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2016-06-05</td>
 <td align="left"><a href="http://dynamicsdays2016.ntua.gr">Dynamics Days 2016</a></td>
 <td align="left">National Technical University of Athens</td>
@@ -232,7 +240,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/gr.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-01-07</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=220">CRITICS winter meeting</a></td>
 <td align="left">Imperial College London</td>
@@ -240,7 +248,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/gb.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-09-10</td>
 <td align="left"><a href="http://naukas.com/2015/08/29/programa-definitivo-de-charlas-naukas-bilbao-2015/">Naukas 2015</a></td>
 <td align="left">Naukas</td>
@@ -248,7 +256,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-05-07</td>
 <td align="left"><a href="https://scienceplus.es/science-2015/">Science+</a></td>
 <td align="left">UPV/EHU</td>
@@ -256,7 +264,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-09-26</td>
 <td align="left"><a href="http://naukas.com/2014/09/12/programa-definitivo-naukas-bilbao-2014/">Naukas 2014</a></td>
 <td align="left">Naukas</td>
@@ -264,7 +272,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-03-14</td>
 <td align="left"><a href="http://www.cocin-arte.es">Cocin-arte</a></td>
 <td align="left">Naukas</td>
@@ -272,7 +280,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-09-30</td>
 <td align="left"><a href="http://www.quantum13.eu/es/home.html">Quantum 13. Passion for knowledge</a></td>
 <td align="left">Donostia International Physics Center</td>
@@ -280,7 +288,7 @@ He participado en 21 conferencias, congresos y talleres:
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2013-09-27</td>
 <td align="left"><a href="http://naukas.com/2013/09/25/programa-definitivo-y-consejos-para-naukas13/">Naukas 2013</a></td>
 <td align="left">Naukas</td>
