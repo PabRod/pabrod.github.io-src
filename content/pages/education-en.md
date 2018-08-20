@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 07/17/2018, 09:05:45
+Modified: 08/20/2018, 17:14:48
 
 Formal education
 ----------------
@@ -451,4 +451,4 @@ I've given 18 talks:
 
 ------------------------------------------------------------------------
 
-Built with R 3.4.3 and RStudio.
+Built with R 3.5.1 and RStudio.

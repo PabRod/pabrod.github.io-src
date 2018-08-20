@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 07/17/2018, 09:05:48
+Modified: 08/20/2018, 17:14:52
 
 Estudios reglados
 -----------------
@@ -453,4 +453,4 @@ He dado 18 charlas:
 
 ------------------------------------------------------------------------
 
-Built with R 3.4.3 and RStudio.
+Built with R 3.5.1 and RStudio.

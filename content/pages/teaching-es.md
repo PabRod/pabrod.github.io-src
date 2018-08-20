@@ -7,12 +7,12 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividad docente
-Modified: 07/10/2018, 13:59:21
+Modified: 08/20/2018, 17:14:57
 
 Docencia
 --------
 
-He participado en la docencia de 9 cursos:
+He participado en la docencia de 10 cursos:
 
 <table>
 <colgroup>
@@ -83,6 +83,14 @@ He participado en la docencia de 9 cursos:
 <td align="left">English</td>
 </tr>
 <tr class="odd">
+<td align="left">2016-07-05</td>
+<td align="left"></td>
+<td align="left">Crash course on linear algebra</td>
+<td align="left">Teacher</td>
+<td align="left">WUR</td>
+<td align="left">English</td>
+</tr>
+<tr class="even">
 <td align="left">2013-10-31</td>
 <td align="left">2013-11-07</td>
 <td align="left">Introduction to object oriented programming</td>
@@ -90,7 +98,7 @@ He participado en la docencia de 9 cursos:
 <td align="left">Indizen Optical Technologies</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2009-03-01</td>
 <td align="left">2009-07-01</td>
 <td align="left">Electromagnetism</td>
@@ -98,7 +106,7 @@ He participado en la docencia de 9 cursos:
 <td align="left">Universidad Complutense de Madrid</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2007-10-01</td>
 <td align="left">2008-02-01</td>
 <td align="left">Calculus</td>
@@ -111,4 +119,4 @@ He participado en la docencia de 9 cursos:
 
 ------------------------------------------------------------------------
 
-Built with R 3.4.3 and RStudio.
+Built with R 3.5.1 and RStudio.

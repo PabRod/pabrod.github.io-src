@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 07/19/2018, 16:44:34
+Modified: 08/20/2018, 17:14:59
 
 Preprints
 ---------
@@ -46,7 +46,7 @@ I made available 6 of my small projects about scientific software:
 <tbody>
 <tr class="odd">
 <td align="left">2018-07-19</td>
-<td align="left"><a href="https://github.com/PabRod/Chaos-and-neutrality">Chaos and neutrality</a></td>
+<td align="left"><a href="https://zenodo.org/record/1319590#.W1X0r9IzY2w">Chaos and neutrality</a></td>
 <td align="left">Author</td>
 </tr>
 <tr class="even">
@@ -79,4 +79,4 @@ I made available 6 of my small projects about scientific software:
 
 ------------------------------------------------------------------------
 
-Built with R 3.4.3 and RStudio.
+Built with R 3.5.1 and RStudio.

@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 07/19/2018, 16:44:40
+Modified: 08/20/2018, 17:15:01
 
 Preimpresiones
 --------------
@@ -47,7 +47,7 @@ He publicado 6 pequeños proyectos de software científico:
 <tbody>
 <tr class="odd">
 <td align="left">2018-07-19</td>
-<td align="left"><a href="https://github.com/PabRod/Chaos-and-neutrality">Chaos and neutrality</a></td>
+<td align="left"><a href="https://zenodo.org/record/1319590#.W1X0r9IzY2w">Chaos and neutrality</a></td>
 <td align="left">Author</td>
 </tr>
 <tr class="even">
@@ -80,4 +80,4 @@ He publicado 6 pequeños proyectos de software científico:
 
 ------------------------------------------------------------------------
 
-Built with R 3.4.3 and RStudio.
+Built with R 3.5.1 and RStudio.
