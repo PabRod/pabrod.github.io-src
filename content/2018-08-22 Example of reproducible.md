@@ -16,11 +16,12 @@ Have you ever thought of how many lines of scientific code are hidden in researc
 
 ## Spacetime coordinates
 * 29 August 2018, 12:15-12:35 (local timezone)
-* Civil Engineering Building, Aula Maxima. University College Cork. Ireland.
+* Aula Maxima. University College Cork. Ireland.
 
 ## Key references
 1. Rodríguez-Sánchez P, van Nes EH, Scheffer M. Neutral competition boosts chaos in food webs. Preprint available in [arXiv](http://arxiv.org/abs/1807.06901)
-2. Wilson G, Aruliah DA, Brown CT, Chue Hong NP, Davis M, Guy RT, et al. Best Practices for Scientific Computing. Eisen JA, editor. PLoS Biol [Internet]. 2014 Jan 7. Available [here](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+2. Rodríguez-Sánchez P. PabRod/Chaos-and-neutrality: Analysis script for “Neutral competition boosts chaos in food webs”. 2018. Available [here](https://doi.org/10.5281/zenodo.1319590)
+3. Wilson G, Aruliah DA, Brown CT, Chue Hong NP, Davis M, Guy RT, et al. Best Practices for Scientific Computing. Eisen JA, editor. PLoS Biol [Internet]. 2014 Jan 7. Available [here](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 
 ## Links
 - Slides will be temporarily available [here](https://www.dropbox.com/s/rb90g1qky5v6ocx/An%20example%20of%20reproducible%20research.pptx?dl=0)
