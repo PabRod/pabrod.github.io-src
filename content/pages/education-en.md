@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 08/28/2018, 12:23:51
+Modified: 08/30/2018, 10:57:44
 
 Formal education
 ----------------
@@ -103,7 +103,7 @@ I've attended 23 congresses and workshops:
 <col width="3%" />
 <col width="47%" />
 <col width="11%" />
-<col width="4%" />
+<col width="5%" />
 <col width="29%" />
 <col width="2%" />
 </colgroup>
@@ -162,7 +162,7 @@ I've attended 23 congresses and workshops:
 <td align="left">2017-09-11</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=691">CRITICS summer workshop 2017</a></td>
 <td align="left">Universidad de Valladolid</td>
-<td align="left">Invited speaker</td>
+<td align="left">Contributed speaker</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
@@ -170,7 +170,7 @@ I've attended 23 congresses and workshops:
 <td align="left">2017-09-04</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=691">CRITICS summer school 2017</a></td>
 <td align="left">Universidad de Valladolid</td>
-<td align="left">Invited speaker</td>
+<td align="left">Contributed speaker</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
@@ -186,7 +186,7 @@ I've attended 23 congresses and workshops:
 <td align="left">2017-03-25</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=281">CRITICS spring school 2017</a></td>
 <td align="left">Wageningen and Utrecht Universities</td>
-<td align="left">Invited speaker</td>
+<td align="left">Contributed speaker</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
@@ -194,7 +194,7 @@ I've attended 23 congresses and workshops:
 <td align="left">2017-03-19</td>
 <td align="left"><a href="http://www.criticsitn.eu/wp/?page_id=281">CRITICS spring workshop 2017</a></td>
 <td align="left">Wageningen and Utrecht Universities</td>
-<td align="left">Invited speaker</td>
+<td align="left">Contributed speaker</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" style="width: 30px; height: 20px"/></td>
 <td align="left">English</td>
 </tr>
