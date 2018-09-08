@@ -11,7 +11,7 @@ Comments: True
 ## Title
 Invasive species: a mathematician among biologists
 
-##  Abstract
+## Abstract
 This is a story about multidisciplinarity. It starts with a theoretical physicist being hired as a mathematician by a biology department. But what is the role of a mathematician in such a singular ecosystem? In this talk, we'll learn that the relation between biology and mathematics can be traced back to the XIII century. We'll also learn that the survival of plankton communities is strongly related with chaotic attractors, and how differential geometry had an unexpected role in a science communication problem.
 
 ## Key references
