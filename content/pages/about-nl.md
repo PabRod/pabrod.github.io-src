@@ -7,6 +7,7 @@ Slug: about-me
 Lang: nl
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
+Status: hidden
 Summary: About me
 
 Sinds 2012 heb ik een _Licenciatura_ in theoretische natuurkunde  (Universidad Complutense de Madrid), gelijk aan 5-jaar master's degree in het Spaanse onderwijssysteem.

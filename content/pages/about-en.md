@@ -6,6 +6,7 @@ Tags: info
 Slug: about-me
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
+Status: hidden
 Summary: About me
 
 Since 2012, I hold a _Licenciatura_ on theoretical physics (Universidad Complutense de Madrid), equivalent to a 5-year master's degree in the Spanish educational system.

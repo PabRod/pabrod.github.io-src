@@ -7,6 +7,7 @@ Slug: about-me
 Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
+Status: hidden
 Summary: About me
 
 Licenciado en física con especialidad en física teórica (2012, Universidad Complutense de Madrid).

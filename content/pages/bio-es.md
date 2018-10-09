@@ -20,19 +20,19 @@ En 2002 comienzo a estudiar física en la _Universidad Complutense de Madrid_, a
 En 2012 obtengo mi título de _Licenciatura_ en física, con la especialización en _Física fundamental_.
 
 ## Los años de la ingeniería (2012-2015)
-En 2012, un mes después de recibir mi título, comienzo a trabajar como _Ingeniero de Investigación y Desarrollo_ en _Indizen Optical Technologies_, una empresa de diseño de lentes oftálmicas con sede en Madrid. El equipo en el que me integré se ocupaba de las simulaciones numéricas, el desarrollo y mantenimiento de software, la investigación de nuevas tecnologías y, en definitiva, de todo lo relacionado con la física y las matemáticas detrás de bambalinas.
+En 2012, un mes después de recibir mi título, comienzo a trabajar como _Ingeniero de Investigación y Desarrollo_ en _Indizen Optical Technologies_, una empresa de diseño de lentes oftálmicas con sede en Madrid. El equipo en el que me integré se ocupaba de las simulaciones numéricas, optimización de superficies, trazado de rayos, desarrollo y mantenimiento de software e investigación de nuevas tecnologías y métodos. En resumen: todo lo relacionado con la física y las matemáticas tras el proceso de diseño y fabricación de lentes.
 
 En aquellos años, mi interés por los lenguajes y métodos de programación creció exponencialmente.
 
 ## Los años de lo multidisciplinar (2015-actualidad)
-En 2015 recibo una beca _Marie Curie Early Stage Researcher_ con objeto de desarrollar un doctorado en la _Universidad de Wageningen_, Países Bajos.
+En 2015 recibo una beca _Marie Curie Early Stage Researcher_ con objeto de desarrollar un doctorado en matemática aplicada en la _Universidad de Wageningen_, Países Bajos. El projecto es parte del consorcio [CRITICS](http://www.criticsitn.eu/wp/) (CRItical Transitions In Complex Systems), coordinado por el _Imperial College de Londres_.
 
 Mi investigación se centra en el modelado y análisis de sistemas biológicos que se pueden describir con dinámicas no-lineales, y caracterizar posibles observables que nos permitan predecir transiciones catastróficas. Mis principales herramientas de trabajo son la teoría de sistemas dinámicos (con especial énfasis en el análisis de bifurcaciones) y la simulación numérica.
 
 Mi posición como **físico** contratado en calidad de **matemático** por un departamento de **ecología** acuática hace que mi perfil sea algo complicado de clasificar.
 
 ## Divulgación científica (2011-actualidad)
-Desde 2011 colaboro con [naukas.com](http://fuga.naukas.com). Con más de 2 millones de visitas mensuales, _Naukas_ es la mayor plataforma de divulgación online en lengua española. Es además una comunidad muy activa, que además de ensayos breves produce clases, charlas, simulaciones interactivas y no menos de un congreso anual, además de charlas en radio y televisión.
+Con más de dos millones de visitas mensuales, [naukas.com](http://naukas.com) es la mayor plataforma de divulgación científica online en lengua española. Colaboro con ellos con gran asiduidad, la mayor parte de las veces en la forma de artículos breves sobre física, matemáticas e ingeniería, algunos de ellos incluyendo visualizaciones interactivas. Desde 2011, y bajo el patronazgo de la _Universidad del País Vasco_, organizamos cada año un festival de comunicación científica que, en las últimas ediciones, ha atraído a varios miles de asistentes.
 
 Estas actividades han supuesto la _"banda sonora"_ de fondo de los últimos años.
 
