@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 09/03/2018, 10:39:21
+Modified: 10/09/2018, 16:11:49
 
 Preprints
 ---------
@@ -41,6 +41,7 @@ I made available 7 of my small projects about scientific software:
 <th align="left">Date</th>
 <th align="left">NameURL</th>
 <th align="left">Role</th>
+<th align="left">Language</th>
 </tr>
 </thead>
 <tbody>
@@ -48,36 +49,43 @@ I made available 7 of my small projects about scientific software:
 <td align="left">2018-09-02</td>
 <td align="left"><a href="https://pabrod.shinyapps.io/cambio-de-hora/">cambio-de-hora</a></td>
 <td align="left">Author</td>
+<td align="left">R</td>
 </tr>
 <tr class="even">
 <td align="left">2018-07-19</td>
 <td align="left"><a href="https://zenodo.org/record/1319590#.W1X0r9IzY2w">Chaos and neutrality</a></td>
 <td align="left">Author</td>
+<td align="left">Matlab</td>
 </tr>
 <tr class="odd">
 <td align="left">2018-03-01</td>
 <td align="left"><a href="https://github.com/PabRod/Lattice-Dynamics">Lattice dynamics</a></td>
 <td align="left">Author</td>
+<td align="left">Matlab</td>
 </tr>
 <tr class="even">
 <td align="left">2018-02-28</td>
 <td align="left"><a href="https://github.com/PabRod/elevator-tool">Elevator tool</a></td>
 <td align="left">Author</td>
+<td align="left">Python</td>
 </tr>
 <tr class="odd">
 <td align="left">2017-06-30</td>
 <td align="left"><a href="https://github.com/PabRod/PrintVoronoi">Print Voronoi</a></td>
 <td align="left">Author</td>
+<td align="left">Matlab</td>
 </tr>
 <tr class="even">
 <td align="left">2016-05-12</td>
 <td align="left"><a href="https://gist.github.com/PabRod/bf6349734c3702cf99bf416872f5a537">Encrypt with chaos</a></td>
 <td align="left">Author</td>
+<td align="left">Matlab</td>
 </tr>
 <tr class="odd">
 <td align="left">2016-05-12</td>
 <td align="left"><a href="https://gist.github.com/PabRod/bf111dbf14ad0f1419deaa29fcf08ebd">Hear chaos</a></td>
 <td align="left">Author</td>
+<td align="left">Matlab</td>
 </tr>
 </tbody>
 </table>
