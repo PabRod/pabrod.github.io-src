@@ -6,7 +6,7 @@ Slug: sci-comm
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 09/25/2018, 16:48:08
+Modified: 10/16/2018, 17:07:52
 
 Up to date, I've given 9 talks for a general audience. Additionally,
 I've published 86 science communication essays: 5 in English, and 81 in
@@ -17,8 +17,8 @@ Spanish.
 <table style="width:100%;">
 <colgroup>
 <col width="5%" />
-<col width="73%" />
-<col width="16%" />
+<col width="72%" />
+<col width="17%" />
 <col width="4%" />
 </colgroup>
 <thead>
@@ -38,7 +38,7 @@ Spanish.
 </tr>
 <tr class="even">
 <td align="left">2017-09-16</td>
-<td align="left"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/5084298/video-naukas-bilbao-2017-pablo-rodriguez-como-cabrear-matematico/">¿Cómo cabrear a un matemático?</a></td>
+<td align="left"><a href="https://www.youtube.com/watch?v=RbXoYtQq3aY&amp;yt%3Acc=on">¿Cómo cabrear a un matemático?</a></td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>
@@ -62,7 +62,7 @@ Spanish.
 </tr>
 <tr class="even">
 <td align="left">2015-09-11</td>
-<td align="left"><a href="http://www.eitb.tv/es/video/naukas-bilbao--2015/4460683431001/4486145172001/pablo-rodriguez--caprichos-del-azar/">Caprichos del azar</a></td>
+<td align="left"><a href="https://www.youtube.com/watch?v=6koBb_wKofw&amp;yt%3Acc=on">Caprichos del azar</a></td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
 </tr>

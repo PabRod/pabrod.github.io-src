@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 09/25/2018, 16:48:12
+Modified: 10/16/2018, 17:07:56
 
 Formal education
 ----------------
@@ -295,10 +295,10 @@ I've given 20 talks:
 <table>
 <colgroup>
 <col width="3%" />
-<col width="47%" />
+<col width="45%" />
 <col width="2%" />
-<col width="10%" />
-<col width="35%" />
+<col width="11%" />
+<col width="36%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -347,7 +347,7 @@ I've given 20 talks:
 </tr>
 <tr class="even">
 <td align="left">2017-09-16</td>
-<td align="left"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/5084298/video-naukas-bilbao-2017-pablo-rodriguez-como-cabrear-matematico/">¿Cómo cabrear a un matemático?</a></td>
+<td align="left"><a href="https://www.youtube.com/watch?v=RbXoYtQq3aY&amp;yt%3Acc=on">¿Cómo cabrear a un matemático?</a></td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
@@ -417,7 +417,7 @@ I've given 20 talks:
 </tr>
 <tr class="even">
 <td align="left">2015-09-11</td>
-<td align="left"><a href="http://www.eitb.tv/es/video/naukas-bilbao--2015/4460683431001/4486145172001/pablo-rodriguez--caprichos-del-azar/">Caprichos del azar</a></td>
+<td align="left"><a href="https://www.youtube.com/watch?v=6koBb_wKofw&amp;yt%3Acc=on">Caprichos del azar</a></td>
 <td align="left">Talk</td>
 <td align="left">Naukas</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
