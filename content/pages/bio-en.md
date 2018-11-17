@@ -8,6 +8,9 @@ Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: A short biography
 
+## Visual CV
+![visual_cv](../images/visual_cv.png)
+
 ## The early years (1984-2002)
 I was born in 1984 in the Spanish town of Guadalajara, 50 km north-east from Madrid. There I attended high school between 1998 and 2002.
 
