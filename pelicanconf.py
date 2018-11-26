@@ -12,7 +12,9 @@ SITELOGO = '/images/profile.png'
 FAVICON = '/images/favicon.ico'
 THEME = "themes/flex"
 BROWSER_COLOR = '#333333'
-PYGMENTS_STYLE = 'monokai'
+# Use Pygments for styling code chunks
+# See gallery here: https://help.farbox.com/pygments.html
+PYGMENTS_STYLE = 'emacs'
 
 GOOGLE_ANALYTICS = 'UA-118019878-1'
 DISQUS_SITENAME = 'pabrod'
