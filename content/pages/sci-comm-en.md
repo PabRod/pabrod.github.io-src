@@ -6,10 +6,10 @@ Slug: sci-comm
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 10/16/2018, 17:07:52
+Modified: 11/28/2018, 15:12:41
 
 Up to date, I've given 9 talks for a general audience. Additionally,
-I've published 86 science communication essays: 5 in English, and 81 in
+I've published 87 science communication essays: 6 in English, and 81 in
 Spanish.
 
 ### Talks
@@ -104,26 +104,31 @@ Spanish.
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2018-11-28</td>
+<td align="left"><a href="https://pabrod.github.io/spectrum-accountancy-en.html">The spectrum of my personal accountancy</a></td>
+<td align="left">Personal page</td>
+</tr>
+<tr class="even">
 <td align="left">2018-06-12</td>
 <td align="left"><a href="https://pabrod.github.io/multidisciplinary-en.html">Things I've learned working on a multidisciplinary group</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2018-05-01</td>
 <td align="left"><a href="https://pabrod.github.io/elevator-en.html">There's a nerd in my elevator!</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-05-09</td>
 <td align="left"><a href="https://mappingignorance.org/2016/05/09/the-sound-of-chaos/">The sound of chaos</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-07-20</td>
 <td align="left"><a href="http://mappingignorance.org/2015/07/20/the-math-of-sex-and-hunger-a-short-history-of-population-dynamics/">The math of sex and hunger</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-05-15</td>
 <td align="left"><a href="http://mappingignorance.org/2015/05/15/from-gas-to-cash-the-unexpected-applications-of-statistical-mechanics/">From gas to cash. The unexpected applications of statistical mechanics</a></td>
 <td align="left">Mapping ignorance</td>
