@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 11/28/2018, 15:13:02
+Modified: 11/28/2018, 15:32:14
 
 Preprints
 ---------
@@ -26,6 +26,36 @@ I have 1 preprint(s) waiting to be published:
 <td align="left">2018-07-19</td>
 <td align="left"><a href="https://arxiv.org/abs/1807.06901">Neutral competition boosts chaos in food webs</a></td>
 <td align="left">Author</td>
+</tr>
+</tbody>
+</table>
+
+Books
+-----
+
+I've been involved in the redaction of 1 book:
+
+<table>
+<colgroup>
+<col width="11%" />
+<col width="30%" />
+<col width="15%" />
+<col width="41%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Date</th>
+<th align="left">Name</th>
+<th align="left">Role</th>
+<th align="left">Institution</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2018-10-01</td>
+<td align="left">Tipping points, zo werken ze!</td>
+<td align="left">Chapter author</td>
+<td align="left">Netherlands Earths System Science Centre</td>
 </tr>
 </tbody>
 </table>
