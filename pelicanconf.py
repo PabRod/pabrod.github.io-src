@@ -42,6 +42,7 @@ FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 TRANSLATION_FEED_ATOM = 'feeds/all-%s.atom.xml'
 CATEGORY_FEED_ATOM = None
+TAG_FEED_ATOM = 'feeds/tag-%s.atom.xml'
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
