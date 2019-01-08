@@ -7,10 +7,10 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 11/28/2018, 15:32:00
+Modified: 01/08/2019, 11:46:22
 
 A día de hoy he dado 9 charlas para público general. Además, he
-publicado 87 artículos breves sobre comunicación científica: 6 de ellos
+publicado 88 artículos breves sobre comunicación científica: 7 de ellos
 en inglés, y 81 en español.
 
 ### Charlas
@@ -105,31 +105,36 @@ en inglés, y 81 en español.
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2018-12-02</td>
+<td align="left"><a href="https://pabrod.github.io/animations-r-en.html">Animations in R</a></td>
+<td align="left">Personal page</td>
+</tr>
+<tr class="even">
 <td align="left">2018-11-28</td>
 <td align="left"><a href="https://pabrod.github.io/spectrum-accountancy-en.html">The spectrum of my personal accountancy</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2018-06-12</td>
 <td align="left"><a href="https://pabrod.github.io/multidisciplinary-en.html">Things I've learned working on a multidisciplinary group</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2018-05-01</td>
 <td align="left"><a href="https://pabrod.github.io/elevator-en.html">There's a nerd in my elevator!</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2016-05-09</td>
 <td align="left"><a href="https://mappingignorance.org/2016/05/09/the-sound-of-chaos/">The sound of chaos</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-07-20</td>
 <td align="left"><a href="http://mappingignorance.org/2015/07/20/the-math-of-sex-and-hunger-a-short-history-of-population-dynamics/">The math of sex and hunger</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-05-15</td>
 <td align="left"><a href="http://mappingignorance.org/2015/05/15/from-gas-to-cash-the-unexpected-applications-of-statistical-mechanics/">From gas to cash. The unexpected applications of statistical mechanics</a></td>
 <td align="left">Mapping ignorance</td>
