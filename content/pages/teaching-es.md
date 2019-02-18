@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividad docente
-Modified: 02/18/2019, 15:26:35
+Modified: 02/18/2019, 15:45:50
 
 Docencia
 --------
@@ -15,14 +15,6 @@ Docencia
 He participado en la docencia de 10 cursos:
 
 <table>
-<colgroup>
-<col width="3%" />
-<col width="3%" />
-<col width="33%" />
-<col width="6%" />
-<col width="11%" />
-<col width="40%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>

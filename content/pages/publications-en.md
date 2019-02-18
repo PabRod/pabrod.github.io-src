@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 02/18/2019, 15:26:36
+Modified: 02/18/2019, 15:45:51
 
 Preprints
 ---------
@@ -36,12 +36,6 @@ Books
 I've been involved in the redaction of 1 book:
 
 <table>
-<colgroup>
-<col width="11%" />
-<col width="30%" />
-<col width="15%" />
-<col width="41%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>

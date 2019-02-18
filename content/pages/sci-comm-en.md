@@ -6,7 +6,7 @@ Slug: sci-comm
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 02/18/2019, 15:26:23
+Modified: 02/18/2019, 15:45:37
 
 Up to date, I've given 9 talks for a general audience. Additionally,
 I've published 90 science communication essays: 7 in English, and 83 in
@@ -14,13 +14,7 @@ Spanish.
 
 ### Talks
 
-<table style="width:100%;">
-<colgroup>
-<col width="5%" />
-<col width="72%" />
-<col width="17%" />
-<col width="4%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
@@ -90,11 +84,6 @@ Spanish.
 ### Science communication publications in English
 
 <table>
-<colgroup>
-<col width="5%" />
-<col width="85%" />
-<col width="8%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
@@ -144,11 +133,6 @@ Spanish.
 ### Science communication publications in Spanish
 
 <table>
-<colgroup>
-<col width="5%" />
-<col width="89%" />
-<col width="5%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
@@ -577,15 +561,7 @@ Spanish.
 
 ### Others
 
-<table style="width:100%;">
-<colgroup>
-<col width="5%" />
-<col width="66%" />
-<col width="4%" />
-<col width="9%" />
-<col width="10%" />
-<col width="4%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
 <th align="left">Date</th>

@@ -6,7 +6,7 @@ Slug: teaching
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Teaching activities
-Modified: 02/18/2019, 15:26:33
+Modified: 02/18/2019, 15:45:47
 
 Teaching
 --------
@@ -14,14 +14,6 @@ Teaching
 I've been involved in the teaching of 10 courses:
 
 <table>
-<colgroup>
-<col width="3%" />
-<col width="3%" />
-<col width="33%" />
-<col width="6%" />
-<col width="11%" />
-<col width="40%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>

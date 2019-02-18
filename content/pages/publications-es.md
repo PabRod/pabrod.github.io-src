@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 02/18/2019, 15:26:38
+Modified: 02/18/2019, 15:45:54
 
 Preimpresiones
 --------------
@@ -37,12 +37,6 @@ Libros
 He participado en la redacción de 1 libro:
 
 <table>
-<colgroup>
-<col width="11%" />
-<col width="30%" />
-<col width="15%" />
-<col width="41%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>

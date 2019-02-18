@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 02/18/2019, 15:26:26
+Modified: 02/18/2019, 15:45:39
 
 A día de hoy he dado 9 charlas para público general. Además, he
 publicado 90 artículos breves sobre comunicación científica: 7 de ellos
@@ -15,13 +15,7 @@ en inglés, y 83 en español.
 
 ### Charlas
 
-<table style="width:100%;">
-<colgroup>
-<col width="5%" />
-<col width="72%" />
-<col width="17%" />
-<col width="4%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
@@ -91,11 +85,6 @@ en inglés, y 83 en español.
 ### Artículos de divulgación científica en inglés
 
 <table>
-<colgroup>
-<col width="5%" />
-<col width="85%" />
-<col width="8%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
@@ -145,11 +134,6 @@ en inglés, y 83 en español.
 ### Artículos de divulgación científica en español
 
 <table>
-<colgroup>
-<col width="5%" />
-<col width="89%" />
-<col width="5%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
@@ -578,15 +562,7 @@ en inglés, y 83 en español.
 
 ### Otros
 
-<table style="width:100%;">
-<colgroup>
-<col width="5%" />
-<col width="66%" />
-<col width="4%" />
-<col width="9%" />
-<col width="10%" />
-<col width="4%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
