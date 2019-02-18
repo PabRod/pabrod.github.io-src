@@ -7,19 +7,12 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 02/18/2019, 15:45:45
+Modified: 02/18/2019, 15:59:34
 
 Estudios reglados
 -----------------
 
 <table>
-<colgroup>
-<col width="13%" />
-<col width="5%" />
-<col width="5%" />
-<col width="16%" />
-<col width="59%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Name</th>
@@ -101,13 +94,6 @@ Conferencias y talleres
 He participado en 24 conferencias, congresos y talleres:
 
 <table>
-<colgroup>
-<col width="3%" />
-<col width="45%" />
-<col width="10%" />
-<col width="5%" />
-<col width="34%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
@@ -295,13 +281,6 @@ Charlas
 He dado 20 charlas:
 
 <table>
-<colgroup>
-<col width="3%" />
-<col width="45%" />
-<col width="2%" />
-<col width="11%" />
-<col width="36%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>

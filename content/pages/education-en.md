@@ -6,19 +6,12 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 02/18/2019, 15:45:42
+Modified: 02/18/2019, 15:59:31
 
 Formal education
 ----------------
 
 <table>
-<colgroup>
-<col width="13%" />
-<col width="5%" />
-<col width="5%" />
-<col width="16%" />
-<col width="59%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Name</th>
@@ -99,13 +92,6 @@ Conferences and workshops
 I've attended 24 congresses and workshops:
 
 <table>
-<colgroup>
-<col width="3%" />
-<col width="45%" />
-<col width="10%" />
-<col width="5%" />
-<col width="34%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
@@ -293,13 +279,6 @@ Talks
 I've given 20 talks:
 
 <table>
-<colgroup>
-<col width="3%" />
-<col width="45%" />
-<col width="2%" />
-<col width="11%" />
-<col width="36%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th align="left">Date</th>
