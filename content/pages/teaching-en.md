@@ -6,7 +6,7 @@ Slug: teaching
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Teaching activities
-Modified: 02/18/2019, 15:59:36
+Modified: 02/27/2019, 15:35:42
 
 Teaching
 --------
