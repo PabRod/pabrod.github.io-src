@@ -6,12 +6,12 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 03/13/2019, 14:36:51
+Modified: 03/14/2019, 09:28:52
 
 Preprints
 ---------
 
-I have 1 preprint(s) waiting to be published:
+I have 2 preprint(s) waiting to be published:
 
 <table>
 <thead>
@@ -23,6 +23,11 @@ I have 1 preprint(s) waiting to be published:
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2019-03-14</td>
+<td align="left"><a href="https://arxiv.org/abs/1903.05615">Climbing Escher's stairs</a></td>
+<td align="left">Author</td>
+</tr>
+<tr class="even">
 <td align="left">2018-07-19</td>
 <td align="left"><a href="https://arxiv.org/abs/1807.06901">Neutral competition boosts chaos in food webs</a></td>
 <td align="left">Author</td>
