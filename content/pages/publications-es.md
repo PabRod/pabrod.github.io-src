@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 03/14/2019, 09:28:54
+Modified: 03/14/2019, 09:37:05
 
 Preimpresiones
 --------------

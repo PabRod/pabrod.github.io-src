@@ -7,9 +7,9 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 03/14/2019, 09:28:39
+Modified: 03/14/2019, 09:36:51
 
-A día de hoy he dado 9 charlas para público general. Además, he
+A día de hoy he dado 13 charlas para público general. Además, he
 publicado 91 artículos breves sobre comunicación científica: 7 de ellos
 en inglés, y 84 en español.
 
@@ -30,6 +30,18 @@ en inglés, y 84 en español.
 <td align="left"><a href="https://www.eitb.eus/es/divulgacion/videos/detalle/5852752/naukas-bilbao-2018-charla-pablo-rodriguez/">¿Cómo acabé convertido en matemático?</a></td>
 <td align="left">Naukas</td>
 <td align="left">Spanish</td>
+</tr>
+<tr class="even">
+<td align="left">2018-06-19</td>
+<td align="left"><a href="https://pabrod.github.io/seminar-imperial-en.html">Invasive species: a mathematician among biologists</a></td>
+<td align="left">Imperial College London</td>
+<td align="left">English</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-11-30</td>
+<td align="left">Naukas. A scientific festival</td>
+<td align="left">WUR</td>
+<td align="left">English</td>
 </tr>
 <tr class="even">
 <td align="left">2017-09-16</td>
@@ -56,9 +68,21 @@ en inglés, y 84 en español.
 <td align="left">Spanish</td>
 </tr>
 <tr class="even">
+<td align="left">2015-11-19</td>
+<td align="left">A molecule in the mirror</td>
+<td align="left">WUR</td>
+<td align="left">English</td>
+</tr>
+<tr class="odd">
 <td align="left">2015-09-11</td>
 <td align="left"><a href="https://www.youtube.com/watch?v=6koBb_wKofw&amp;yt%3Acc=on">Caprichos del azar</a></td>
 <td align="left">Naukas</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="even">
+<td align="left">2014-12-10</td>
+<td align="left"><a href="http://eliatron.blogspot.be/2014/12/DonMostrenco.html">Astronomía, la tatarabuela de las ciencias exactas</a></td>
+<td align="left">Universidad de Sevilla</td>
 <td align="left">Spanish</td>
 </tr>
 <tr class="odd">

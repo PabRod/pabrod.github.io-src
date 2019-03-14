@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 03/14/2019, 09:28:42
+Modified: 03/14/2019, 09:36:54
 
 Formal education
 ----------------
@@ -306,14 +306,14 @@ I've given 20 talks:
 <tr class="odd">
 <td align="left">2018-06-19</td>
 <td align="left"><a href="https://pabrod.github.io/seminar-imperial-en.html">Invasive species: a mathematician among biologists</a></td>
-<td align="left">Seminar</td>
+<td align="left">Talk</td>
 <td align="left">Imperial College London</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/gb.png" alt="Drawing" title="United Kingdom" style="width: 30px; height: 20px"/></td>
 </tr>
 <tr class="even">
 <td align="left">2017-11-30</td>
 <td align="left">Naukas. A scientific festival</td>
-<td align="left">Seminar</td>
+<td align="left">Talk</td>
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
@@ -390,7 +390,7 @@ I've given 20 talks:
 <tr class="odd">
 <td align="left">2015-11-19</td>
 <td align="left">A molecule in the mirror</td>
-<td align="left">Seminar</td>
+<td align="left">Talk</td>
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
@@ -404,7 +404,7 @@ I've given 20 talks:
 <tr class="odd">
 <td align="left">2014-12-10</td>
 <td align="left"><a href="http://eliatron.blogspot.be/2014/12/DonMostrenco.html">Astronomía, la tatarabuela de las ciencias exactas</a></td>
-<td align="left">Seminar</td>
+<td align="left">Talk</td>
 <td align="left">Universidad de Sevilla</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
 </tr>
