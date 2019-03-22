@@ -1,0 +1,148 @@
+---
+title: "PyR"
+author: "Pablo Rodríguez-Sánchez"
+date: "March 21, 2019"
+output: md_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+_Python_ and _R_. They are two of the most popular programming languages for science. They are both free, both of them have a strong user community and both of them work pretty well.
+
+Personally, I find _Python_ way more intuitive than _R_ (at least for people who, like me, have a classical mathematics background). Thinking in terms of data frames is great when you work with statistical data, but it gets a bit annoying when you are more interested in analysis. To uneven the score even more, _Python's_ libraries like _NumPy_, _SciPy_, _SimPy_ and _Matplotlib_ are the perfect toolbox for anyone doing mathematical research of any kind.
+
+But... I chose _R_. Why?
+
+There is only one reason for doing so: _knitr_[^1]. _knitr_ is a package that turns a combination of text **and code** (the  _RMarkdown_ file) into almost any format of human readable text, including a _pdf_ report, slides, or a blog page like the one you are reading now. The interesting point is the integration of the code with the text. This means that an _RMarkdown_ document is not passive. This allows one to write papers that, quite literally, recalculate themselves any time needed. _knitr_, combined with research code structured as an _R_ package, is clearly my favourite way of writing research. The package structure keeps my code tidy and tested, and _knitr_ allows me to do all and the figures the writing in a single file. The result is a rock-solid, reproducible output. Let me put it like this: _knitr_ is like _LaTeX_ on steroids![^2]
+
+But... I keep finding _R_ annoying. A few days ago, after looking for hours for a nice way of ploting phase planes, I gave up. All the possibilities I found were terribly ugly. I had to go back to _Python's_ _Matplotlib_ and its function _streamplot_. See for yourself:
+
+With _R_:
+
+```{r phase-plot, echo=FALSE}
+library(phaseR)
+simplePendulum.flowField  <- flowField(simplePendulum, xlim = c(-7, 7),
+                                       ylim = c(-7, 7), parameters = 5, points = 19,
+									                     add = FALSE)
+```
+
+```{r reticulate, include=FALSE}
+library(reticulate)
+matplotlib <- import("matplotlib", convert = TRUE)
+matplotlib$use("Agg")
+```
+With _Python_:
+
+```{python phase-plotPy, echo=FALSE}
+import numpy as np
+import matplotlib.pyplot as plt
+
+Y, X = np.mgrid[-6:6:100j, -6:6:100j]
+U = Y
+V = -np.sin(X)
+speed = np.sqrt(U*U + V*V)
+
+fig0, ax0 = plt.subplots()
+strm = ax0.streamplot(X, Y, U, V, color='k', linewidth=1) # linewidth=5*speed/speed.max() autumn
+
+plt.show()
+```
+
+After a bit of googling, I found an _R_ library called _reticulate_ that allows to run _Python_ code from inside _R_. If this works (I thought) I can keep the best of both approaches! And, so far, it works flawlessly!
+
+## How to do it
+
+First of all, _R_ and _Python_ are obviously reequired. _reticulate_ can be installed and loaded as usual in _R_:
+
+```{r, eval=FALSE, results="asis"}
+install.packages("reticulate")
+library(reticulate)
+```
+
+For [some reason](https://community.rstudio.com/t/matplotlib-inline-plots-with-reticulate-on-rstudio-server/16357) I still don't fully understand, I had to add these two lines to make _Matplotlib_ work properly.
+
+```{r, eval = FALSE}
+matplotlib <- import("matplotlib", convert = TRUE)
+matplotlib$use("Agg")
+```
+
+Now, we can insert python chunks in _Rmarkdown_:
+
+````
+```{python, eval=TRUE}`r ''`
+import numpy as np
+x = np.pi
+y = np.sin(x/4)
+print(y)
+```
+````
+
+```{python, eval=TRUE, echo=FALSE}
+import numpy as np
+x = np.pi
+y = np.sin(x/4)
+print(y)
+```
+
+## Interaction
+_reticulate_ works creating two different sessions, one of _R_ and another of _Python_. In order to unleash all the power of this combination, we need a way of passing variables between both sessions. This is done via the dataframe `py`. See examples below:
+
+
+### From _R_ to _Python_
+
+Create a variable and store it as a field of `py`:
+
+````
+```{r}`r ''`
+py$foo <- "Hi!"
+```
+````
+
+```{r, echo=FALSE}
+py$foo <- "Hi!"
+```
+
+The variable will be available in the _Python_ session:
+
+````
+```{python}`r ''`
+print(foo)
+```
+````
+
+```{python, echo=FALSE}
+print(foo)
+```
+
+### From _Python_ to _R_
+
+Create a variable inside the _Python_ session:
+
+````
+```{python}`r ''`
+bar = "How are you?"
+```
+````
+
+```{python, echo=FALSE}
+bar = "How are you?"
+```
+
+The variable will be available as a field of the dataframe `py` in the _R_ session:
+
+````
+```{r}`r ''`
+py$bar
+```
+````
+
+```{r, echo=FALSE}
+py$bar
+```
+
+
+[^1]: Actually, there is a second (and less important) reason: _Shiny_.
+
+[^2]: It is true that _Python_ also has _Jupyter_ for reproducible research, but the results are just not as neat as with _R_.
