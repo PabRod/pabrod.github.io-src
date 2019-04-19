@@ -6,12 +6,12 @@ Slug: teaching
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Teaching activities
-Modified: 03/22/2019, 15:25:51
+Modified: 04/19/2019, 09:14:10
 
 Teaching
 --------
 
-I've been involved in the teaching of 10 courses:
+I've been involved in the teaching of 11 courses:
 
 <table>
 <thead>
@@ -26,6 +26,14 @@ I've been involved in the teaching of 10 courses:
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2019-03-28</td>
+<td align="left"></td>
+<td align="left">Continuous integration with Travis CI</td>
+<td align="left">Teacher</td>
+<td align="left">WUR</td>
+<td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
+</tr>
+<tr class="even">
 <td align="left">2018-06-14</td>
 <td align="left">2018-06-15</td>
 <td align="left"><a href="https://ssc.wur.nl/Schedule/Course/AEW-20706">Practical aquatic ecology and water management</a></td>
@@ -33,7 +41,7 @@ I've been involved in the teaching of 10 courses:
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2018-06-07</td>
 <td align="left"></td>
 <td align="left"><a href="https://pabrod.github.io/intro-to-pdes-en.html">Quick introduction to partial differential equations</a></td>
@@ -41,7 +49,7 @@ I've been involved in the teaching of 10 courses:
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-11-03</td>
 <td align="left">2017-12-01</td>
 <td align="left">Theoretical ecology</td>
@@ -49,7 +57,7 @@ I've been involved in the teaching of 10 courses:
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-05-18</td>
 <td align="left"></td>
 <td align="left">An introduction to Git and GitHub</td>
@@ -57,7 +65,7 @@ I've been involved in the teaching of 10 courses:
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-05-11</td>
 <td align="left"></td>
 <td align="left">An introduction to Unit Testing with Matlab</td>
@@ -65,7 +73,7 @@ I've been involved in the teaching of 10 courses:
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2016-11-04</td>
 <td align="left">2016-12-02</td>
 <td align="left">Ecology, classics and trends</td>
@@ -73,7 +81,7 @@ I've been involved in the teaching of 10 courses:
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-07-05</td>
 <td align="left"></td>
 <td align="left">Crash course on linear algebra</td>
@@ -81,7 +89,7 @@ I've been involved in the teaching of 10 courses:
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013-10-31</td>
 <td align="left">2013-11-07</td>
 <td align="left">Introduction to object oriented programming</td>
@@ -89,7 +97,7 @@ I've been involved in the teaching of 10 courses:
 <td align="left">Indizen Optical Technologies</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2009-03-01</td>
 <td align="left">2009-07-01</td>
 <td align="left">Electromagnetism</td>
@@ -97,7 +105,7 @@ I've been involved in the teaching of 10 courses:
 <td align="left">Universidad Complutense de Madrid</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2007-10-01</td>
 <td align="left">2008-02-01</td>
 <td align="left">Calculus</td>
