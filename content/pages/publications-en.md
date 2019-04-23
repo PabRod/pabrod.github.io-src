@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 04/19/2019, 09:14:13
+Modified: 04/23/2019, 10:21:08
 
 Preprints
 ---------
@@ -121,6 +121,30 @@ I made available 8 of my small projects about scientific software:
 <td align="left"><a href="https://gist.github.com/PabRod/bf111dbf14ad0f1419deaa29fcf08ebd">Hear chaos</a></td>
 <td align="left">Author</td>
 <td align="left">Matlab</td>
+</tr>
+</tbody>
+</table>
+
+Coautorships
+------------
+
+I've been coauthor in 1 paper:
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">Date</th>
+<th align="left">NameURL</th>
+<th align="left">Author</th>
+<th align="left">Publisher</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2019-04-22</td>
+<td align="left">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</td>
+<td align="left">Qinghua Zhao et al.</td>
+<td align="left">Ecology Letters</td>
 </tr>
 </tbody>
 </table>
