@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 04/23/2019, 10:21:10
+Modified: 05/21/2019, 11:20:40
 
 Preimpresiones
 --------------
@@ -32,6 +32,30 @@ Tengo 2 preimpresiones esperando a ser publicadas:
 <td align="left">2018-07-19</td>
 <td align="left"><a href="https://arxiv.org/abs/1807.06901">Neutral competition boosts chaos in food webs</a></td>
 <td align="left">Author</td>
+</tr>
+</tbody>
+</table>
+
+Coautorías
+----------
+
+Soy coautor de 1 publicación:
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">Date</th>
+<th align="left">NameURL</th>
+<th align="left">Author</th>
+<th align="left">Publisher</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2019-04-22</td>
+<td align="left"><a href="10.1111/ele.13282">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</a></td>
+<td align="left">Qinghua Zhao et al.</td>
+<td align="left">Ecology Letters</td>
 </tr>
 </tbody>
 </table>
@@ -122,30 +146,6 @@ He publicado 8 pequeños proyectos de software científico:
 <td align="left"><a href="https://gist.github.com/PabRod/bf111dbf14ad0f1419deaa29fcf08ebd">Hear chaos</a></td>
 <td align="left">Author</td>
 <td align="left">Matlab</td>
-</tr>
-</tbody>
-</table>
-
-Coautorías
-----------
-
-Soy coautor de 1 publicación:
-
-<table>
-<thead>
-<tr class="header">
-<th align="left">Date</th>
-<th align="left">NameURL</th>
-<th align="left">Author</th>
-<th align="left">Publisher</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">2019-04-22</td>
-<td align="left">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</td>
-<td align="left">Qinghua Zhao et al.</td>
-<td align="left">Ecology Letters</td>
 </tr>
 </tbody>
 </table>
