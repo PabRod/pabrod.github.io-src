@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 05/21/2019, 11:20:34
+Modified: 05/22/2019, 09:05:19
 
 Estudios reglados
 -----------------

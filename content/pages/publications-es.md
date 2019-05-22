@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 05/21/2019, 11:20:40
+Modified: 05/22/2019, 09:05:31
 
 Preimpresiones
 --------------
@@ -53,7 +53,7 @@ Soy coautor de 1 publicación:
 <tbody>
 <tr class="odd">
 <td align="left">2019-04-22</td>
-<td align="left"><a href="10.1111/ele.13282">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</a></td>
+<td align="left"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13282">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</a></td>
 <td align="left">Qinghua Zhao et al.</td>
 <td align="left">Ecology Letters</td>
 </tr>

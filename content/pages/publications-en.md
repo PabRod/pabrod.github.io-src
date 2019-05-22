@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 05/21/2019, 11:20:38
+Modified: 05/22/2019, 09:05:28
 
 Preprints
 ---------
@@ -52,7 +52,7 @@ I've been coauthor in 1 paper:
 <tbody>
 <tr class="odd">
 <td align="left">2019-04-22</td>
-<td align="left"><a href="10.1111/ele.13282">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</a></td>
+<td align="left"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13282">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</a></td>
 <td align="left">Qinghua Zhao et al.</td>
 <td align="left">Ecology Letters</td>
 </tr>
