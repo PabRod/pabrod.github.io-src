@@ -1,4 +1,4 @@
-Title: Divulgación científica
+Title: En los medios
 Date: 4/12/2018, 11:15:11 AM
 Category: About-me
 Tags: info
@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 05/22/2019, 09:05:12
+Modified: 05/27/2019, 19:44:24
 
 A día de hoy he dado 13 charlas para público general. Además, he
 publicado 93 artículos breves sobre comunicación científica: 8 de ellos
