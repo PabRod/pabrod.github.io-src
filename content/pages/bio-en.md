@@ -14,7 +14,7 @@ Summary: A short biography
 ## The early years (1984-2002)
 I was born in 1984 in the Spanish town of Guadalajara, 50 km north-east from Madrid. There I attended high school between 1998 and 2002.
 
-As most happy childhoods, it lacks any narrative interest.
+As usually happens with happy childhoods, there's not much to tell about it.
 
 ## The physics years (2002-2012)
 In 2002 I start studying physics at _Universidad Complutense de Madrid_, while living and working as maths tutor in Guadalajara. The distance between Guadalajara and Madrid represented a daily 1.5 hour bus travel to get to the faculty, and another 1.5 hour to return back home. The daily commuting, and my work, forced me to enroll as a half-time student and graduate slower than I wanted to.
