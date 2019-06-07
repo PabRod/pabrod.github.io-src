@@ -68,7 +68,7 @@ SOCIAL = (
     ('github', 'https://github.com/PabRod'),
     ('twitter', 'http://twitter.com/DonMostrenco'),
     ('instagram', 'https://instagram.com/pablo.rodriguez.sanchez/'),
-    ('linkedin', 'https://www.linkedin.com/in/pablo-rodríguez-sánchez-40672658'),
+    ('linkedin', 'https://www.linkedin.com/in/pabrod'),
     ('rss', SITEURL + '/pages/feeds-list-en.html')
 )
 
