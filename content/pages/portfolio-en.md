@@ -23,7 +23,7 @@ I write since 2011 for [Naukas.com](https://naukas.com), the largest science com
 [![fuga](../images/portfolio/fuga.png)](https://fuga.naukas.com)
 
 ## Teaching applets
-Click [here](https://www.geogebra.org/u/pablorodriguez#materials/created) to access my GeoGebra profile.
+Click [here](https://fuga.naukas.com/categoria/ciencia-interactiva/) to access my applets collection.
 
 [![black](../images/portfolio/blackboard.jpeg)](https://www.geogebra.org/u/pablorodriguez#materials/created)
 
