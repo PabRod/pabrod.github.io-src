@@ -6,7 +6,7 @@ Slug: teaching
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Teaching activities
-Modified: 05/27/2019, 19:44:38
+Modified: 06/12/2019, 11:30:41
 
 Teaching
 --------
@@ -29,7 +29,7 @@ I've been involved in the teaching of 11 courses:
 <td align="left">2019-03-28</td>
 <td align="left"></td>
 <td align="left">Continuous integration with Travis CI</td>
-<td align="left">Teacher</td>
+<td align="left">Professor</td>
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
@@ -45,7 +45,7 @@ I've been involved in the teaching of 11 courses:
 <td align="left">2018-06-07</td>
 <td align="left"></td>
 <td align="left"><a href="https://pabrod.github.io/intro-to-pdes-en.html">Quick introduction to partial differential equations</a></td>
-<td align="left">Teacher</td>
+<td align="left">Professor</td>
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
@@ -61,7 +61,7 @@ I've been involved in the teaching of 11 courses:
 <td align="left">2017-05-18</td>
 <td align="left"></td>
 <td align="left">An introduction to Git and GitHub</td>
-<td align="left">Teacher</td>
+<td align="left">Professor</td>
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
@@ -69,7 +69,7 @@ I've been involved in the teaching of 11 courses:
 <td align="left">2017-05-11</td>
 <td align="left"></td>
 <td align="left">An introduction to Unit Testing with Matlab</td>
-<td align="left">Teacher</td>
+<td align="left">Professor</td>
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
@@ -85,7 +85,7 @@ I've been involved in the teaching of 11 courses:
 <td align="left">2016-07-05</td>
 <td align="left"></td>
 <td align="left">Crash course on linear algebra</td>
-<td align="left">Teacher</td>
+<td align="left">Professor</td>
 <td align="left">WUR</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
@@ -93,7 +93,7 @@ I've been involved in the teaching of 11 courses:
 <td align="left">2013-10-31</td>
 <td align="left">2013-11-07</td>
 <td align="left">Introduction to object oriented programming</td>
-<td align="left">Teacher</td>
+<td align="left">Professor</td>
 <td align="left">Indizen Optical Technologies</td>
 <td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
 </tr>

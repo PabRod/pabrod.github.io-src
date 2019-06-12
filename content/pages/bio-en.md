@@ -26,7 +26,7 @@ In 2012, one month after getting my title, I start working as _Research and Deve
 
 In those years, my interest in programming languages and methods grew exponentially.
 
-## The multidisciplinary years (2015-now)
+## The applied mathematics years (2015-now)
 In 2015 I receive a _Marie Curie Early Stage Researcher_ grant in order to conduct a PhD in applied mathematics at _Wageningen University_, the Netherlands. The project is part of the [CRITICS](http://www.criticsitn.eu/wp/) (CRItical Transitions In Complex Systems) consortium, coordinated by _Imperial College London_.
 
 My research is focused on modeling and simulating biological systems described by non-linear dynamics, and characterizing observables for determining early warning signals of catastrophic shifts. My main working tools are dynamical systems theory (with a focus on bifurcation analysis) and numerical simulations.

@@ -27,7 +27,7 @@ En 2012, un mes después de recibir mi título, comienzo a trabajar como _Ingeni
 
 En aquellos años, mi interés por los lenguajes y métodos de programación creció exponencialmente.
 
-## Los años de lo multidisciplinar (2015-actualidad)
+## Los años de las matemáticas aplicadas (2015-actualidad)
 En 2015 recibo una beca _Marie Curie Early Stage Researcher_ con objeto de desarrollar un doctorado en matemática aplicada en la _Universidad de Wageningen_, Países Bajos. El projecto es parte del consorcio [CRITICS](http://www.criticsitn.eu/wp/) (CRItical Transitions In Complex Systems), coordinado por el _Imperial College de Londres_.
 
 Mi investigación se centra en el modelado y análisis de sistemas biológicos que se pueden describir con dinámicas no-lineales, y caracterizar posibles observables que nos permitan predecir transiciones catastróficas. Mis principales herramientas de trabajo son la teoría de sistemas dinámicos (con especial énfasis en el análisis de bifurcaciones) y la simulación numérica.

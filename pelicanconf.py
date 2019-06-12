@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Pablo Rodríguez-Sánchez'
 SITENAME = 'PabRod'
 SITEURL = 'https://pabrod.github.io'
-SITESUBTITLE = 'Physicist. PhD Student. Science storyteller'
+SITESUBTITLE = 'Applied mathematician. Science storyteller'
 # SITEDESCRIPTION = 'Flex - The minimalist Pelican theme.'
 SITELOGO = '/images/profile.png'
 
