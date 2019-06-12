@@ -25,7 +25,7 @@ I write since 2011 for [Naukas.com](https://naukas.com), the largest science com
 ## Teaching applets
 Click [here](https://fuga.naukas.com/categoria/ciencia-interactiva/) to access my applets collection.
 
-[![black](../images/portfolio/blackboard.jpeg)](https://www.geogebra.org/u/pablorodriguez#materials/created)
+[![black](../images/portfolio/blackboard.jpeg)](https://fuga.naukas.com/categoria/ciencia-interactiva/)
 
 ## Software packages
 
