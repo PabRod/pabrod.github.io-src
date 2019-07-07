@@ -12,6 +12,8 @@ Summary: Una breve biografía
 ## Currículum gráfico
 ![visual_cv](../images/visual_cv.png)
 
+Currículum imprimible disponible [aquí](../pdfs/CV.pdf) 
+
 ## Primeros años (1984-2002)
 Nací en 1984, en la pequeña ciudad española de Guadalajara, situada 50 km al noroeste de Madrid. Allí cursé mis estudios secundarios entre 1998 y 2002.
 
