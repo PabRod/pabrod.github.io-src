@@ -199,6 +199,8 @@ how long the transition between states should look.
 
 The result could not look nicer!
 
+This entry appears in [R-bloggers.com](https://www.r-bloggers.com) 
+
 PS: If you liked this post, [this
 visualization](https://www.geogebra.org/m/CeW2gCzH) I made in *GeoGebra*
 some time ago may also be of your interest.

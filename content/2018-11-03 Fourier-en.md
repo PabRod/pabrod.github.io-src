@@ -147,3 +147,5 @@ After applying the two algorithms described above I find the following distribut
 Note that the strengths corresponding to periods of *30* and *31* days are higher than their neighbors, corresponding to pay-days and monthly payments. Even my very basic algorithm could see it!
 
 *PS: I removed several details, plus trimmed both vertical and horizontal scales. I did this in order to keep my privacy. After all, the FFT is an invertible operation!*
+
+This entry appears in [R-bloggers.com](https://www.r-bloggers.com) 
