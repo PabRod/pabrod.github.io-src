@@ -8,28 +8,26 @@ Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Some things I want to share
 
+## Scientific programming
+
+|                                                              [Pendulum][pendulum]                                                               |                                               [Dyntools][dyntools]                                               |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
+|                              _Python_ package for mechanical simulation of non-inertial simple and double pendula.                              |       _Python_ package for analysis and visualization of dynamical systems. It is still work in progress.        |
+|                                            [![pendulum](../images/portfolio/nidouble.gif)][pendulum]                                            |                           [![attractor](../images/portfolio/attractor.gif)][dyntools]                            |
+|                                                            [**Rolldown**][rolldown]                                                             |                                          [**Elevator tool**][elevator]                                           |
+| _R_ package for computing potentials and pseudopotentials as described in my paper [Climbing Escher's ladder](https://arxiv.org/abs/1903.05615) | Jupyter Notebook showing how much can be done using the smartphone accelerometer inside a skyscrapper's elevator |
+|                                            [![rolldown](../images/portfolio/rolldown.png)][rolldown]                                            |                            [![elevator](../images/portfolio/elevator.png)][elevator]                             |
+
 ## Talks
 Since 2013, I give at least one popular science talk per year in a theater. Below I show those talks with english subtitles. For a full list, click [here](https://pabrod.github.io/pages/sci-comm-en.html#sci-comm).
 
-|                  How to piss-off a mathematician                   |                Random stuff about random numbers                |
+|            [How to piss-off a mathematician][howtopiss]            |           [Random stuff about random numbers][random]           |
 |:------------------------------------------------------------------:|:---------------------------------------------------------------:|
 |                         Naukas Bilbao 2017                         |                       Naukas Bilbao 2015                        |
 | [![piss](https://img.youtube.com/vi/RbXoYtQq3aY/0.jpg)][howtopiss] | [![rand](https://img.youtube.com/vi/6koBb_wKofw/0.jpg)][random] |
 
-## Software packages
-
-|                                                    Pendulum                                                     |                                                           Dyntools                                                            |
-|:---------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
-| [Pendulum][pendulum] is a _Python_ package for mechanical simulation of non-inertial simple and double pendula. | [Dyntools][dyntools] is a _Python_ package for analysis and visualization of dynamical systems. It is still work in progress. |
-|                            [![pendulum](../images/portfolio/nidouble.gif)][pendulum]                            |                                  [![attractor](../images/portfolio/attractor.gif)][dyntools]                                  |
-
-### Rolldown
-[Rolldown](https://github.com/PabRod/rolldown) is an _R_ package for computing potentials and pseudopotentials as described in my paper [Climbing Escher's ladder](https://arxiv.org/abs/1903.05615).
-
-[![rolldown](../images/portfolio/rolldown.png)](https://github.com/PabRod/rolldown)
-
 ## Blog
-I write since 2011 for [Naukas.com](https://naukas.com), the largest science communication web-magazine in Spanish language. My blog, [_Fuga de cerebros_](https://fuga.naukas.com) (Brain drain), focuses in physics, mathematics, and the experience of emigrated scientists. For a full list of my texts (some of them in English), click [here](https://pabrod.github.io/pages/sci-comm-en.html#sci-comm).
+Since 2011 I write for [Naukas.com](https://naukas.com), the largest science communication web-magazine in Spanish language. My blog, [_Fuga de cerebros_](https://fuga.naukas.com) (Brain drain), focuses in physics, mathematics, computational science, and the experience of emigrated scientists. For a full list of my texts (some of them in English), click [here](https://pabrod.github.io/pages/sci-comm-en.html#sci-comm).
 
 [![fuga](../images/portfolio/fuga.png)](https://fuga.naukas.com)
 
@@ -42,3 +40,5 @@ Click [here](https://fuga.naukas.com/categoria/ciencia-interactiva/) to access m
 [random]:https://www.youtube.com/watch?v=6koBb_wKofw&yt%3Acc=on
 [pendulum]:https://github.com/PabRod/pendulum
 [dyntools]:https://github.com/PabRod/phdtools
+[rolldown]:https://github.com/PabRod/rolldown
+[elevator]:https://github.com/PabRod/elevator-tool
