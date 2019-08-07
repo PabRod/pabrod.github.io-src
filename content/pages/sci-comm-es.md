@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 07/07/2019, 11:48:59
+Modified: 08/07/2019, 16:32:23
 
 A día de hoy he dado 13 charlas para público general. Además, he
 publicado 94 artículos breves sobre comunicación científica: 8 de ellos
@@ -619,6 +619,14 @@ en inglés, y 86 en español.
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2019-08-06</td>
+<td align="left"><a href="http://www.rtve.es/alacarta/audios/esto-me-suena-las-tardes-del-ciudadano-garcia/esto-suena-tardes-del-ciudadano-garcia-primera-hora-05-08-19/5361332/">Las tardes del ciudadano García</a></td>
+<td align="left">Interview</td>
+<td align="left">Interviewee</td>
+<td align="left">Radio Nacional de España</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="even">
 <td align="left">2017-05-26</td>
 <td align="left"><a href="http://institucional.us.es/blogimus/2017/05/que-suerte-han-tenido-los-holandeses/">Qué suerte han tenido los holandeses</a></td>
 <td align="left">Interview</td>
@@ -626,7 +634,7 @@ en inglés, y 86 en español.
 <td align="left">Universidad de Sevilla</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-03-16</td>
 <td align="left"><a href="https://www.vozpopuli.com/altavoz/next/cientificos-exiliados-quieren-marca-Espana_0_1008499411.html">Los científicos exiliados no quieren ser marca España</a></td>
 <td align="left">Interview</td>
@@ -634,7 +642,7 @@ en inglés, y 86 en español.
 <td align="left">Vozpópuli</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-12-07</td>
 <td align="left">Órbita Laika</td>
 <td align="left">TV</td>
@@ -642,7 +650,7 @@ en inglés, y 86 en español.
 <td align="left">Televisión Española</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-11-04</td>
 <td align="left"><a href="http://www.nextdoorpublishers.com/2015/11/pablo-rodriguez-sanchez-responde-nuestro-talk-10/">Talk 10</a></td>
 <td align="left">Interview</td>
@@ -650,7 +658,7 @@ en inglés, y 86 en español.
 <td align="left">Next Door</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-02-17</td>
 <td align="left"><a href="http://catastrofeultravioleta.com/03-interferencias/">Catástrofe Ultravioleta #3 Interferencias</a></td>
 <td align="left">Podcast</td>
