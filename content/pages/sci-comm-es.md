@@ -5,6 +5,7 @@ Tags: info
 Slug: sci-comm
 Lang: es
 Translation: True
+Status: hidden
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
 Modified: 08/07/2019, 16:32:23
