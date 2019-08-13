@@ -21,8 +21,10 @@ Summary: Some things I want to share
 |          _Shiny app_ showing the seasonal sunlight distribution in different Spanish locations, with and without daylight saving time           |                      _R package_ simulating classical mechanistic models of sleep dynamics                       |
 |                                                  [![time](../images/portfolio/time.png)][time]                                                  |                                  [![sleep](../images/portfolio/bed.png)][sleep]                                  |
 
+Want to contribute? Follow me on [GitHub](https://github.com/PabRod)!
+
 ## Talks
-Since 2013, I give at least one popular science talk per year in a theater. Below I show those talks with english subtitles. For a full list, click [here](https://pabrod.github.io/pages/sci-comm-en.html#sci-comm).
+Since 2013, I give at least one popular science talk per year in a theater. Below I show those talks with English subtitles. For a full list, click [here](https://pabrod.github.io/pages/sci-comm-en.html#sci-comm).
 
 |            [How to piss-off a mathematician][howtopiss]            |           [Random stuff about random numbers][random]           |
 |:------------------------------------------------------------------:|:---------------------------------------------------------------:|
@@ -47,3 +49,8 @@ Click [here](https://fuga.naukas.com/categoria/ciencia-interactiva/) to access m
 [elevator]:https://github.com/PabRod/elevator-tool
 [time]:https://github.com/PabRod/cambio-de-hora
 [sleep]:https://github.com/PabRod/sleepR
+
+## Scientific publications
+Click here [here](https://pabrod.github.io/pages/publications-en.html#publications) to access my publications list.
+
+[![books](../images/portfolio/books.jpeg)](https://pabrod.github.io/pages/publications-en.html#publications)
