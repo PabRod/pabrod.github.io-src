@@ -19,13 +19,13 @@ How software development shaped the way I write science
 ##  Abstract
 When we say that scientific papers are complex, we tend to think that their contents are complex. While this is true, there is much more: a paper itself is a complex form of communication. In this short talk I'll explain how my years in the industry of software development dramatically changed the way I write scientific publications.
 
-[![slides](images/2019-11/cover.png)](https://www.dropbox.com/s/lhh00gunxgmeu2q/Talk%20at%20Johan%20Cruijff%20-%20public.pptx?dl=0)
+[![slides](images/2019-11/cover.png)](https://www.dropbox.com/s/97w42albhmujow9/Talk%20at%20Johan%20Cruijff%20-%20public.pptx?dl=0)
 
 ## Spacetime coordinates
 * 21 November. Johan Cruijff Arena, Amsterdam. [FAIR software session](https://www.esciencesymposium2019.nl/page/608898). Registration required
 
 ## Links
-- Slides temporarily available [here](https://www.dropbox.com/s/lhh00gunxgmeu2q/Talk%20at%20Johan%20Cruijff%20-%20public.pptx?dl=0)
+- Slides temporarily available [here](https://www.dropbox.com/s/97w42albhmujow9/Talk%20at%20Johan%20Cruijff%20-%20public.pptx?dl=0)
 
 ## Key references
 1. My research workflow, based on GitHub. Carl Boettiger. Available [here](https://www.carlboettiger.info/2012/05/06/research-workflow.html)
