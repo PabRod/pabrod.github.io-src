@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 08/07/2019, 16:32:28
+Modified: 11/29/2019, 15:26:55
 
 Estudios reglados
 -----------------
@@ -91,7 +91,7 @@ internacionales:
 Conferencias y talleres
 -----------------------
 
-He participado en 25 conferencias, congresos y talleres:
+He participado en 27 conferencias, congresos y talleres:
 
 <table>
 <thead>
@@ -104,6 +104,20 @@ He participado en 25 conferencias, congresos y talleres:
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td align="left">2019-11-20</td>
+<td align="left"><a href="https://nl-rse.org/2019/07/09/NL-RSE-2019.html">NL RSE 19</a></td>
+<td align="left">NLeSC</td>
+<td align="left">Attendant</td>
+<td align="left"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
+</tr>
+<tr class="even">
+<td align="left">2019-09-19</td>
+<td align="left"><a href="https://naukas.com/2019/09/06/programa-definitivo-de-naukas-bilbao-2019/">Naukas 2019</a></td>
+<td align="left">Naukas</td>
+<td align="left">Attendant</td>
+<td align="left"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
+</tr>
 <tr class="odd">
 <td align="left">2019-03-22</td>
 <td align="left"><a href="https://www.uu.nl/en/events/clue-training-22-from-working-code-to-software-package">Clue training: from working code to software package</a></td>

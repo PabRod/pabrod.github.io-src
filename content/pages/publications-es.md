@@ -7,39 +7,12 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 08/07/2019, 16:32:37
+Modified: 11/29/2019, 15:27:06
 
-Preimpresiones
---------------
+Artículos científicos
+---------------------
 
-Tengo 2 preimpresiones esperando a ser publicadas:
-
-<table>
-<thead>
-<tr class="header">
-<th align="left">Date</th>
-<th align="left">NameURL</th>
-<th align="left">Role</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">2019-03-14</td>
-<td align="left"><a href="https://arxiv.org/abs/1903.05615">Climbing Escher's stairs</a></td>
-<td align="left">Author</td>
-</tr>
-<tr class="even">
-<td align="left">2018-07-19</td>
-<td align="left"><a href="https://arxiv.org/abs/1807.06901">Neutral competition boosts chaos in food webs</a></td>
-<td align="left">Author</td>
-</tr>
-</tbody>
-</table>
-
-Coautorías
-----------
-
-Soy coautor de 1 publicación:
+He sido autor o coautor en 3 artículos científicos:
 
 <table>
 <thead>
@@ -47,6 +20,7 @@ Soy coautor de 1 publicación:
 <th align="left">Date</th>
 <th align="left">NameURL</th>
 <th align="left">Author</th>
+<th align="left">Status</th>
 <th align="left">Publisher</th>
 </tr>
 </thead>
@@ -55,7 +29,22 @@ Soy coautor de 1 publicación:
 <td align="left">2019-04-22</td>
 <td align="left"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13282">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</a></td>
 <td align="left">Qinghua Zhao et al.</td>
+<td align="left">Published</td>
 <td align="left">Ecology Letters</td>
+</tr>
+<tr class="even">
+<td align="left">2019-03-14</td>
+<td align="left"><a href="https://arxiv.org/abs/1903.05615">Climbing Escher's stairs</a></td>
+<td align="left">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
+<td align="left">Accepted</td>
+<td align="left">arXiv</td>
+</tr>
+<tr class="odd">
+<td align="left">2018-07-19</td>
+<td align="left"><a href="https://arxiv.org/abs/1807.06901">Neutral competition boosts chaos in food webs</a></td>
+<td align="left">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
+<td align="left">Preprint</td>
+<td align="left">arXiv</td>
 </tr>
 </tbody>
 </table>

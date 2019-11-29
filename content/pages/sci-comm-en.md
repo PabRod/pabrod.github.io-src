@@ -7,7 +7,7 @@ Lang: en
 Status: hidden
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 08/07/2019, 16:32:20
+Modified: 11/29/2019, 15:26:46
 
 Up to date, I've given 13 talks for a general audience. Additionally,
 I've published 94 science communication essays: 8 in English, and 86 in
@@ -627,6 +627,14 @@ Spanish.
 <td align="left">Spanish</td>
 </tr>
 <tr class="even">
+<td align="left">2018-08-31</td>
+<td align="left">Las tardes del ciudadano García</td>
+<td align="left">Interview</td>
+<td align="left">Interviewee</td>
+<td align="left">Radio Nacional de España</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="odd">
 <td align="left">2017-05-26</td>
 <td align="left"><a href="http://institucional.us.es/blogimus/2017/05/que-suerte-han-tenido-los-holandeses/">Qué suerte han tenido los holandeses</a></td>
 <td align="left">Interview</td>
@@ -634,7 +642,7 @@ Spanish.
 <td align="left">Universidad de Sevilla</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-03-16</td>
 <td align="left"><a href="https://www.vozpopuli.com/altavoz/next/cientificos-exiliados-quieren-marca-Espana_0_1008499411.html">Los científicos exiliados no quieren ser marca España</a></td>
 <td align="left">Interview</td>
@@ -642,7 +650,7 @@ Spanish.
 <td align="left">Vozpópuli</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-12-07</td>
 <td align="left">Órbita Laika</td>
 <td align="left">TV</td>
@@ -650,7 +658,7 @@ Spanish.
 <td align="left">Televisión Española</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-11-04</td>
 <td align="left"><a href="http://www.nextdoorpublishers.com/2015/11/pablo-rodriguez-sanchez-responde-nuestro-talk-10/">Talk 10</a></td>
 <td align="left">Interview</td>
@@ -658,7 +666,7 @@ Spanish.
 <td align="left">Next Door</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2014-02-17</td>
 <td align="left"><a href="http://catastrofeultravioleta.com/03-interferencias/">Catástrofe Ultravioleta #3 Interferencias</a></td>
 <td align="left">Podcast</td>
