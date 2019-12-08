@@ -18,7 +18,7 @@ Comments: True
 </script>
 
 <script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
 The [Levi-Civita symbol](https://en.wikipedia.org/wiki/Levi-Civita_symbol) is that puzzling $\epsilon_{ijk}$ term that appears in the calculation of determinants and vector products. It has, thus, lots of applications in algebra, geometry, mechanics, electromagnetism, ... A (boring) definition is given in the textbox below.
