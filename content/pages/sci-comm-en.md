@@ -7,10 +7,10 @@ Lang: en
 Status: hidden
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 12/10/2019, 11:47:15
+Modified: 01/08/2020, 12:21:13
 
 Up to date, I've given 13 talks for a general audience. Additionally,
-I've published 96 science communication essays: 9 in English, and 87 in
+I've published 99 science communication essays: 12 in English, and 87 in
 Spanish.
 
 ### Talks
@@ -118,46 +118,61 @@ Spanish.
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2020-01-07</td>
+<td align="left"><a href="https://blog.esciencecenter.nl/parallel-programming-in-python-7fd62c90217d">Parallel computing with Python</a></td>
+<td align="left">NLeSC</td>
+</tr>
+<tr class="even">
+<td align="left">2019-12-16</td>
+<td align="left"><a href="https://blog.esciencecenter.nl/experiences-of-a-computational-evangelist-4cae135fa829">Experiences of a computational evangelist</a></td>
+<td align="left">NLeSC</td>
+</tr>
+<tr class="odd">
+<td align="left">2019-12-12</td>
+<td align="left"><a href="https://blog.esciencecenter.nl/you-dont-know-it-yet-but-software-engineering-is-just-what-you-need-7666d5e36fc9">Are you a researcher? You may not know it yet, but good software skills are just what you need</a></td>
+<td align="left">NLeSC</td>
+</tr>
+<tr class="even">
 <td align="left">2019-12-08</td>
 <td align="left"><a href="https://pabrod.github.io/levi-civita-en.html#levi-civita">Visualization of a 3D Levi-Civita symbol</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2019-03-22</td>
 <td align="left"><a href="https://pabrod.github.io/PyR-en.html#PyR">Python or R? Why not both?</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2018-12-02</td>
 <td align="left"><a href="https://pabrod.github.io/animations-r-en.html">Animations in R</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2018-11-28</td>
 <td align="left"><a href="https://pabrod.github.io/spectrum-accountancy-en.html">The spectrum of my personal accountancy</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2018-06-12</td>
 <td align="left"><a href="https://pabrod.github.io/multidisciplinary-en.html">Things I've learned working on a multidisciplinary group</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2018-05-01</td>
 <td align="left"><a href="https://pabrod.github.io/elevator-en.html">There's a nerd in my elevator!</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2016-05-09</td>
 <td align="left"><a href="https://mappingignorance.org/2016/05/09/the-sound-of-chaos/">The sound of chaos</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-07-20</td>
 <td align="left"><a href="http://mappingignorance.org/2015/07/20/the-math-of-sex-and-hunger-a-short-history-of-population-dynamics/">The math of sex and hunger</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-05-15</td>
 <td align="left"><a href="http://mappingignorance.org/2015/05/15/from-gas-to-cash-the-unexpected-applications-of-statistical-mechanics/">From gas to cash. The unexpected applications of statistical mechanics</a></td>
 <td align="left">Mapping ignorance</td>
@@ -629,6 +644,14 @@ Spanish.
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2019-12-15</td>
+<td align="left"><a href="https://www.hoy.es/sociedad/radio-20191215114114-ntrc.html?fbclid=IwAR0hF4O0i4ihp1B10U6m48XkcpdT8JiqAOBi_MUNdbsYhyjpOIs4Y2o0OC0">Radio X</a></td>
+<td align="left">Interview</td>
+<td align="left">Interviewee</td>
+<td align="left">Grupo Vocento</td>
+<td align="left">Spanish</td>
+</tr>
+<tr class="even">
 <td align="left">2019-08-06</td>
 <td align="left"><a href="http://www.rtve.es/alacarta/audios/esto-me-suena-las-tardes-del-ciudadano-garcia/esto-suena-tardes-del-ciudadano-garcia-primera-hora-05-08-19/5361332/">Las tardes del ciudadano García</a></td>
 <td align="left">Interview</td>
@@ -636,7 +659,7 @@ Spanish.
 <td align="left">Radio Nacional de España</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2018-08-31</td>
 <td align="left">Las tardes del ciudadano García</td>
 <td align="left">Interview</td>
@@ -644,7 +667,7 @@ Spanish.
 <td align="left">Radio Nacional de España</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2017-05-26</td>
 <td align="left"><a href="http://institucional.us.es/blogimus/2017/05/que-suerte-han-tenido-los-holandeses/">Qué suerte han tenido los holandeses</a></td>
 <td align="left">Interview</td>
@@ -652,7 +675,7 @@ Spanish.
 <td align="left">Universidad de Sevilla</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2017-03-16</td>
 <td align="left"><a href="https://www.vozpopuli.com/altavoz/next/cientificos-exiliados-quieren-marca-Espana_0_1008499411.html">Los científicos exiliados no quieren ser marca España</a></td>
 <td align="left">Interview</td>
@@ -660,7 +683,7 @@ Spanish.
 <td align="left">Vozpópuli</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-12-07</td>
 <td align="left">Órbita Laika</td>
 <td align="left">TV</td>
@@ -668,7 +691,7 @@ Spanish.
 <td align="left">Televisión Española</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-11-04</td>
 <td align="left"><a href="http://www.nextdoorpublishers.com/2015/11/pablo-rodriguez-sanchez-responde-nuestro-talk-10/">Talk 10</a></td>
 <td align="left">Interview</td>
@@ -676,7 +699,7 @@ Spanish.
 <td align="left">Next Door</td>
 <td align="left">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014-02-17</td>
 <td align="left"><a href="http://catastrofeultravioleta.com/03-interferencias/">Catástrofe Ultravioleta #3 Interferencias</a></td>
 <td align="left">Podcast</td>
