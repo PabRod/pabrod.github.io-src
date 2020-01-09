@@ -7,11 +7,11 @@ Lang: en
 Status: hidden
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 01/08/2020, 12:21:13
+Modified: 01/09/2020, 19:22:35
 
 Up to date, I've given 13 talks for a general audience. Additionally,
-I've published 99 science communication essays: 12 in English, and 87 in
-Spanish.
+I've published 100 science communication essays: 13 in English, and 87
+in Spanish.
 
 ### Talks
 
@@ -118,61 +118,66 @@ Spanish.
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">2020-01-08</td>
+<td align="left"><a href="https://blog.esciencecenter.nl/some-things-that-scientists-can-learn-from-the-arts-5af4921bf9ff">Some things that scientists can learn from the arts</a></td>
+<td align="left">NLeSC</td>
+</tr>
+<tr class="even">
 <td align="left">2020-01-07</td>
 <td align="left"><a href="https://blog.esciencecenter.nl/parallel-programming-in-python-7fd62c90217d">Parallel computing with Python</a></td>
 <td align="left">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2019-12-16</td>
 <td align="left"><a href="https://blog.esciencecenter.nl/experiences-of-a-computational-evangelist-4cae135fa829">Experiences of a computational evangelist</a></td>
 <td align="left">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2019-12-12</td>
 <td align="left"><a href="https://blog.esciencecenter.nl/you-dont-know-it-yet-but-software-engineering-is-just-what-you-need-7666d5e36fc9">Are you a researcher? You may not know it yet, but good software skills are just what you need</a></td>
 <td align="left">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2019-12-08</td>
 <td align="left"><a href="https://pabrod.github.io/levi-civita-en.html#levi-civita">Visualization of a 3D Levi-Civita symbol</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2019-03-22</td>
 <td align="left"><a href="https://pabrod.github.io/PyR-en.html#PyR">Python or R? Why not both?</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2018-12-02</td>
 <td align="left"><a href="https://pabrod.github.io/animations-r-en.html">Animations in R</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2018-11-28</td>
 <td align="left"><a href="https://pabrod.github.io/spectrum-accountancy-en.html">The spectrum of my personal accountancy</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2018-06-12</td>
 <td align="left"><a href="https://pabrod.github.io/multidisciplinary-en.html">Things I've learned working on a multidisciplinary group</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2018-05-01</td>
 <td align="left"><a href="https://pabrod.github.io/elevator-en.html">There's a nerd in my elevator!</a></td>
 <td align="left">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2016-05-09</td>
 <td align="left"><a href="https://mappingignorance.org/2016/05/09/the-sound-of-chaos/">The sound of chaos</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2015-07-20</td>
 <td align="left"><a href="http://mappingignorance.org/2015/07/20/the-math-of-sex-and-hunger-a-short-history-of-population-dynamics/">The math of sex and hunger</a></td>
 <td align="left">Mapping ignorance</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015-05-15</td>
 <td align="left"><a href="http://mappingignorance.org/2015/05/15/from-gas-to-cash-the-unexpected-applications-of-statistical-mechanics/">From gas to cash. The unexpected applications of statistical mechanics</a></td>
 <td align="left">Mapping ignorance</td>
