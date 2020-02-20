@@ -8,6 +8,8 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
+AUTOREPORTSDIR=$(BASEDIR)/auxs/auto-reports
+
 FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
@@ -41,11 +43,13 @@ help:
 	@echo 'Makefile for a pelican Web site                                           '
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
-	@echo '   make html                           (re)generate the web site          '
+	@echo '   make all                            clean + autoreport + html + serve  '
 	@echo '   make clean                          remove the generated files         '
+	@echo '   make autoreport                     updates local files with database  '
+	@echo '   make html                           (re)generate the web site          '
+	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make regenerate                     regenerate files upon modification '
 	@echo '   make publish                        generate using production settings '
-	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
 	@echo '   make devserver [PORT=8000]          start/restart develop_server.sh    '
 	@echo '   make stopserver                     stop local server                  '
@@ -70,6 +74,14 @@ clean:
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
+# Scrap information from my personal database
+autoreport:
+		cd $(AUTOREPORTSDIR) && Rscript build-all.R && cd $(BASEDIR)
+
+# Update all and show
+all:
+	make clean && make autoreport && make html && make serve
+
 serve:
 ifdef PORT
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
@@ -83,7 +95,6 @@ ifdef SERVER
 else
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 0.0.0.0
 endif
-
 
 devserver:
 ifdef PORT
