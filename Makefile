@@ -43,7 +43,7 @@ help:
 	@echo 'Makefile for a pelican Web site                                           '
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
-	@echo '   make all                            clean + autoreport + html + serve  '
+	@echo '   make all                            autoreport + html + serve          '
 	@echo '   make clean                          remove the generated files         '
 	@echo '   make autoreport                     updates local files with database  '
 	@echo '   make html                           (re)generate the web site          '
@@ -80,7 +80,7 @@ autoreport:
 
 # Update all and show
 all:
-	make clean && make autoreport && make html && make serve
+	make autoreport && make html && make serve
 
 serve:
 ifdef PORT
