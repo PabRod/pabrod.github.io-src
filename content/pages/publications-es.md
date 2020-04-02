@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 04/02/2020, 16:27:06
+Modified: 04/02/2020, 16:33:25
 
 Artículos científicos
 ---------------------
@@ -29,7 +29,7 @@ He sido autor o coautor en 4 artículos científicos:
 <td style="text-align: left;">2020-03-27</td>
 <td style="text-align: left;"><a href="https://arxiv.org/abs/2003.11595">Early warning signals for desynchronization in periodically forced systems</a></td>
 <td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Preprint</td>
 <td style="text-align: left;">arXiv</td>
 </tr>
 <tr class="even">

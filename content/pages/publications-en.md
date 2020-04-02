@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 04/02/2020, 16:27:06
+Modified: 04/02/2020, 16:33:25
 
 Scientific articles
 -------------------
@@ -28,7 +28,7 @@ I’ve been author or coauthor in 4 scientific articles:
 <td style="text-align: left;">2020-03-27</td>
 <td style="text-align: left;"><a href="https://arxiv.org/abs/2003.11595">Early warning signals for desynchronization in periodically forced systems</a></td>
 <td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Preprint</td>
 <td style="text-align: left;">arXiv</td>
 </tr>
 <tr class="even">
