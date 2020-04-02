@@ -1,5 +1,6 @@
 PY?=python3
 PELICAN?=pelican
+R?=Rscript
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
@@ -68,15 +69,17 @@ help:
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
+# cd $(OUTPUTDIR) && rm -r !(.git) && cd $(BASEDIR)
+# [ ! -d $(OUTPUTDIR) ] || rm -r $(OUTPUTDIR) !(.git)
 clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	echo 'This feature is temporarily unavailable'
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 # Scrap information from my personal database
 autoreport:
-		cd $(AUTOREPORTSDIR) && Rscript build-all.R && cd $(BASEDIR)
+	cd $(AUTOREPORTSDIR) && $(R) build-all.R && cd $(BASEDIR)
 
 # Update all and show
 all:
