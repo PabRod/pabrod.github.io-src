@@ -6,12 +6,12 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 02/20/2020, 18:03:26
+Modified: 04/02/2020, 16:27:06
 
 Scientific articles
 -------------------
 
-I’ve been author or coauthor in 3 scientific articles:
+I’ve been author or coauthor in 4 scientific articles:
 
 <table>
 <thead>
@@ -25,20 +25,27 @@ I’ve been author or coauthor in 3 scientific articles:
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2020-03-27</td>
+<td style="text-align: left;"><a href="https://arxiv.org/abs/2003.11595">Early warning signals for desynchronization in periodically forced systems</a></td>
+<td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">arXiv</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2019-04-22</td>
 <td style="text-align: left;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13282">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</a></td>
 <td style="text-align: left;">Qinghua Zhao et al.</td>
 <td style="text-align: left;">Published</td>
 <td style="text-align: left;">Ecology Letters</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-03-14</td>
 <td style="text-align: left;"><a href="https://arxiv.org/abs/1903.05615">Climbing Escher’s stairs</a></td>
 <td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
 <td style="text-align: left;">Accepted</td>
 <td style="text-align: left;">arXiv</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-07-19</td>
 <td style="text-align: left;"><a href="https://arxiv.org/abs/1807.06901">Neutral competition boosts chaos in food webs</a></td>
 <td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
@@ -140,4 +147,4 @@ I made available 8 of my small projects about scientific software:
 
 ------------------------------------------------------------------------
 
-Built with R 3.4.4 and RStudio.
+Built with R 3.6.3 and RStudio.

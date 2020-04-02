@@ -8,11 +8,11 @@ Status: hidden
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 02/20/2020, 18:03:21
+Modified: 04/02/2020, 16:27:02
 
 A día de hoy he dado 13 charlas para público general. Además, he
-publicado 100 artículos breves sobre comunicación científica: 13 de
-ellos en inglés, y 87 en español.
+publicado 103 artículos breves sobre comunicación científica: 14 de
+ellos en inglés, y 89 en español.
 
 ### Charlas
 
@@ -119,66 +119,71 @@ ellos en inglés, y 87 en español.
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2020-03-18</td>
+<td style="text-align: left;"><a href="https://blog.esciencecenter.nl/a-mathematician-in-quarantine-4555cfbf9f60">A mathematician in quarantine</a></td>
+<td style="text-align: left;">NLeSC</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2020-01-08</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/some-things-that-scientists-can-learn-from-the-arts-5af4921bf9ff">Some things that scientists can learn from the arts</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-01-07</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/parallel-programming-in-python-7fd62c90217d">Parallel computing with Python</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2019-12-16</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/experiences-of-a-computational-evangelist-4cae135fa829">Experiences of a computational evangelist</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-12-12</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/you-dont-know-it-yet-but-software-engineering-is-just-what-you-need-7666d5e36fc9">Are you a researcher? You may not know it yet, but good software skills are just what you need</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2019-12-08</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/levi-civita-en.html#levi-civita">Visualization of a 3D Levi-Civita symbol</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-03-22</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/PyR-en.html#PyR">Python or R? Why not both?</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-12-02</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/animations-r-en.html">Animations in R</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2018-11-28</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/spectrum-accountancy-en.html">The spectrum of my personal accountancy</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-06-12</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/multidisciplinary-en.html">Things I’ve learned working on a multidisciplinary group</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2018-05-01</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/elevator-en.html">There’s a nerd in my elevator!</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2016-05-09</td>
 <td style="text-align: left;"><a href="https://mappingignorance.org/2016/05/09/the-sound-of-chaos/">The sound of chaos</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2015-07-20</td>
 <td style="text-align: left;"><a href="http://mappingignorance.org/2015/07/20/the-math-of-sex-and-hunger-a-short-history-of-population-dynamics/">The math of sex and hunger</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2015-05-15</td>
 <td style="text-align: left;"><a href="http://mappingignorance.org/2015/05/15/from-gas-to-cash-the-unexpected-applications-of-statistical-mechanics/">From gas to cash. The unexpected applications of statistical mechanics</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
@@ -197,6 +202,16 @@ ellos en inglés, y 87 en español.
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2020-03-20</td>
+<td style="text-align: left;"><a href="https://fuga.naukas.com/2020/03/20/que-es-una-escala-logaritmica/">¿Qué es una escala logarítmica?</a></td>
+<td style="text-align: left;">Naukas</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2020-03-18</td>
+<td style="text-align: left;"><a href="https://fuga.naukas.com/2020/03/18/un-matematico-en-cuarentena/">Un matemático en cuarentena</a></td>
+<td style="text-align: left;">Naukas</td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2019-12-02</td>
 <td style="text-align: left;"><a href="https://fuga.naukas.com/2019/12/02/resumen-de-un-doctorado/">Resumen de un doctorado (sin las partes aburridas)</a></td>
@@ -650,6 +665,14 @@ ellos en inglés, y 87 en español.
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2020-03-11</td>
+<td style="text-align: left;"><a href="https://www.diariodenavarra.es/noticias/vivir/ciencia/2020/03/11/malabares-tienen-mucha-ciencia-683767-3241.html">Los malabares tienen mucha ciencia</a></td>
+<td style="text-align: left;">Interview</td>
+<td style="text-align: left;">Interviewee</td>
+<td style="text-align: left;">UPNA</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2019-12-15</td>
 <td style="text-align: left;"><a href="https://www.hoy.es/sociedad/radio-20191215114114-ntrc.html?fbclid=IwAR0hF4O0i4ihp1B10U6m48XkcpdT8JiqAOBi_MUNdbsYhyjpOIs4Y2o0OC0">Radio X</a></td>
 <td style="text-align: left;">Interview</td>
@@ -657,7 +680,7 @@ ellos en inglés, y 87 en español.
 <td style="text-align: left;">Grupo Vocento</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-08-06</td>
 <td style="text-align: left;"><a href="http://www.rtve.es/alacarta/audios/esto-me-suena-las-tardes-del-ciudadano-garcia/esto-suena-tardes-del-ciudadano-garcia-primera-hora-05-08-19/5361332/">Las tardes del ciudadano García</a></td>
 <td style="text-align: left;">Interview</td>
@@ -665,7 +688,7 @@ ellos en inglés, y 87 en español.
 <td style="text-align: left;">Radio Nacional de España</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-08-31</td>
 <td style="text-align: left;">Las tardes del ciudadano García</td>
 <td style="text-align: left;">Interview</td>
@@ -673,7 +696,7 @@ ellos en inglés, y 87 en español.
 <td style="text-align: left;">Radio Nacional de España</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2017-05-26</td>
 <td style="text-align: left;"><a href="http://institucional.us.es/blogimus/2017/05/que-suerte-han-tenido-los-holandeses/">Qué suerte han tenido los holandeses</a></td>
 <td style="text-align: left;">Interview</td>
@@ -681,7 +704,7 @@ ellos en inglés, y 87 en español.
 <td style="text-align: left;">Universidad de Sevilla</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2017-03-16</td>
 <td style="text-align: left;"><a href="https://www.vozpopuli.com/altavoz/next/cientificos-exiliados-quieren-marca-Espana_0_1008499411.html">Los científicos exiliados no quieren ser marca España</a></td>
 <td style="text-align: left;">Interview</td>
@@ -689,7 +712,7 @@ ellos en inglés, y 87 en español.
 <td style="text-align: left;">Vozpópuli</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2015-12-07</td>
 <td style="text-align: left;">Órbita Laika</td>
 <td style="text-align: left;">TV</td>
@@ -697,7 +720,7 @@ ellos en inglés, y 87 en español.
 <td style="text-align: left;">Televisión Española</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2015-11-04</td>
 <td style="text-align: left;"><a href="http://www.nextdoorpublishers.com/2015/11/pablo-rodriguez-sanchez-responde-nuestro-talk-10/">Talk 10</a></td>
 <td style="text-align: left;">Interview</td>
@@ -705,7 +728,7 @@ ellos en inglés, y 87 en español.
 <td style="text-align: left;">Next Door</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2014-02-17</td>
 <td style="text-align: left;"><a href="http://catastrofeultravioleta.com/03-interferencias/">Catástrofe Ultravioleta #3 Interferencias</a></td>
 <td style="text-align: left;">Podcast</td>
@@ -718,4 +741,4 @@ ellos en inglés, y 87 en español.
 
 ------------------------------------------------------------------------
 
-Built with R 3.4.4 and RStudio.
+Built with R 3.6.3 and RStudio.
