@@ -7,7 +7,7 @@ Lang: en
 Status: hidden
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 04/02/2020, 16:33:19
+Modified: 04/28/2020, 09:53:32
 
 Up to date, I’ve given 13 talks for a general audience. Additionally,
 I’ve published 103 science communication essays: 14 in English, and 89

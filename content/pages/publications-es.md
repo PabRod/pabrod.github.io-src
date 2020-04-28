@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 04/02/2020, 16:33:25
+Modified: 04/28/2020, 09:53:39
 
 Artículos científicos
 ---------------------
@@ -41,10 +41,10 @@ He sido autor o coautor en 4 artículos científicos:
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2019-03-14</td>
-<td style="text-align: left;"><a href="https://arxiv.org/abs/1903.05615">Climbing Escher’s stairs</a></td>
+<td style="text-align: left;"><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007788">Climbing Escher’s stairs: A way to approximate stability landscapes in multidimensional systems</a></td>
 <td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
-<td style="text-align: left;">Accepted</td>
-<td style="text-align: left;">arXiv</td>
+<td style="text-align: left;">Published</td>
+<td style="text-align: left;">Plos Computational Biology</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2018-07-19</td>
