@@ -21,10 +21,10 @@ As usually happens with happy childhoods, there's not much to tell about it.
 ## The physics years (2002-2012)
 In 2002 I was accepted at the Physics School of _Universidad Complutense de Madrid_. I attended my studies while living and working as maths tutor in Guadalajara. The daily 3-hour commuting, and my work, forced me to enroll as a half-time student and graduate slower than I wanted to.
 
-In 2012 I obtained my _Licenciatura_ (spanish equivalent of masters' degree, 5 years long) in physics, with the specialization in _física fundamental_ (theoretical physics) and a thesis on 3D image reconstruction.
+In 2012 I obtained my _Licenciatura_ (spanish equivalent of masters' degree, 5 years long) in physics, with the specialization in _física fundamental_ (theoretical physics) and a thesis on 3D image reconstruction on an Artificial Vision system.
 
 
-## The engineering years (2012-2015)
+## The optics years (2012-2015)
 In 2012, immediately after graduating, I started working as _Research and Development Engineer_ for _Indizen Optical Technologies_. Based in Madrid, _IOT_ is a company focused on the design of lenses for human use. My team took care of the numerical simulations, optimization of surfaces' shapes, ray tracing, design of clinical trials, software development and maintenance and the investigation of new technologies and methods. To put it short: everything related to the physics and math behind the lens making process.
 
 During those years, my interest in programming languages and methods grew dramatically.
