@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 04/28/2020, 09:53:36
+Modified: 08/28/2020, 16:17:08
 
 Estudios reglados
 -----------------
@@ -91,7 +91,7 @@ internacionales:
 Conferencias y talleres
 -----------------------
 
-He participado en 28 conferencias, congresos y talleres:
+He participado en 30 conferencias, congresos y talleres:
 
 <table>
 <thead>
@@ -104,6 +104,20 @@ He participado en 28 conferencias, congresos y talleres:
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2020-07-23</td>
+<td style="text-align: left;"><a href="https://2020.carpentrycon.org/schedule/#session-20">Packaging and Publishing in Python</a></td>
+<td style="text-align: left;">Software Carpentries</td>
+<td style="text-align: left;">Attendant</td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2020-07-14</td>
+<td style="text-align: left;"><a href="https://2020.carpentrycon.org/">CarpentryCon 2020</a></td>
+<td style="text-align: left;">Software Carpentries</td>
+<td style="text-align: left;">Contributed speaker</td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2019-11-21</td>
 <td style="text-align: left;"><a href="https://www.esciencesymposium2019.nl/">National eScience Symposium</a></td>
@@ -305,4 +319,4 @@ He participado en 28 conferencias, congresos y talleres:
 
 ------------------------------------------------------------------------
 
-Built with R 3.6.3 and RStudio.
+Built with R 4.0.2 and RStudio.
