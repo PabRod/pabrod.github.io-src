@@ -23,6 +23,10 @@ Summary: Some things I want to share
 
 Want to contribute? Follow me on [GitHub](https://github.com/PabRod)!
 
+## PhD thesis
+[![fuga](../images/portfolio/thesis_cover.png)](https://doi.org/10.18174/520571)
+
+Available [here](https://doi.org/10.18174/520571).
 ## Talks
 Since 2013, I give at least one popular science talk per year in a theater. Below I show those talks with English subtitles. For a full list, click [here](https://pabrod.github.io/pages/sci-comm-en.html#sci-comm).
 
