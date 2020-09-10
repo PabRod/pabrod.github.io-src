@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 08/28/2020, 16:17:13
+Modified: 09/10/2020, 09:40:55
 
 Scientific articles
 -------------------
@@ -51,6 +51,28 @@ I’ve been author or coauthor in 4 scientific articles:
 <td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
 <td style="text-align: left;">Published</td>
 <td style="text-align: left;">Plos Computational Biology</td>
+</tr>
+</tbody>
+</table>
+
+PhD thesis
+----------
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Date</th>
+<th style="text-align: left;">NameURL</th>
+<th style="text-align: left;">Role</th>
+<th style="text-align: left;">Institution</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">2020-06-15</td>
+<td style="text-align: left;"><a href="https://doi.org/10.18174/520571">Cycles and interactions: a mathematician among biologists</a></td>
+<td style="text-align: left;">Author</td>
+<td style="text-align: left;">WUR</td>
 </tr>
 </tbody>
 </table>
