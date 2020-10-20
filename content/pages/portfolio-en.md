@@ -17,7 +17,7 @@ Summary: Some things I want to share
 |                                                            [**Rolldown**][rolldown]                                                             |                                          [**Elevator tool**][elevator]                                           |
 | _R_ package for computing potentials and pseudopotentials as described in my paper [Climbing Escher's ladder](https://arxiv.org/abs/1903.05615) | Jupyter Notebook showing how much can be done using the smartphone accelerometer inside a skyscrapper's elevator |
 |                                            [![rolldown](../images/portfolio/rolldown.png)][rolldown]                                            |                            [![elevator](../images/portfolio/elevator.png)][elevator]                             |
-|                                                           [**Cambio de hora**][time]                                                            |                                            [**Sleep models**][sleep]                                             |
+|                                                           [**Daylight charts**][time]                                                           |                                            [**Sleep models**][sleep]                                             |
 |          _Shiny app_ showing the seasonal sunlight distribution in different Spanish locations, with and without daylight saving time           |                      _R package_ simulating classical mechanistic models of sleep dynamics                       |
 |                                                  [![time](../images/portfolio/time.png)][time]                                                  |                                  [![sleep](../images/portfolio/bed.png)][sleep]                                  |
 
@@ -51,7 +51,7 @@ Click [here](https://fuga.naukas.com/categoria/ciencia-interactiva/) to access m
 [dyntools]:https://github.com/PabRod/phdtools
 [rolldown]:https://github.com/PabRod/rolldown
 [elevator]:https://github.com/PabRod/elevator-tool
-[time]:https://github.com/PabRod/cambio-de-hora
+[time]:https://github.com/PabRod/daylight-charts
 [sleep]:https://github.com/PabRod/sleepR
 
 ## Scientific publications
