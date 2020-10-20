@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 08/28/2020, 16:17:08
+Modified: 10/20/2020, 16:28:44
 
 Estudios reglados
 -----------------
@@ -91,7 +91,7 @@ internacionales:
 Conferencias y talleres
 -----------------------
 
-He participado en 30 conferencias, congresos y talleres:
+He participado en 32 conferencias, congresos y talleres:
 
 <table>
 <thead>
@@ -104,6 +104,20 @@ He participado en 30 conferencias, congresos y talleres:
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2020-10-19</td>
+<td style="text-align: left;"><a href="https://openeo.org/news/2020-09-02-openeo-user-workshop.html">OpenEO training</a></td>
+<td style="text-align: left;">Technische Universitat Wien</td>
+<td style="text-align: left;">Attendant</td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/at.png" alt="Drawing" title="AUstria" style="width: 30px; height: 20px"/></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2020-09-22</td>
+<td style="text-align: left;">Introduction to dCache and ADA</td>
+<td style="text-align: left;">NLeSC and SURFSara</td>
+<td style="text-align: left;">Attendant</td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2020-07-23</td>
 <td style="text-align: left;"><a href="https://2020.carpentrycon.org/schedule/#session-20">Packaging and Publishing in Python</a></td>
@@ -319,4 +333,4 @@ He participado en 30 conferencias, congresos y talleres:
 
 ------------------------------------------------------------------------
 
-Built with R 4.0.2 and RStudio.
+Built with R 4.0.3 and RStudio.

@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 08/28/2020, 16:17:07
+Modified: 10/20/2020, 16:28:42
 
 Formal education
 ----------------
@@ -89,7 +89,7 @@ I had the following secondments in other institutions:
 Conferences and workshops
 -------------------------
 
-I’ve attended 30 congresses and workshops:
+I’ve attended 32 congresses and workshops:
 
 <table>
 <thead>
@@ -102,6 +102,20 @@ I’ve attended 30 congresses and workshops:
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2020-10-19</td>
+<td style="text-align: left;"><a href="https://openeo.org/news/2020-09-02-openeo-user-workshop.html">OpenEO training</a></td>
+<td style="text-align: left;">Technische Universitat Wien</td>
+<td style="text-align: left;">Attendant</td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/at.png" alt="Drawing" title="AUstria" style="width: 30px; height: 20px"/></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2020-09-22</td>
+<td style="text-align: left;">Introduction to dCache and ADA</td>
+<td style="text-align: left;">NLeSC and SURFSara</td>
+<td style="text-align: left;">Attendant</td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2020-07-23</td>
 <td style="text-align: left;"><a href="https://2020.carpentrycon.org/schedule/#session-20">Packaging and Publishing in Python</a></td>
@@ -317,4 +331,4 @@ I’ve attended 30 congresses and workshops:
 
 ------------------------------------------------------------------------
 
-Built with R 4.0.2 and RStudio.
+Built with R 4.0.3 and RStudio.
