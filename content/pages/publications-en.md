@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 10/20/2020, 16:28:47
+Modified: 11/10/2020, 15:23:26
 
 Scientific articles
 -------------------
