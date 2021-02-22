@@ -6,7 +6,7 @@ Slug: teaching
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Teaching activities
-Modified: 02/22/2021, 11:41:04
+Modified: 02/22/2021, 19:09:35
 
 Teaching
 --------
@@ -31,7 +31,7 @@ I’ve been involved in the teaching of 16 courses:
 <td style="text-align: left;"><a href="https://escience-academy.github.io/2020-12-07-parallel-python/">Introduction to parallel programming with Python</a></td>
 <td style="text-align: left;">Professor</td>
 <td style="text-align: left;">NLeSC</td>
-<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/NA.png" alt="Drawing" title="NA" style="width: 30px; height: 20px"/></td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2020-09-21</td>

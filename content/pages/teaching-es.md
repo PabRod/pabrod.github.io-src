@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividad docente
-Modified: 02/22/2021, 11:41:05
+Modified: 02/22/2021, 19:09:36
 
 Docencia
 --------
@@ -32,7 +32,7 @@ He participado en la docencia de 16 cursos:
 <td style="text-align: left;"><a href="https://escience-academy.github.io/2020-12-07-parallel-python/">Introduction to parallel programming with Python</a></td>
 <td style="text-align: left;">Professor</td>
 <td style="text-align: left;">NLeSC</td>
-<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/NA.png" alt="Drawing" title="NA" style="width: 30px; height: 20px"/></td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2020-09-21</td>
