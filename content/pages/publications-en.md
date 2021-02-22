@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 11/10/2020, 15:23:26
+Modified: 02/22/2021, 11:41:07
 
 Scientific articles
 -------------------
@@ -32,25 +32,25 @@ I’ve been author or coauthor in 4 scientific articles:
 <td style="text-align: left;">RSOS</td>
 </tr>
 <tr class="even">
+<td style="text-align: left;">2020-04-10</td>
+<td style="text-align: left;"><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007788">Climbing Escher’s stairs: A way to approximate stability landscapes in multidimensional systems</a></td>
+<td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
+<td style="text-align: left;">Published</td>
+<td style="text-align: left;">Plos Computational Biology</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;">2020-03-27</td>
 <td style="text-align: left;"><a href="https://arxiv.org/abs/2003.11595">Early warning signals for desynchronization in periodically forced systems</a></td>
 <td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
 <td style="text-align: left;">Preprint</td>
 <td style="text-align: left;">arXiv</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2019-04-22</td>
 <td style="text-align: left;"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13282">Horizontal and vertical diversity jointly shape food web stability against small and large perturbations</a></td>
 <td style="text-align: left;">Qinghua Zhao et al.</td>
 <td style="text-align: left;">Published</td>
 <td style="text-align: left;">Ecology Letters</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">2019-03-14</td>
-<td style="text-align: left;"><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007788">Climbing Escher’s stairs: A way to approximate stability landscapes in multidimensional systems</a></td>
-<td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
-<td style="text-align: left;">Published</td>
-<td style="text-align: left;">Plos Computational Biology</td>
 </tr>
 </tbody>
 </table>
@@ -169,4 +169,4 @@ I made available 8 of my small projects about scientific software:
 
 ------------------------------------------------------------------------
 
-Built with R 4.0.3 and RStudio.
+Built with R 4.0.4 and RStudio.

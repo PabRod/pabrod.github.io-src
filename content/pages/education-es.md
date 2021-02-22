@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 11/10/2020, 15:23:23
+Modified: 02/22/2021, 11:41:03
 
 Estudios reglados
 -----------------
@@ -340,4 +340,4 @@ He participado en 33 conferencias, congresos y talleres:
 
 ------------------------------------------------------------------------
 
-Built with R 4.0.3 and RStudio.
+Built with R 4.0.4 and RStudio.
