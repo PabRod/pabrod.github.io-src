@@ -7,10 +7,10 @@ Lang: en
 Status: hidden
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 02/22/2021, 19:09:29
+Modified: 03/25/2021, 16:09:50
 
 Up to date, I’ve given 16 talks for a general audience. Additionally,
-I’ve published 114 science communication essays: 18 in English, and 96
+I’ve published 117 science communication essays: 19 in English, and 98
 in Spanish.
 
 ### Talks
@@ -136,91 +136,96 @@ in Spanish.
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2021-03-18</td>
+<td style="text-align: left;"><a href="https://blog.esciencecenter.nl/can-mathematical-models-predict-the-future-c362a0fbced2">Can mathematical models predict the future?</a></td>
+<td style="text-align: left;">NLeSC</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2020-11-09</td>
 <td style="text-align: left;"><a href="https://mappingignorance.org/2020/11/09/how-can-we-improve-the-communication-between-mathematics-and-life-sciences/">How can we improve the communication between mathematics and life sciences?</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-10-24</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/clock-en.html">Daylight charts with R</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-10-22</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/how-is-the-end-of-daylight-saving-time-going-to-affect-me-2e6e51f96952">How is the end of daylight saving time going to affect me?</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-08-17</td>
 <td style="text-align: left;"><a href="https://medium.com/p/parallel-r-in-a-nutshell-4391d45b5461?source=email-24f09ca64482--writer.postDistributed&amp;sk=a5ff1c06df7742df06fa80bb055c3324">Parallel R in a nutshell</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-03-18</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/a-mathematician-in-quarantine-4555cfbf9f60">A mathematician in quarantine</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-01-08</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/some-things-that-scientists-can-learn-from-the-arts-5af4921bf9ff">Some things that scientists can learn from the arts</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-01-07</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/parallel-programming-in-python-7fd62c90217d">Parallel computing with Python</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-12-16</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/experiences-of-a-computational-evangelist-4cae135fa829">Experiences of a computational evangelist</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2019-12-12</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/you-dont-know-it-yet-but-software-engineering-is-just-what-you-need-7666d5e36fc9">Are you a researcher? You may not know it yet, but good software skills are just what you need</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-12-08</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/levi-civita-en.html#levi-civita">Visualization of a 3D Levi-Civita symbol</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2019-03-22</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/PyR-en.html#PyR">Python or R? Why not both?</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2018-12-02</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/animations-r-en.html">Animations in R</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-11-28</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/spectrum-accountancy-en.html">The spectrum of my personal accountancy</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2018-06-12</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/multidisciplinary-en.html">Things I’ve learned working on a multidisciplinary group</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-05-01</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/elevator-en.html">There’s a nerd in my elevator!</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2016-05-09</td>
 <td style="text-align: left;"><a href="https://mappingignorance.org/2016/05/09/the-sound-of-chaos/">The sound of chaos</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2015-07-20</td>
 <td style="text-align: left;"><a href="http://mappingignorance.org/2015/07/20/the-math-of-sex-and-hunger-a-short-history-of-population-dynamics/">The math of sex and hunger</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2015-05-15</td>
 <td style="text-align: left;"><a href="http://mappingignorance.org/2015/05/15/from-gas-to-cash-the-unexpected-applications-of-statistical-mechanics/">From gas to cash. The unexpected applications of statistical mechanics</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
@@ -239,6 +244,16 @@ in Spanish.
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2021-03-07</td>
+<td style="text-align: left;"><a href="https://culturacientifica.com/2021/03/07/el-dia-que-el-arte-me-ayudo-a-escribir-un-articulo-de-matematicas/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+CuadernoDeCulturaCientfica+%28Cuaderno+de+Cultura+Cient%C3%ADfica%29">El día que el arte me ayudó a escribir un artículo de matemáticas</a></td>
+<td style="text-align: left;">CCC</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2021-03-03</td>
+<td style="text-align: left;"><a href="https://fuga.naukas.com/2021/03/03/un-doctorado-en-cinco-pizarras/">Un doctorado en cinco pizarras</a></td>
+<td style="text-align: left;">Naukas</td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2020-11-20</td>
 <td style="text-align: left;">Los modelos matemáticos no predicen el futuro, pero ayudan a entenderlo</td>
