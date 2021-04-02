@@ -4,10 +4,9 @@ Category: About-me
 Tags: info
 Slug: sci-comm
 Lang: en
-Status: hidden
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 03/25/2021, 16:09:50
+Modified: 04/02/2021, 11:15:36
 
 Up to date, I’ve given 16 talks for a general audience. Additionally,
 I’ve published 117 science communication essays: 19 in English, and 98

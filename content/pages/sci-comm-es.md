@@ -4,11 +4,10 @@ Category: About-me
 Tags: info
 Slug: sci-comm
 Lang: es
-Status: hidden
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 03/25/2021, 16:09:53
+Modified: 04/02/2021, 11:15:40
 
 A día de hoy he dado 16 charlas para público general. Además, he
 publicado 117 artículos breves sobre comunicación científica: 19 de
