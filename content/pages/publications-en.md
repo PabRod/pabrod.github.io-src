@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 06/11/2021, 15:13:25
+Modified: 06/11/2021, 15:27:32
 
 Scientific articles
 -------------------
@@ -80,7 +80,7 @@ PhD thesis
 Books
 -----
 
-I’ve been involved in the redaction of 1 book:
+I’ve been involved in the writing of 1 book:
 
 <table>
 <thead>
