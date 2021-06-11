@@ -7,12 +7,12 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividad docente
-Modified: 04/02/2021, 11:15:46
+Modified: 06/11/2021, 15:13:24
 
 Docencia
 --------
 
-He participado en la docencia de 17 cursos:
+He participado en la docencia de 18 cursos:
 
 <table>
 <thead>
@@ -27,6 +27,14 @@ He participado en la docencia de 17 cursos:
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2021-05-17</td>
+<td style="text-align: left;">2021-05-20</td>
+<td style="text-align: left;"><a href="https://escience-academy.github.io/2021-05-17-swc-R-nlesc/">Software Carpentry with R</a></td>
+<td style="text-align: left;">Professor</td>
+<td style="text-align: left;">NLeSC</td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2021-03-08</td>
 <td style="text-align: left;">2021-03-11</td>
 <td style="text-align: left;"><a href="https://escience-academy.github.io/2021-03-08-swc-nlesc/">Software Carpentry with Python</a></td>
@@ -34,7 +42,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">NLeSC</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-12-07</td>
 <td style="text-align: left;">2020-12-08</td>
 <td style="text-align: left;"><a href="https://escience-academy.github.io/2020-12-07-parallel-python/">Introduction to parallel programming with Python</a></td>
@@ -42,7 +50,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">NLeSC</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-09-21</td>
 <td style="text-align: left;">2020-09-24</td>
 <td style="text-align: left;"><a href="https://escience-academy.github.io/2020-09-21-SWC-Gapminder/">Software carpentry with R</a></td>
@@ -50,7 +58,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">NLeSC</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-07-30</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><a href="https://2020.carpentrycon.org/schedule/#session-52">Make Your Tools, Scripts and Analyses Open and more FAIR</a></td>
@@ -58,7 +66,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">NLeSC</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-04-14</td>
 <td style="text-align: left;">2020-04-17</td>
 <td style="text-align: left;"><a href="https://escience-academy.github.io/2020-04-14-SWC-online/">Software carpentry online workshop</a></td>
@@ -66,7 +74,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">NLeSC</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-02-11</td>
 <td style="text-align: left;">2020-02-12</td>
 <td style="text-align: left;"><a href="https://escience-academy.github.io/2020-02-11-Reproducible-and-Open-Research/">Getting started with reproducible and open research</a></td>
@@ -74,7 +82,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">NLeSC</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2019-03-28</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Continuous integration with Travis CI</td>
@@ -82,7 +90,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2018-06-14</td>
 <td style="text-align: left;">2018-06-15</td>
 <td style="text-align: left;"><a href="https://ssc.wur.nl/Schedule/Course/AEW-20706">Practical aquatic ecology and water management</a></td>
@@ -90,7 +98,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-06-07</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/intro-to-pdes-en.html">Quick introduction to partial differential equations</a></td>
@@ -98,7 +106,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2017-11-03</td>
 <td style="text-align: left;">2017-12-01</td>
 <td style="text-align: left;">Theoretical ecology</td>
@@ -106,7 +114,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2017-05-18</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">An introduction to Git and GitHub</td>
@@ -114,7 +122,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2017-05-11</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">An introduction to Unit Testing with Matlab</td>
@@ -122,7 +130,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2016-11-04</td>
 <td style="text-align: left;">2016-12-02</td>
 <td style="text-align: left;">Ecology, classics and trends</td>
@@ -130,7 +138,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2016-07-05</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Crash course on linear algebra</td>
@@ -138,7 +146,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2013-10-31</td>
 <td style="text-align: left;">2013-11-07</td>
 <td style="text-align: left;">Introduction to object oriented programming</td>
@@ -146,7 +154,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">Indizen Optical Technologies</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2009-03-01</td>
 <td style="text-align: left;">2009-07-01</td>
 <td style="text-align: left;">Electromagnetism</td>
@@ -154,7 +162,7 @@ He participado en la docencia de 17 cursos:
 <td style="text-align: left;">Universidad Complutense de Madrid</td>
 <td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2007-10-01</td>
 <td style="text-align: left;">2008-02-01</td>
 <td style="text-align: left;">Calculus</td>
@@ -167,4 +175,4 @@ He participado en la docencia de 17 cursos:
 
 ------------------------------------------------------------------------
 
-Built with R 4.0.4 and RStudio.
+Built with R 4.1.0 and RStudio.

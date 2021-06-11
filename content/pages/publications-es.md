@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 04/02/2021, 11:15:49
+Modified: 06/11/2021, 15:13:26
 
 Artículos científicos
 ---------------------
@@ -170,4 +170,4 @@ He publicado 8 pequeños proyectos de software científico:
 
 ------------------------------------------------------------------------
 
-Built with R 4.0.4 and RStudio.
+Built with R 4.1.0 and RStudio.

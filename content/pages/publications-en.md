@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 04/02/2021, 11:15:48
+Modified: 06/11/2021, 15:13:25
 
 Scientific articles
 -------------------
@@ -169,4 +169,4 @@ I made available 8 of my small projects about scientific software:
 
 ------------------------------------------------------------------------
 
-Built with R 4.0.4 and RStudio.
+Built with R 4.1.0 and RStudio.

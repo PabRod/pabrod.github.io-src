@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 04/02/2021, 11:15:40
+Modified: 06/11/2021, 15:13:19
 
 A día de hoy he dado 16 charlas para público general. Además, he
 publicado 117 artículos breves sobre comunicación científica: 19 de
@@ -836,4 +836,4 @@ ellos en inglés, y 98 en español.
 
 ------------------------------------------------------------------------
 
-Built with R 4.0.4 and RStudio.
+Built with R 4.1.0 and RStudio.
