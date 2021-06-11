@@ -7,9 +7,9 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 06/11/2021, 15:27:26
+Modified: 06/11/2021, 15:41:56
 
-A día de hoy he dado 16 charlas para público general. Además, he
+A día de hoy he dado 17 charlas para público general. Además, he
 publicado 117 artículos breves sobre comunicación científica: 19 de
 ellos en inglés, y 98 en español.
 
@@ -26,96 +26,102 @@ ellos en inglés, y 98 en español.
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2021-04-09</td>
+<td style="text-align: left;"><a href="https://utad.jobteaser.com/es/events/100403-top-ingenieria-de-software-y-ciencia-y-despues-que">Ingeniería de software y ciencia. ¿Y después, qué?</a></td>
+<td style="text-align: left;">NLeSC and U-TAD</td>
+<td style="text-align: left;">Spanish</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2021-01-28</td>
 <td style="text-align: left;">Best practices for scientific computing</td>
 <td style="text-align: left;">Rijksuniversiteit Groningen</td>
 <td style="text-align: left;">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-10-16</td>
 <td style="text-align: left;"><a href="https://www.eventbrite.com/e/cvs-cenl-2020-tickets-120247600811">CVs CENL</a></td>
 <td style="text-align: left;">NLeSC and CENL</td>
 <td style="text-align: left;">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-10-12</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/complex-sig-en.html">Complex numbers for research software engineers</a></td>
 <td style="text-align: left;">NLeSC</td>
 <td style="text-align: left;">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2018-09-14</td>
 <td style="text-align: left;"><a href="https://www.eitb.eus/es/divulgacion/videos/detalle/5852752/naukas-bilbao-2018-charla-pablo-rodriguez/">¿Cómo acabé convertido en matemático?</a></td>
 <td style="text-align: left;">Naukas</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-06-19</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/seminar-imperial-en.html">Invasive species: a mathematician among biologists</a></td>
 <td style="text-align: left;">Imperial College London</td>
 <td style="text-align: left;">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2017-11-30</td>
 <td style="text-align: left;">Naukas. A scientific festival</td>
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;">English</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2017-09-16</td>
 <td style="text-align: left;"><a href="https://www.youtube.com/watch?v=RbXoYtQq3aY&amp;yt%3Acc=on">¿Cómo cabrear a un matemático?</a></td>
 <td style="text-align: left;">Naukas</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2016-09-30</td>
 <td style="text-align: left;"><a href="http://dipc.tv/bideoa.php?lang=es&amp;idbideoa=587&amp;idkategoria=0">Relojes rebeldes</a></td>
 <td style="text-align: left;">Naukas</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2016-09-17</td>
 <td style="text-align: left;">Naukas, el musical</td>
 <td style="text-align: left;">Naukas</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2016-09-17</td>
 <td style="text-align: left;"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/4393314/naukas-bilbao-2016--pablo-rodriguez/">De profesión, futurólogo</a></td>
 <td style="text-align: left;">Naukas</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2015-11-19</td>
 <td style="text-align: left;">A molecule in the mirror</td>
 <td style="text-align: left;">WUR</td>
 <td style="text-align: left;">English</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2015-09-11</td>
 <td style="text-align: left;"><a href="https://www.youtube.com/watch?v=6koBb_wKofw&amp;yt%3Acc=on">Caprichos del azar</a></td>
 <td style="text-align: left;">Naukas</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2014-12-10</td>
 <td style="text-align: left;"><a href="http://eliatron.blogspot.be/2014/12/DonMostrenco.html">Astronomía, la tatarabuela de las ciencias exactas</a></td>
 <td style="text-align: left;">Universidad de Sevilla</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2014-09-26</td>
 <td style="text-align: left;"><a href="http://www.eitb.eus/es/divulgacion/naukas-bilbao/videos/detalle/2594702/video-naukas-bilbao-2014pablo-rodriguez-ha-ofrecido-charla-/">Navegación astronómica</a></td>
 <td style="text-align: left;">Naukas</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2013-10-01</td>
 <td style="text-align: left;"><a href="https://www.youtube.com/watch?v=7WRRfW0Yz2o">Moléculas en el espejo</a></td>
 <td style="text-align: left;">Donostia International Physics Center</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2013-09-27</td>
 <td style="text-align: left;"><a href="http://naukas.com/2014/02/18/naukas13-pablo-rodriguez-duros-de-la-ciencia/">Duros de la ciencia</a></td>
 <td style="text-align: left;">Naukas</td>
