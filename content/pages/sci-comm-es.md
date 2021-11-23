@@ -7,10 +7,10 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 06/11/2021, 15:50:03
+Modified: 11/23/2021, 10:07:00
 
-A día de hoy he dado 17 charlas para público general. Además, he
-publicado 117 artículos breves sobre comunicación científica: 19 de
+A día de hoy he dado 19 charlas para público general. Además, he
+publicado 118 artículos breves sobre comunicación científica: 20 de
 ellos en inglés, y 98 en español.
 
 ### Charlas
@@ -25,6 +25,18 @@ ellos en inglés, y 98 en español.
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2021-09-25</td>
+<td style="text-align: left;"><a href="https://www.eitb.eus/es/divulgacion/naukas/videos/detalle/8339987/video-pablo-rodriguez-un-paseo-de-arte-y-de-ciencia-naukas-bilbao-2021/">Un paseo de arte y ciencia</a></td>
+<td style="text-align: left;">Naukas</td>
+<td style="text-align: left;">Spanish</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2021-06-16</td>
+<td style="text-align: left;"><a href="https://pabrod.github.io/softwarewur-en.html">How software development shaped the way I do science</a></td>
+<td style="text-align: left;">NLeSC and WUR</td>
+<td style="text-align: left;">English</td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2021-04-09</td>
 <td style="text-align: left;"><a href="https://utad.jobteaser.com/es/events/100403-top-ingenieria-de-software-y-ciencia-y-despues-que">Ingeniería de software y ciencia. ¿Y después, qué?</a></td>
@@ -142,96 +154,101 @@ ellos en inglés, y 98 en español.
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2021-09-29</td>
+<td style="text-align: left;"><a href="https://blog.esciencecenter.nl/decorators-in-r-ec84eaeca3e3?source=friends_link&amp;sk=d0c218c7d3c5d66426796761d5cb1dcb">Decorators in R</a></td>
+<td style="text-align: left;">NLeSC</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2021-03-18</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/can-mathematical-models-predict-the-future-c362a0fbced2">Can mathematical models predict the future?</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-11-09</td>
 <td style="text-align: left;"><a href="https://mappingignorance.org/2020/11/09/how-can-we-improve-the-communication-between-mathematics-and-life-sciences/">How can we improve the communication between mathematics and life sciences?</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-10-24</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/clock-en.html">Daylight charts with R</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-10-22</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/how-is-the-end-of-daylight-saving-time-going-to-affect-me-2e6e51f96952">How is the end of daylight saving time going to affect me?</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-08-17</td>
 <td style="text-align: left;"><a href="https://medium.com/p/parallel-r-in-a-nutshell-4391d45b5461?source=email-24f09ca64482--writer.postDistributed&amp;sk=a5ff1c06df7742df06fa80bb055c3324">Parallel R in a nutshell</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-03-18</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/a-mathematician-in-quarantine-4555cfbf9f60">A mathematician in quarantine</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-01-08</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/some-things-that-scientists-can-learn-from-the-arts-5af4921bf9ff">Some things that scientists can learn from the arts</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-01-07</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/parallel-programming-in-python-7fd62c90217d">Parallel computing with Python</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2019-12-16</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/experiences-of-a-computational-evangelist-4cae135fa829">Experiences of a computational evangelist</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-12-12</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/you-dont-know-it-yet-but-software-engineering-is-just-what-you-need-7666d5e36fc9">Are you a researcher? You may not know it yet, but good software skills are just what you need</a></td>
 <td style="text-align: left;">NLeSC</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2019-12-08</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/levi-civita-en.html#levi-civita">Visualization of a 3D Levi-Civita symbol</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-03-22</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/PyR-en.html#PyR">Python or R? Why not both?</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-12-02</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/animations-r-en.html">Animations in R</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2018-11-28</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/spectrum-accountancy-en.html">The spectrum of my personal accountancy</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-06-12</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/multidisciplinary-en.html">Things I’ve learned working on a multidisciplinary group</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2018-05-01</td>
 <td style="text-align: left;"><a href="https://pabrod.github.io/elevator-en.html">There’s a nerd in my elevator!</a></td>
 <td style="text-align: left;">Personal page</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2016-05-09</td>
 <td style="text-align: left;"><a href="https://mappingignorance.org/2016/05/09/the-sound-of-chaos/">The sound of chaos</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2015-07-20</td>
 <td style="text-align: left;"><a href="http://mappingignorance.org/2015/07/20/the-math-of-sex-and-hunger-a-short-history-of-population-dynamics/">The math of sex and hunger</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2015-05-15</td>
 <td style="text-align: left;"><a href="http://mappingignorance.org/2015/05/15/from-gas-to-cash-the-unexpected-applications-of-statistical-mechanics/">From gas to cash. The unexpected applications of statistical mechanics</a></td>
 <td style="text-align: left;">Mapping ignorance</td>
@@ -758,6 +775,22 @@ ellos en inglés, y 98 en español.
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2021-07-13</td>
+<td style="text-align: left;"><a href="https://www.rtve.es/play/audios/hoy-empieza-todo-con-angel-carmona/ciencia-catacrocker-rene-merino-acoge-plato-13-07-2021/5990108/">Hoy empieza todo</a></td>
+<td style="text-align: left;">Interview</td>
+<td style="text-align: left;">Interviewee</td>
+<td style="text-align: left;">Radio Nacional de España</td>
+<td style="text-align: left;">Spanish</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2021-07-07</td>
+<td style="text-align: left;"><a href="https://www.vozpopuli.com/next/sincronizacion-luciernagas.html">¿Por qué se sincronizan las luciérnagas?</a></td>
+<td style="text-align: left;">Interview</td>
+<td style="text-align: left;">Interviewee</td>
+<td style="text-align: left;">NLeSC and WUR</td>
+<td style="text-align: left;">Spanish</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;">2020-03-11</td>
 <td style="text-align: left;"><a href="https://www.diariodenavarra.es/noticias/vivir/ciencia/2020/03/11/malabares-tienen-mucha-ciencia-683767-3241.html">Interview in Diario de Noticias</a></td>
 <td style="text-align: left;">Interview</td>
@@ -842,4 +875,4 @@ ellos en inglés, y 98 en español.
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.0 and RStudio.
+Built with R 4.1.2 and RStudio.

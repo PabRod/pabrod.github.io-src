@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 06/11/2021, 15:50:04
+Modified: 11/23/2021, 10:07:01
 
 Formal education
 ----------------
@@ -338,4 +338,4 @@ I’ve attended 33 congresses and workshops:
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.0 and RStudio.
+Built with R 4.1.2 and RStudio.

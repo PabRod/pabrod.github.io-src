@@ -6,7 +6,7 @@ Slug: teaching
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Teaching activities
-Modified: 06/11/2021, 15:50:07
+Modified: 11/23/2021, 10:07:03
 
 Teaching
 --------
@@ -174,4 +174,4 @@ I’ve been involved in the teaching of 18 courses:
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.0 and RStudio.
+Built with R 4.1.2 and RStudio.
