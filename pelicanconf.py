@@ -29,7 +29,7 @@ STATIC_PATHS = ['images', 'pdfs']
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = 'en'
 
 # Extract metadata from filename
 # FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
@@ -40,9 +40,9 @@ SUMMARY_MAX_LENGTH = 25 # Only used if summary is not specified
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-TRANSLATION_FEED_ATOM = 'feeds/all-%s.atom.xml'
+TRANSLATION_FEED_ATOM = 'feeds/all-{lang}.atom.xml'
 CATEGORY_FEED_ATOM = None
-TAG_FEED_ATOM = 'feeds/tag-%s.atom.xml'
+TAG_FEED_ATOM = 'feeds/tag-{slug}.atom.xml'
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
