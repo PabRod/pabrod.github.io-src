@@ -6,11 +6,11 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 03/18/2022, 16:03:48
+Modified: 04/15/2022, 14:58:08
 
 ## Scientific articles
 
-I’ve been author or coauthor in 4 scientific articles:
+I’ve been author or coauthor in 5 scientific articles:
 
 <table>
 <thead>
@@ -24,6 +24,18 @@ I’ve been author or coauthor in 4 scientific articles:
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2022-03-14</td>
+<td style="text-align: left;"><a
+href="https://doi.org/10.1016/j.rse.2022.112991">Evaluating recovery
+metrics derived from optical time series over tropical forest
+ecosystems</a></td>
+<td style="text-align: left;">Wanda De Keersmaecker, Pablo Rodríguez
+Sánchez, Milutin Milencović, Martin Herold, Johannes Reiche, Jan
+Verbesselt</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Remote Sensing of Environment</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2020-06-17</td>
 <td style="text-align: left;"><a
 href="https://royalsocietypublishing.org/doi/10.1098/rsos.191532">Neutral
@@ -33,7 +45,7 @@ Nes, Marten Scheffer</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">RSOS</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-04-10</td>
 <td style="text-align: left;"><a
 href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007788">Climbing
@@ -44,7 +56,7 @@ Nes, Marten Scheffer</td>
 <td style="text-align: left;">Published</td>
 <td style="text-align: left;">Plos Computational Biology</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-03-27</td>
 <td style="text-align: left;"><a
 href="https://arxiv.org/abs/2003.11595">Early warning signals for
@@ -54,7 +66,7 @@ Nes, Marten Scheffer</td>
 <td style="text-align: left;">Preprint</td>
 <td style="text-align: left;">arXiv</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-04-22</td>
 <td style="text-align: left;"><a
 href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13282">Horizontal
@@ -194,4 +206,4 @@ chaos</a></td>
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.1.3 and RStudio.

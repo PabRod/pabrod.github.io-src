@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 03/18/2022, 16:03:44
+Modified: 04/15/2022, 14:58:04
 
 ## Estudios reglados
 
@@ -433,4 +433,4 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png"
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.1.3 and RStudio.

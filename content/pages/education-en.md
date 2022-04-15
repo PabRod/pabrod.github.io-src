@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 03/18/2022, 16:03:43
+Modified: 04/15/2022, 14:58:03
 
 ## Formal education
 
@@ -431,4 +431,4 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png"
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.1.3 and RStudio.

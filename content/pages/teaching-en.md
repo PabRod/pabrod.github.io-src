@@ -6,11 +6,11 @@ Slug: teaching
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Teaching activities
-Modified: 03/18/2022, 16:03:46
+Modified: 04/15/2022, 14:58:06
 
 ## Teaching
 
-I’ve been involved in the teaching of 18 courses:
+I’ve been involved in the teaching of 19 courses:
 
 <table>
 <thead>
@@ -25,6 +25,17 @@ I’ve been involved in the teaching of 18 courses:
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2022-03-22</td>
+<td style="text-align: left;">2022-03-24</td>
+<td style="text-align: left;"><a
+href="https://esciencecenter-digital-skills.github.io/2022-03-22-ds-rpackaging/">R
+Packaging</a></td>
+<td style="text-align: left;">Professor</td>
+<td style="text-align: left;">NLeSC</td>
+<td
+style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2021-05-17</td>
 <td style="text-align: left;">2021-05-20</td>
 <td style="text-align: left;"><a
@@ -35,7 +46,7 @@ Carpentry with R</a></td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2021-03-08</td>
 <td style="text-align: left;">2021-03-11</td>
 <td style="text-align: left;"><a
@@ -46,7 +57,7 @@ Carpentry with Python</a></td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-12-07</td>
 <td style="text-align: left;">2020-12-08</td>
 <td style="text-align: left;"><a
@@ -57,7 +68,7 @@ to parallel programming with Python</a></td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-09-21</td>
 <td style="text-align: left;">2020-09-24</td>
 <td style="text-align: left;"><a
@@ -68,7 +79,7 @@ carpentry with R</a></td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-07-30</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><a
@@ -79,7 +90,7 @@ Tools, Scripts and Analyses Open and more FAIR</a></td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="NEtherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-04-14</td>
 <td style="text-align: left;">2020-04-17</td>
 <td style="text-align: left;"><a
@@ -90,7 +101,7 @@ carpentry online workshop</a></td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-02-11</td>
 <td style="text-align: left;">2020-02-12</td>
 <td style="text-align: left;"><a
@@ -101,7 +112,7 @@ started with reproducible and open research</a></td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-03-28</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Continuous integration with Travis CI</td>
@@ -110,7 +121,7 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png"
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-06-14</td>
 <td style="text-align: left;">2018-06-15</td>
 <td style="text-align: left;"><a
@@ -121,7 +132,7 @@ ecology and water management</a></td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2018-06-07</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><a
@@ -132,7 +143,7 @@ to partial differential equations</a></td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2017-11-03</td>
 <td style="text-align: left;">2017-12-01</td>
 <td style="text-align: left;">Theoretical ecology</td>
@@ -141,7 +152,7 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png"
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2017-05-18</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">An introduction to Git and GitHub</td>
@@ -150,7 +161,7 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png"
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2017-05-11</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">An introduction to Unit Testing with
@@ -160,7 +171,7 @@ Matlab</td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2016-11-04</td>
 <td style="text-align: left;">2016-12-02</td>
 <td style="text-align: left;">Ecology, classics and trends</td>
@@ -169,7 +180,7 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png"
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2016-07-05</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Crash course on linear algebra</td>
@@ -178,7 +189,7 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png"
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2013-10-31</td>
 <td style="text-align: left;">2013-11-07</td>
 <td style="text-align: left;">Introduction to object oriented
@@ -188,7 +199,7 @@ programming</td>
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2009-03-01</td>
 <td style="text-align: left;">2009-07-01</td>
 <td style="text-align: left;">Electromagnetism</td>
@@ -197,7 +208,7 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png"
 <td
 style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2007-10-01</td>
 <td style="text-align: left;">2008-02-01</td>
 <td style="text-align: left;">Calculus</td>
@@ -211,4 +222,4 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png"
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.1.3 and RStudio.

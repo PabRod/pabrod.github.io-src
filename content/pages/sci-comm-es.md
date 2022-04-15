@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 03/18/2022, 16:03:42
+Modified: 04/15/2022, 14:58:01
 
 A día de hoy he dado 20 charlas para público general. Además, he
 publicado 118 artículos breves sobre comunicación científica: 20 de
@@ -1170,4 +1170,4 @@ Ultravioleta #3 Interferencias</a></td>
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.1.3 and RStudio.
