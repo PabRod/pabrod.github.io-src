@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 04/15/2022, 14:58:08
+Modified: 04/15/2022, 21:10:29
 
 ## Scientific articles
 
@@ -29,9 +29,9 @@ I’ve been author or coauthor in 5 scientific articles:
 href="https://doi.org/10.1016/j.rse.2022.112991">Evaluating recovery
 metrics derived from optical time series over tropical forest
 ecosystems</a></td>
-<td style="text-align: left;">Wanda De Keersmaecker, Pablo Rodríguez
-Sánchez, Milutin Milencović, Martin Herold, Johannes Reiche, Jan
-Verbesselt</td>
+<td style="text-align: left;">Wanda De Keersmaecker, Pablo
+Rodríguez-Sánchez, Milutin Milencović, Martin Herold, Johannes Reiche,
+Jan Verbesselt</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Remote Sensing of Environment</td>
 </tr>

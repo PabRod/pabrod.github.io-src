@@ -47,7 +47,6 @@ With more than two million visits per month, [naukas.com](http://naukas.com/) is
 
 Since 2011, and under the patronage of the Basque Country University, we organize a yearly science communication festival that, in the last editions, congregated an audience of a few thousands.
 
-
 These activities have been the background _"soundtrack"_ of the last years.
 
 All my science communication activity is listed [here]({filename}/pages/sci-comm-en.md).

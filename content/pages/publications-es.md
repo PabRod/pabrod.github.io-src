@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 04/15/2022, 14:58:09
+Modified: 04/15/2022, 21:10:31
 
 ## Artículos científicos
 
@@ -30,9 +30,9 @@ He sido autor o coautor en 5 artículos científicos:
 href="https://doi.org/10.1016/j.rse.2022.112991">Evaluating recovery
 metrics derived from optical time series over tropical forest
 ecosystems</a></td>
-<td style="text-align: left;">Wanda De Keersmaecker, Pablo Rodríguez
-Sánchez, Milutin Milencović, Martin Herold, Johannes Reiche, Jan
-Verbesselt</td>
+<td style="text-align: left;">Wanda De Keersmaecker, Pablo
+Rodríguez-Sánchez, Milutin Milencović, Martin Herold, Johannes Reiche,
+Jan Verbesselt</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Remote Sensing of Environment</td>
 </tr>
