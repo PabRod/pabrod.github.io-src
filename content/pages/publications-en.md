@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 04/15/2022, 21:10:29
+Modified: 05/24/2022, 13:15:08
 
 ## Scientific articles
 
@@ -206,4 +206,4 @@ chaos</a></td>
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.3 and RStudio.
+Built with R 4.2.0 and RStudio.

@@ -7,11 +7,11 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 04/15/2022, 21:10:20
+Modified: 05/24/2022, 13:15:04
 
 A día de hoy he dado 20 charlas para público general. Además, he
-publicado 118 artículos breves sobre comunicación científica: 20 de
-ellos en inglés, y 98 en español.
+publicado 120 artículos breves sobre comunicación científica: 20 de
+ellos en inglés, y 100 en español.
 
 ### Charlas
 
@@ -349,6 +349,20 @@ mechanics</a></td>
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2022-05-23</td>
+<td style="text-align: left;"><a
+href="https://elpais.com/ciencia/cafe-y-teoremas/2022-05-23/las-matematicas-de-los-juegos-malabares.html">Las
+matemáticas de los juegos malabares</a></td>
+<td style="text-align: left;">El País</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2022-04-27</td>
+<td style="text-align: left;"><a
+href="https://fuga.naukas.com/2022/04/27/parece-un-dialogo-pero-lo-es/">Parece
+un diálogo pero, ¿lo es?</a></td>
+<td style="text-align: left;">Naukas</td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2021-03-07</td>
 <td style="text-align: left;"><a
@@ -1052,8 +1066,8 @@ satélites artificiales</a></td>
 <tr class="odd">
 <td style="text-align: left;">2021-07-13</td>
 <td style="text-align: left;"><a
-href="https://www.rtve.es/play/audios/hoy-empieza-todo-con-angel-carmona/ciencia-catacrocker-rene-merino-acoge-plato-13-07-2021/5990108/">2,00
-€</a></td>
+href="https://www.rtve.es/play/audios/hoy-empieza-todo-con-angel-carmona/ciencia-catacrocker-rene-merino-acoge-plato-13-07-2021/5990108/">Entrevista
+en Hoy empieza todo</a></td>
 <td style="text-align: left;">Interview</td>
 <td style="text-align: left;">Interviewee</td>
 <td style="text-align: left;">Radio Nacional de España</td>
@@ -1170,4 +1184,4 @@ Ultravioleta #3 Interferencias</a></td>
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.3 and RStudio.
+Built with R 4.2.0 and RStudio.
