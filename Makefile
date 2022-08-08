@@ -83,7 +83,11 @@ autoreport:
 
 # Update all and show
 all:
-	make autoreport && make html && make serve
+	make autoreport && make qall
+
+# Quick update (no autoreport)
+qall:
+	make html && make serve
 
 serve:
 ifdef PORT
