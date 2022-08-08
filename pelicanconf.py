@@ -29,7 +29,7 @@ STATIC_PATHS = ['images', 'pdfs']
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'English'
 
 # Extract metadata from filename
 # FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})_(?P<slug>.*)'
