@@ -87,9 +87,9 @@ all:
 
 serve:
 ifdef PORT
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+	pelican --listen --autoreload $(PORT)
 else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	pelican --listen --autoreload
 endif
 
 serve-global:
