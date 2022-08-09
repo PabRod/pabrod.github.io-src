@@ -45,6 +45,7 @@ help:
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
 	@echo '   make all                            autoreport + html + serve          '
+	@echo '   make qall                           html + serve                       '
 	@echo '   make clean                          remove the generated files         '
 	@echo '   make autoreport                     updates local files with database  '
 	@echo '   make html                           (re)generate the web site          '
