@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 05/24/2022, 13:29:14
+Modified: 12/30/2022, 15:36:21
 
 ## Artículos científicos
 
@@ -207,4 +207,4 @@ chaos</a></td>
 
 ------------------------------------------------------------------------
 
-Built with R 4.2.0 and RStudio.
+Built with R 4.2.2 and RStudio.

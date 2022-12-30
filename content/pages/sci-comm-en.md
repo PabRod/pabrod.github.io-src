@@ -6,11 +6,11 @@ Slug: sci-comm
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 05/24/2022, 13:29:06
+Modified: 12/30/2022, 15:36:12
 
 Up to date, I’ve given 20 talks for a general audience. Additionally,
-I’ve published 120 science communication blog pieces: 20 in English, and
-100 in Spanish.
+I’ve published 127 science communication blog pieces: 24 in English, and
+102 in Spanish.
 
 ### Talks
 
@@ -192,6 +192,34 @@ de la ciencia</a></td>
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2022-10-19</td>
+<td style="text-align: left;"><a
+href="https://www.cenetherlands.nl/en/why-am-i-learning-dutch/">Why am I
+learning Dutch?</a></td>
+<td style="text-align: left;">CENL</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2022-10-12</td>
+<td style="text-align: left;"><a
+href="https://blog.esciencecenter.nl/how-can-we-improve-the-communication-between-mathematics-and-life-sciences-30351ccec8df?source=friends_link&amp;sk=3fbab3dff15fda219bd790c4c8866f81">Mathematics
+and biology: a symbiosis</a></td>
+<td style="text-align: left;">NLeSC</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2022-09-08</td>
+<td style="text-align: left;"><a
+href="https://blog.esciencecenter.nl/fun-with-elevators-a-tutorial-dff473d69d32?source=friends_link&amp;sk=7318c00148110881ca571668ba3298b5">Fun
+with elevators: a tutorial</a></td>
+<td style="text-align: left;">NLeSC</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2022-06-30</td>
+<td style="text-align: left;"><a
+href="https://blog.esciencecenter.nl/a-single-rule-for-better-talks-816bb3d422ae">A
+single rule for better talks</a></td>
+<td style="text-align: left;">NLeSC</td>
+</tr>
+<tr class="odd">
 <td style="text-align: left;">2021-09-29</td>
 <td style="text-align: left;"><a
 href="https://blog.esciencecenter.nl/decorators-in-r-ec84eaeca3e3?source=friends_link&amp;sk=d0c218c7d3c5d66426796761d5cb1dcb">Decorators
@@ -348,6 +376,20 @@ mechanics</a></td>
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2022-10-19</td>
+<td style="text-align: left;"><a
+href="https://www.cenetherlands.nl/por-que-aprendi-neerlandes/">¿Por qué
+aprendí neerlandés?</a></td>
+<td style="text-align: left;">CENL</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2022-06-30</td>
+<td style="text-align: left;"><a
+href="https://fuga.naukas.com/2022/06/30/mi-primer-tornado/">Mi primer
+tornado</a></td>
+<td style="text-align: left;">Naukas</td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2022-05-23</td>
 <td style="text-align: left;"><a
@@ -1063,6 +1105,16 @@ satélites artificiales</a></td>
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: left;">2022-12-13</td>
+<td style="text-align: left;"><a
+href="https://www.rtve.es/play/audios/punto-de-enlace/punto-enlace-pablo-rodriguez-experto-software-cientifico-holanda-13-12-22/6755789/">Interview
+in Punto de Enlace</a></td>
+<td style="text-align: left;">Interview</td>
+<td style="text-align: left;">Interviewee</td>
+<td style="text-align: left;">CENL</td>
+<td style="text-align: left;">Spanish</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">2021-07-13</td>
 <td style="text-align: left;"><a
 href="https://www.rtve.es/play/audios/hoy-empieza-todo-con-angel-carmona/ciencia-catacrocker-rene-merino-acoge-plato-13-07-2021/5990108/">Entrevista
@@ -1072,7 +1124,7 @@ en Hoy empieza todo</a></td>
 <td style="text-align: left;">Radio Nacional de España</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2021-07-07</td>
 <td style="text-align: left;"><a
 href="https://www.vozpopuli.com/next/sincronizacion-luciernagas.html">¿Por
@@ -1082,7 +1134,7 @@ qué se sincronizan las luciérnagas?</a></td>
 <td style="text-align: left;">NLeSC and WUR</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2020-03-11</td>
 <td style="text-align: left;"><a
 href="https://www.diariodenavarra.es/noticias/vivir/ciencia/2020/03/11/malabares-tienen-mucha-ciencia-683767-3241.html">Interview
@@ -1092,7 +1144,7 @@ in Diario de Noticias</a></td>
 <td style="text-align: left;">NLeSC and UPNA</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2020-03-11</td>
 <td style="text-align: left;"><a
 href="https://www.diariodenavarra.es/noticias/vivir/ciencia/2020/03/11/malabares-tienen-mucha-ciencia-683767-3241.html">Los
@@ -1102,7 +1154,7 @@ malabares tienen mucha ciencia</a></td>
 <td style="text-align: left;">UPNA</td>
 <td style="text-align: left;"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2019-12-15</td>
 <td style="text-align: left;"><a
 href="https://www.hoy.es/sociedad/radio-20191215114114-ntrc.html?fbclid=IwAR0hF4O0i4ihp1B10U6m48XkcpdT8JiqAOBi_MUNdbsYhyjpOIs4Y2o0OC0">Radio
@@ -1112,7 +1164,7 @@ X</a></td>
 <td style="text-align: left;">Grupo Vocento</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2019-08-06</td>
 <td style="text-align: left;"><a
 href="http://www.rtve.es/alacarta/audios/esto-me-suena-las-tardes-del-ciudadano-garcia/esto-suena-tardes-del-ciudadano-garcia-primera-hora-05-08-19/5361332/">Las
@@ -1122,7 +1174,7 @@ tardes del ciudadano García</a></td>
 <td style="text-align: left;">Radio Nacional de España</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2018-08-31</td>
 <td style="text-align: left;">Las tardes del ciudadano García</td>
 <td style="text-align: left;">Interview</td>
@@ -1130,7 +1182,7 @@ tardes del ciudadano García</a></td>
 <td style="text-align: left;">Radio Nacional de España</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2017-05-26</td>
 <td style="text-align: left;"><a
 href="http://institucional.us.es/blogimus/2017/05/que-suerte-han-tenido-los-holandeses/">Qué
@@ -1140,7 +1192,7 @@ suerte han tenido los holandeses</a></td>
 <td style="text-align: left;">Universidad de Sevilla</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2017-03-16</td>
 <td style="text-align: left;"><a
 href="https://www.vozpopuli.com/altavoz/next/cientificos-exiliados-quieren-marca-Espana_0_1008499411.html">Los
@@ -1150,7 +1202,7 @@ científicos exiliados no quieren ser marca España</a></td>
 <td style="text-align: left;">Vozpópuli</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2015-12-07</td>
 <td style="text-align: left;">Órbita Laika</td>
 <td style="text-align: left;">TV</td>
@@ -1158,7 +1210,7 @@ científicos exiliados no quieren ser marca España</a></td>
 <td style="text-align: left;">Televisión Española</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">2015-11-04</td>
 <td style="text-align: left;"><a
 href="http://www.nextdoorpublishers.com/2015/11/pablo-rodriguez-sanchez-responde-nuestro-talk-10/">Talk
@@ -1168,7 +1220,7 @@ href="http://www.nextdoorpublishers.com/2015/11/pablo-rodriguez-sanchez-responde
 <td style="text-align: left;">Next Door</td>
 <td style="text-align: left;">Spanish</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">2014-02-17</td>
 <td style="text-align: left;"><a
 href="http://catastrofeultravioleta.com/03-interferencias/">Catástrofe
@@ -1183,4 +1235,4 @@ Ultravioleta #3 Interferencias</a></td>
 
 ------------------------------------------------------------------------
 
-Built with R 4.2.0 and RStudio.
+Built with R 4.2.2 and RStudio.

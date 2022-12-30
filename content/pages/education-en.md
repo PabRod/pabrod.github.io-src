@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 05/24/2022, 13:29:09
+Modified: 12/30/2022, 15:36:16
 
 ## Formal education
 
@@ -92,7 +92,7 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/de.png"
 
 ## Conferences and workshops
 
-I’ve attended 34 congresses and workshops:
+I’ve attended 36 congresses and workshops:
 
 <table>
 <thead>
@@ -105,6 +105,22 @@ I’ve attended 34 congresses and workshops:
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2022-12-06</td>
+<td style="text-align: left;">eScience Fellows Day</td>
+<td style="text-align: left;">CENL</td>
+<td style="text-align: left;">Attendant</td>
+<td
+style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2022-11-09</td>
+<td style="text-align: left;">NL RSE 22</td>
+<td style="text-align: left;">CENL</td>
+<td style="text-align: left;">Attendant</td>
+<td
+style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2022-04-19</td>
 <td style="text-align: left;"><a
@@ -441,4 +457,4 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png"
 
 ------------------------------------------------------------------------
 
-Built with R 4.2.0 and RStudio.
+Built with R 4.2.2 and RStudio.

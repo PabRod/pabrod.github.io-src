@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividad docente
-Modified: 05/24/2022, 13:29:12
+Modified: 12/30/2022, 15:36:19
 
 ## Docencia
 
@@ -223,4 +223,4 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png"
 
 ------------------------------------------------------------------------
 
-Built with R 4.2.0 and RStudio.
+Built with R 4.2.2 and RStudio.

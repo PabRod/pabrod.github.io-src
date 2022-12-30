@@ -6,7 +6,7 @@ Slug: teaching
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Teaching activities
-Modified: 05/24/2022, 13:29:11
+Modified: 12/30/2022, 15:36:18
 
 ## Teaching
 
@@ -222,4 +222,4 @@ style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png"
 
 ------------------------------------------------------------------------
 
-Built with R 4.2.0 and RStudio.
+Built with R 4.2.2 and RStudio.
