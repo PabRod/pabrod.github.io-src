@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ghpages"
+version = "0.1.0"
+description = "My personal site"
+authors = ["Pablo Rodríguez Sánchez <pablo.rodriguez.sanchez@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pelican = "^4.8.0"
+markdown = "^3.4.1"
+
+
+[tool.poetry.group.optional.dependencies]
+typogrify = "^2.0.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
