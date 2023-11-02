@@ -90,6 +90,24 @@ all:
 qall:
 	make html && make serve
 
+auto:
+	make autoreport && make html && make remote
+
+remote:
+	make commit-output && make push-output && make commit-ghpages && make push-ghpages
+
+commit-output:
+	cd output && git add -u && git commit -m "Automatic update"
+
+push-output:
+	cd output && git push
+
+commit-ghpages:
+	git add -u && git commit -m "Automatic update"
+
+push-ghpages:
+	git push
+
 serve:
 ifdef PORT
 	pelican --listen --autoreload $(PORT)

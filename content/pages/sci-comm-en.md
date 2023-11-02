@@ -6,7 +6,7 @@ Slug: sci-comm
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 11/02/2023, 09:36:15
+Modified: 11/02/2023, 09:50:00
 
 Up to date, I’ve given 23 talks for a general audience. Additionally,
 I’ve published 130 science communication blog pieces: 26 in English, and
@@ -40,7 +40,7 @@ I’ve published 130 science communication blog pieces: 26 in English, and
 <td style="text-align: left;">2023-04-11</td>
 <td style="text-align: left;"><a href="https://mathematischcongres.nl/nmc2023/programme-nmc-2023/">Introducing the eScience Center</a></td>
 <td style="text-align: left;">Nederlands Matematisch Congres</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">English</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2022-03-14</td>

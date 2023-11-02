@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 11/02/2023, 09:36:18
+Modified: 11/02/2023, 09:50:03
 
 A día de hoy he dado 23 charlas para público general. Además, he
 publicado 130 artículos breves sobre comunicación científica: 26 de
@@ -41,7 +41,7 @@ ellos en inglés, y 103 en español.
 <td style="text-align: left;">2023-04-11</td>
 <td style="text-align: left;"><a href="https://mathematischcongres.nl/nmc2023/programme-nmc-2023/">Introducing the eScience Center</a></td>
 <td style="text-align: left;">Nederlands Matematisch Congres</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">English</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2022-03-14</td>
