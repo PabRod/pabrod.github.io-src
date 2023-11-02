@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 03/07/2023, 15:45:12
+Modified: 11/02/2023, 09:36:19
 
 Formal education
 ----------------
@@ -89,7 +89,7 @@ I had the following secondments in other institutions:
 Conferences and workshops
 -------------------------
 
-I’ve attended 36 congresses and workshops:
+I’ve attended 38 congresses and workshops:
 
 <table>
 <thead>
@@ -102,6 +102,20 @@ I’ve attended 36 congresses and workshops:
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2023-10-09</td>
+<td style="text-align: left;"><a href="https://www.cwi.nl/nl/events/cwi-research-semester-programs/autumn-school-scientific-machine-learning-semester-programme/">Scientific Machine Learning and Dynamical Systems</a></td>
+<td style="text-align: left;">Centrum voor Wiskunde en Informatica</td>
+<td style="text-align: left;">Attendant</td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2023-09-15</td>
+<td style="text-align: left;"><a href="https://naukas.com/2023/09/06/ya-tenemos-programa-definitivo-de-naukas-bilbao-2023/">Naukas 2023</a></td>
+<td style="text-align: left;">Naukas</td>
+<td style="text-align: left;">Attendant</td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/es.png" alt="Drawing" title="Spain" style="width: 30px; height: 20px"/></td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2022-12-06</td>
 <td style="text-align: left;">eScience Fellows Day</td>
