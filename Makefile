@@ -90,6 +90,7 @@ all:
 qall:
 	make html && make serve
 
+# Automatic full update
 auto:
 	make autoreport && make html && make remote
 
