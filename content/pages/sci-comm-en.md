@@ -6,7 +6,7 @@ Slug: sci-comm
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Activities and publications related with science communication
-Modified: 11/10/2023, 14:36:02
+Modified: 11/10/2023, 15:05:13
 
 Up to date, I’ve given 23 talks for a general audience. Additionally,
 I’ve published 130 science communication blog pieces: 26 in English, and
