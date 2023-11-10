@@ -7,10 +7,10 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividades y publicaciones relacionadas con la comunicación científica
-Modified: 11/10/2023, 15:05:15
+Modified: 11/10/2023, 15:08:35
 
 A día de hoy he dado 23 charlas para público general. Además, he
-publicado 130 artículos breves sobre comunicación científica: 26 de
+publicado 132 artículos breves sobre comunicación científica: 28 de
 ellos en inglés, y 103 en español.
 
 ### Charlas
@@ -177,6 +177,16 @@ ellos en inglés, y 103 en español.
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td style="text-align: left;">2023-11-09</td>
+<td style="text-align: left;"><a href="https://blog.esciencecenter.nl/automatic-differentiation-from-scratch-23d50c699555?source=friends_link&amp;sk=839f0d0e9a2c19b87e7733a34ed67f0e">Automatic differentiation from scratch</a></td>
+<td style="text-align: left;">NLeSC</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2023-03-24</td>
+<td style="text-align: left;"><a href="https://www.growkudos.com/publications/10.1371%25252Fjournal.pcbi.1007788/reader">When art helped me write a mathematical article</a></td>
+<td style="text-align: left;">Kudos</td>
+</tr>
 <tr class="odd">
 <td style="text-align: left;">2023-03-16</td>
 <td style="text-align: left;"><a href="https://blog.esciencecenter.nl/the-bike-and-the-laptop-c7f32eddd07d">The bike and the laptop</a></td>
