@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 12/01/2023, 14:50:28
+Modified: 12/06/2023, 11:27:42
 
 Formal education
 ----------------
@@ -121,7 +121,7 @@ I’ve attended 42 congresses and workshops:
 <td style="text-align: left;">NL-RSE</td>
 <td style="text-align: left;">NLeSC</td>
 <td style="text-align: left;">Attendant</td>
-<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/NA.png" alt="Drawing" title="NA" style="width: 30px; height: 20px"/></td>
+<td style="text-align: left;"><img src="http://flagpedia.net/data/flags/mini/nl.png" alt="Drawing" title="Netherlands" style="width: 30px; height: 20px"/></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2023-11-10</td>

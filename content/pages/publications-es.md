@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 12/01/2023, 14:50:34
+Modified: 12/06/2023, 11:27:48
 
 Artículos científicos
 ---------------------
@@ -43,28 +43,28 @@ He sido autor o coautor en 9 artículos científicos:
 <td style="text-align: left;">2023-02-11</td>
 <td style="text-align: left;"><a href="https://doi.org/10.1016/j.scitotenv.2023.162173">Effects of the antidepressant fluoxetine on the swimming behaviour of the amphipod Gammarus pulex: Comparison of short-term and long-term toxicity in the laboratory and the semi-field</a></td>
 <td style="text-align: left;">Lara M. Schuijt, Oluwafemi Olusoiji, Asmita Dubey, Pablo Rodríguez-Sánchez, Rima Osman, Paul J. van den Brink, Sanne J.P. van den Berg</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Published</td>
 <td style="text-align: left;">Science of the Total Environment</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2023-02-11</td>
 <td style="text-align: left;"><a href="https://doi.org/10.1016/j.scitotenv.2023.162177">Among-individual variation in the swimming behaviour of the amphipod Gammarus pulex under dark and light conditions</a></td>
 <td style="text-align: left;">Sanne van den Berg, Pablo Rodríguez-Sánchez, Jiayu Zhao, Oluwafemi Olusoiji, Edwin T.H.M. Peeters, Lara M. Schuijt</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Published</td>
 <td style="text-align: left;">Science of the Total Environment</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2022-03-14</td>
 <td style="text-align: left;"><a href="https://doi.org/10.1016/j.rse.2022.112991">Evaluating recovery metrics derived from optical time series over tropical forest ecosystems</a></td>
 <td style="text-align: left;">Wanda De Keersmaecker, Pablo Rodríguez-Sánchez, Milutin Milencović, Martin Herold, Johannes Reiche, Jan Verbesselt</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Published</td>
 <td style="text-align: left;">Remote Sensing of Environment</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2020-06-17</td>
 <td style="text-align: left;"><a href="https://royalsocietypublishing.org/doi/10.1098/rsos.191532">Neutral competition boosts cycles and chaos in simulated food webs</a></td>
 <td style="text-align: left;">Pablo Rodríguez-Sánchez, Egbert H. van Nes, Marten Scheffer</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Published</td>
 <td style="text-align: left;">RSOS</td>
 </tr>
 <tr class="odd">
