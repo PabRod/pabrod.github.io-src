@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 12/06/2023, 11:27:48
+Modified: 12/09/2023, 11:47:37
 
 Artículos científicos
 ---------------------
