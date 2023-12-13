@@ -6,7 +6,7 @@ Slug: education
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Education
-Modified: 12/09/2023, 11:47:29
+Modified: 12/13/2023, 12:23:44
 
 Formal education
 ----------------
