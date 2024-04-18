@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 12/13/2023, 12:23:50
+Modified: 04/18/2024, 10:39:57
 
 Scientific articles
 -------------------
@@ -26,10 +26,10 @@ I’ve been author or coauthor in 9 scientific articles:
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2023-10-18</td>
-<td style="text-align: left;"><a href="https://arxiv.org/abs/2310.11932">Quantum Radio Astronomy: Quantum Linear Solvers for Redundant Baseline Calibration</a></td>
+<td style="text-align: left;"><a href="https://doi.org/10.1016/j.ascom.2024.100803">Quantum Radio Astronomy: Quantum Linear Solvers for Redundant Baseline Calibration</a></td>
 <td style="text-align: left;">Chris Broekema, Pablo Rodríguez, et al.</td>
 <td style="text-align: left;">Preprint</td>
-<td style="text-align: left;">arXiv</td>
+<td style="text-align: left;">Astronomy and Computing</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2023-03-24</td>
