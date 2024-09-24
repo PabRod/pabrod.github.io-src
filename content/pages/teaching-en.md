@@ -6,7 +6,7 @@ Slug: teaching
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Teaching activities
-Modified: 04/18/2024, 10:39:55
+Modified: 09/24/2024, 11:58:02
 
 Teaching
 --------
@@ -14,6 +14,14 @@ Teaching
 I’ve been involved in the teaching of 20 courses:
 
 <table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 4%" />
+<col style="width: 22%" />
+<col style="width: 7%" />
+<col style="width: 13%" />
+<col style="width: 48%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Date</th>
@@ -190,4 +198,4 @@ I’ve been involved in the teaching of 20 courses:
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.4.1 and RStudio.

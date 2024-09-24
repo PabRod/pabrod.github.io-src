@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Publicaciones científicas
-Modified: 04/18/2024, 10:39:57
+Modified: 09/24/2024, 11:58:06
 
 Artículos científicos
 ---------------------
@@ -15,6 +15,13 @@ Artículos científicos
 He sido autor o coautor en 9 artículos científicos:
 
 <table>
+<colgroup>
+<col style="width: 2%" />
+<col style="width: 49%" />
+<col style="width: 36%" />
+<col style="width: 2%" />
+<col style="width: 8%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Date</th>
@@ -95,6 +102,12 @@ Tesis doctoral
 --------------
 
 <table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 65%" />
+<col style="width: 7%" />
+<col style="width: 13%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Date</th>
@@ -119,6 +132,12 @@ Libros
 He participado en la redacción de 1 libro:
 
 <table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 30%" />
+<col style="width: 15%" />
+<col style="width: 42%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Date</th>
@@ -205,4 +224,4 @@ He publicado 8 pequeños proyectos de software científico:
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.4.1 and RStudio.

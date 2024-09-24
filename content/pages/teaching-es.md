@@ -7,7 +7,7 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Actividad docente
-Modified: 04/18/2024, 10:39:56
+Modified: 09/24/2024, 11:58:03
 
 Docencia
 --------
@@ -15,6 +15,14 @@ Docencia
 He participado en la docencia de 20 cursos:
 
 <table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 4%" />
+<col style="width: 22%" />
+<col style="width: 7%" />
+<col style="width: 13%" />
+<col style="width: 48%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Date</th>
@@ -191,4 +199,4 @@ He participado en la docencia de 20 cursos:
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.4.1 and RStudio.

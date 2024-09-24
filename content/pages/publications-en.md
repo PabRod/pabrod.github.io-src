@@ -6,7 +6,7 @@ Slug: publications
 Lang: en
 Authors: Pablo Rodríguez-Sánchez
 Summary: Academic publications
-Modified: 04/18/2024, 10:39:57
+Modified: 09/24/2024, 11:58:04
 
 Scientific articles
 -------------------
@@ -14,6 +14,13 @@ Scientific articles
 I’ve been author or coauthor in 9 scientific articles:
 
 <table>
+<colgroup>
+<col style="width: 2%" />
+<col style="width: 49%" />
+<col style="width: 36%" />
+<col style="width: 2%" />
+<col style="width: 8%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Date</th>
@@ -94,6 +101,12 @@ PhD thesis
 ----------
 
 <table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 65%" />
+<col style="width: 7%" />
+<col style="width: 13%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Date</th>
@@ -118,6 +131,12 @@ Books
 I’ve been involved in the writing of 1 book:
 
 <table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 30%" />
+<col style="width: 15%" />
+<col style="width: 42%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Date</th>
@@ -204,4 +223,4 @@ I made available 8 of my small projects about scientific software:
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.4.1 and RStudio.

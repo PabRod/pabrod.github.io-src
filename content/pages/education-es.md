@@ -7,12 +7,19 @@ Lang: es
 Translation: True
 Authors: Pablo Rodríguez-Sánchez
 Summary: Estudios
-Modified: 04/18/2024, 10:39:54
+Modified: 09/24/2024, 11:58:00
 
 Estudios reglados
 -----------------
 
 <table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 16%" />
+<col style="width: 60%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Name</th>
@@ -94,6 +101,13 @@ Conferencias y talleres
 He participado en 42 conferencias, congresos y talleres:
 
 <table>
+<colgroup>
+<col style="width: 4%" />
+<col style="width: 21%" />
+<col style="width: 15%" />
+<col style="width: 7%" />
+<col style="width: 50%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Date</th>
@@ -403,4 +417,4 @@ He participado en 42 conferencias, congresos y talleres:
 
 ------------------------------------------------------------------------
 
-Built with R 4.1.2 and RStudio.
+Built with R 4.4.1 and RStudio.
